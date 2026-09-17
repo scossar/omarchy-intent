@@ -1,0 +1,11 @@
+- intention: "access"
+  description: "Open an application. Launch an application."
+
+- intention: "move"
+  description: "Move a window. Move focus to a workspace."
+
+- intention: "remove"
+  description: "Close a window."
+
+- intention: "transform"
+  description: "Resize window. Change layout."
