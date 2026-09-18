@@ -1,0 +1,1563 @@
+{
+  "0": {
+    "command": "SUPER + K",
+    "label": "Keybindings",
+    "intentions": "Access; Discovery",
+    "rationale": "Open searchable shortcut help.",
+    "source_row_label": 0
+  },
+  "1": {
+    "command": "SUPER + SPACE",
+    "label": "Omarchy menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 1
+  },
+  "2": {
+    "command": "SUPER + RETURN",
+    "label": "Terminal",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 2
+  },
+  "3": {
+    "command": "SUPER SHIFT + F",
+    "label": "File manager",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 3
+  },
+  "4": {
+    "command": "SUPER + ESCAPE",
+    "label": "System menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 4
+  },
+  "5": {
+    "command": "SUPER SHIFT CTRL + SPACE",
+    "label": "Theme menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 5
+  },
+  "6": {
+    "command": "SUPER + F",
+    "label": "Full screen",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 6
+  },
+  "7": {
+    "command": "SUPER ALT + F",
+    "label": "Full width",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 7
+  },
+  "8": {
+    "command": "SUPER + W",
+    "label": "Close window",
+    "intentions": "Removal",
+    "rationale": "Close the current window or all windows.",
+    "source_row_label": 8
+  },
+  "9": {
+    "command": "CTRL ALT + DELETE",
+    "label": "Close all windows",
+    "intentions": "Removal",
+    "rationale": "Close the current window or all windows.",
+    "source_row_label": 9
+  },
+  "10": {
+    "command": "SUPER CTRL + L",
+    "label": "Lock system",
+    "intentions": "Playback/control; State change",
+    "rationale": "Lock the session.",
+    "source_row_label": 10
+  },
+  "11": {
+    "command": "SUPER + T",
+    "label": "Toggle window floating/tiling",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 11
+  },
+  "12": {
+    "command": "SUPER + J",
+    "label": "Toggle window split",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 12
+  },
+  "13": {
+    "command": "SUPER + O",
+    "label": "Pop window out (float & pin)",
+    "intentions": "State change; Transformation; Movement",
+    "rationale": "Toggle floating/pinned presentation; popping out also resizes and centers the window.",
+    "source_row_label": 13
+  },
+  "14": {
+    "command": "SUPER + C",
+    "label": "Universal copy",
+    "intentions": "Transfer",
+    "rationale": "Transfer content through the clipboard.",
+    "source_row_label": 14
+  },
+  "15": {
+    "command": "SUPER + V",
+    "label": "Universal paste",
+    "intentions": "Transfer",
+    "rationale": "Transfer content through the clipboard.",
+    "source_row_label": 15
+  },
+  "16": {
+    "command": "SUPER + X",
+    "label": "Universal cut",
+    "intentions": "Transfer; Removal",
+    "rationale": "Cut selected content into the clipboard, removing it from its current location.",
+    "source_row_label": 16
+  },
+  "17": {
+    "command": "SUPER CTRL + V",
+    "label": "Clipboard manager",
+    "intentions": "Access; Discovery",
+    "rationale": "Open clipboard history to find and select an item; selection performs the transfer.",
+    "source_row_label": 17
+  },
+  "18": {
+    "command": "SUPER CTRL + E",
+    "label": "Emojis",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the emoji picker; inserting/copying a choice is a later action.",
+    "source_row_label": 18
+  },
+  "19": {
+    "command": "SUPER + PRINT",
+    "label": "Color picker",
+    "intentions": "Transfer; Discovery",
+    "rationale": "Inspect a screen color and copy its value; pressing again can cancel the picker.",
+    "source_row_label": 19
+  },
+  "20": {
+    "command": "PRINT",
+    "label": "Screenshot",
+    "intentions": "Transfer",
+    "rationale": "Begin interactive screen capture.",
+    "source_row_label": 20
+  },
+  "21": {
+    "command": "ALT + PRINT",
+    "label": "Screenrecording",
+    "intentions": "Transfer; Playback/control; Access; Discovery",
+    "rationale": "Stop an active recording, otherwise open recording options to begin a capture.",
+    "source_row_label": 21
+  },
+  "22": {
+    "command": "SUPER ALT + RETURN",
+    "label": "Tmux",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 22
+  },
+  "23": {
+    "command": "SUPER CTRL + RETURN",
+    "label": "Herdr",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 23
+  },
+  "24": {
+    "command": "SUPER SHIFT ALT + B",
+    "label": "Browser (private)",
+    "intentions": "Access",
+    "rationale": "Open a browser in private mode; the shortcut's main intent is launching it.",
+    "source_row_label": 24
+  },
+  "25": {
+    "command": "SUPER SHIFT + B",
+    "label": "Browser",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 25
+  },
+  "26": {
+    "command": "SUPER SHIFT ALT + F",
+    "label": "File manager (cwd)",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 26
+  },
+  "27": {
+    "command": "SUPER + 0",
+    "label": "Switch to workspace 10",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 27
+  },
+  "28": {
+    "command": "SUPER + 1",
+    "label": "Switch to workspace 1",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 28
+  },
+  "29": {
+    "command": "SUPER + 2",
+    "label": "Switch to workspace 2",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 29
+  },
+  "30": {
+    "command": "SUPER + 3",
+    "label": "Switch to workspace 3",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 30
+  },
+  "31": {
+    "command": "SUPER + 4",
+    "label": "Switch to workspace 4",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 31
+  },
+  "32": {
+    "command": "SUPER + 5",
+    "label": "Switch to workspace 5",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 32
+  },
+  "33": {
+    "command": "SUPER + 6",
+    "label": "Switch to workspace 6",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 33
+  },
+  "34": {
+    "command": "SUPER + 7",
+    "label": "Switch to workspace 7",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 34
+  },
+  "35": {
+    "command": "SUPER + 8",
+    "label": "Switch to workspace 8",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 35
+  },
+  "36": {
+    "command": "SUPER + 9",
+    "label": "Switch to workspace 9",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 36
+  },
+  "37": {
+    "command": "SUPER CTRL + TAB",
+    "label": "Former workspace",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 37
+  },
+  "38": {
+    "command": "SUPER SHIFT + TAB",
+    "label": "Previous workspace",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 38
+  },
+  "39": {
+    "command": "SUPER + TAB",
+    "label": "Next workspace",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 39
+  },
+  "40": {
+    "command": "SUPER SHIFT + 0",
+    "label": "Move window to workspace 10",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 40
+  },
+  "41": {
+    "command": "SUPER SHIFT + 1",
+    "label": "Move window to workspace 1",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 41
+  },
+  "42": {
+    "command": "SUPER SHIFT + 2",
+    "label": "Move window to workspace 2",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 42
+  },
+  "43": {
+    "command": "SUPER SHIFT + 3",
+    "label": "Move window to workspace 3",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 43
+  },
+  "44": {
+    "command": "SUPER SHIFT + 4",
+    "label": "Move window to workspace 4",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 44
+  },
+  "45": {
+    "command": "SUPER SHIFT + 5",
+    "label": "Move window to workspace 5",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 45
+  },
+  "46": {
+    "command": "SUPER SHIFT + 6",
+    "label": "Move window to workspace 6",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 46
+  },
+  "47": {
+    "command": "SUPER SHIFT + 7",
+    "label": "Move window to workspace 7",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 47
+  },
+  "48": {
+    "command": "SUPER SHIFT + 8",
+    "label": "Move window to workspace 8",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 48
+  },
+  "49": {
+    "command": "SUPER SHIFT + 9",
+    "label": "Move window to workspace 9",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 49
+  },
+  "50": {
+    "command": "SUPER SHIFT ALT + 0",
+    "label": "Move window silently to workspace 10",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 50
+  },
+  "51": {
+    "command": "SUPER SHIFT ALT + 1",
+    "label": "Move window silently to workspace 1",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 51
+  },
+  "52": {
+    "command": "SUPER SHIFT ALT + 2",
+    "label": "Move window silently to workspace 2",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 52
+  },
+  "53": {
+    "command": "SUPER SHIFT ALT + 3",
+    "label": "Move window silently to workspace 3",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 53
+  },
+  "54": {
+    "command": "SUPER SHIFT ALT + 4",
+    "label": "Move window silently to workspace 4",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 54
+  },
+  "55": {
+    "command": "SUPER SHIFT ALT + 5",
+    "label": "Move window silently to workspace 5",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 55
+  },
+  "56": {
+    "command": "SUPER SHIFT ALT + 6",
+    "label": "Move window silently to workspace 6",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 56
+  },
+  "57": {
+    "command": "SUPER SHIFT ALT + 7",
+    "label": "Move window silently to workspace 7",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 57
+  },
+  "58": {
+    "command": "SUPER SHIFT ALT + 8",
+    "label": "Move window silently to workspace 8",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 58
+  },
+  "59": {
+    "command": "SUPER SHIFT ALT + 9",
+    "label": "Move window silently to workspace 9",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 59
+  },
+  "60": {
+    "command": "SUPER SHIFT + DOWN",
+    "label": "Swap window down",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 60
+  },
+  "61": {
+    "command": "SUPER SHIFT + LEFT",
+    "label": "Swap window to the left",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 61
+  },
+  "62": {
+    "command": "SUPER SHIFT + RIGHT",
+    "label": "Swap window to the right",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 62
+  },
+  "63": {
+    "command": "SUPER SHIFT + UP",
+    "label": "Swap window up",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 63
+  },
+  "64": {
+    "command": "ALT + TAB",
+    "label": "Focus on next window",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 64
+  },
+  "65": {
+    "command": "CTRL ALT + TAB",
+    "label": "Focus on next monitor",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 65
+  },
+  "66": {
+    "command": "SHIFT ALT + TAB",
+    "label": "Focus on previous window",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 66
+  },
+  "67": {
+    "command": "SHIFT CTRL ALT + TAB",
+    "label": "Focus on previous monitor",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 67
+  },
+  "68": {
+    "command": "SUPER + DOWN",
+    "label": "Focus on below window",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 68
+  },
+  "69": {
+    "command": "SUPER + LEFT",
+    "label": "Focus on left window",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 69
+  },
+  "70": {
+    "command": "SUPER + RIGHT",
+    "label": "Focus on right window",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 70
+  },
+  "71": {
+    "command": "SUPER + UP",
+    "label": "Focus on above window",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 71
+  },
+  "72": {
+    "command": "SUPER + LEFT MOUSE BUTTON",
+    "label": "Move window",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 72
+  },
+  "73": {
+    "command": "SUPER + RIGHT MOUSE BUTTON",
+    "label": "Resize window",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Drag to change window dimensions.",
+    "source_row_label": 73
+  },
+  "74": {
+    "command": "SUPER ALT + MINUS",
+    "label": "Expand window left a little",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 74
+  },
+  "75": {
+    "command": "SUPER CTRL + MINUS",
+    "label": "Expand window left a lot",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 75
+  },
+  "76": {
+    "command": "SUPER + MINUS",
+    "label": "Expand window left",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 76
+  },
+  "77": {
+    "command": "SUPER SHIFT ALT + EQUAL",
+    "label": "Expand window down a little",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 77
+  },
+  "78": {
+    "command": "SUPER SHIFT CTRL + EQUAL",
+    "label": "Expand window down a lot",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 78
+  },
+  "79": {
+    "command": "SUPER SHIFT + EQUAL",
+    "label": "Expand window down",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 79
+  },
+  "80": {
+    "command": "SUPER ALT + EQUAL",
+    "label": "Shrink window left a little",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 80
+  },
+  "81": {
+    "command": "SUPER CTRL + EQUAL",
+    "label": "Shrink window left a lot",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 81
+  },
+  "82": {
+    "command": "SUPER + EQUAL",
+    "label": "Shrink window left",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 82
+  },
+  "83": {
+    "command": "SUPER SHIFT ALT + MINUS",
+    "label": "Shrink window up a little",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 83
+  },
+  "84": {
+    "command": "SUPER SHIFT CTRL + MINUS",
+    "label": "Shrink window up a lot",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 84
+  },
+  "85": {
+    "command": "SUPER SHIFT + MINUS",
+    "label": "Shrink window up",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize by a numeric step: little = 25, normal = 100, lot = 300; direction depends on layout.",
+    "source_row_label": 85
+  },
+  "86": {
+    "command": "SUPER ALT + S",
+    "label": "Move window to scratchpad",
+    "intentions": "Movement",
+    "rationale": "Move the window without following it.",
+    "source_row_label": 86
+  },
+  "87": {
+    "command": "SUPER + S",
+    "label": "Toggle scratchpad",
+    "intentions": "Access; Removal; State change",
+    "rationale": "Show or hide the scratchpad workspace.",
+    "source_row_label": 87
+  },
+  "88": {
+    "command": "SUPER ALT + COMMA",
+    "label": "Invoke last notification",
+    "intentions": "Access; Removal",
+    "rationale": "Invoke the newest popup's default action, then dismiss it; the action is supplied by the notifying app.",
+    "source_row_label": 88
+  },
+  "89": {
+    "command": "SUPER + COMMA",
+    "label": "Dismiss last notification",
+    "intentions": "Removal",
+    "rationale": "Dismiss the notification(s) or clear reminders.",
+    "source_row_label": 89
+  },
+  "90": {
+    "command": "SUPER CTRL + COMMA",
+    "label": "Toggle silencing notifications",
+    "intentions": "State change; Removal",
+    "rationale": "Enable or disable notification silencing; suppresses popups when enabled.",
+    "source_row_label": 90
+  },
+  "91": {
+    "command": "SUPER SHIFT ALT + COMMA",
+    "label": "Open notification history",
+    "intentions": "Access; Discovery",
+    "rationale": "Replay recent notifications from history.",
+    "source_row_label": 91
+  },
+  "92": {
+    "command": "SUPER SHIFT + COMMA",
+    "label": "Dismiss all notifications",
+    "intentions": "Removal",
+    "rationale": "Dismiss the notification(s) or clear reminders.",
+    "source_row_label": 92
+  },
+  "93": {
+    "command": "SUPER + BACKSPACE",
+    "label": "Toggle window transparency",
+    "intentions": "State change",
+    "rationale": "Toggle a visual property or display mode.",
+    "source_row_label": 93
+  },
+  "94": {
+    "command": "SUPER CTRL + N",
+    "label": "Toggle nightlight",
+    "intentions": "State change",
+    "rationale": "Toggle a visual property or display mode.",
+    "source_row_label": 94
+  },
+  "95": {
+    "command": "SUPER CTRL + I",
+    "label": "Toggle locking on idle",
+    "intentions": "State change; Removal",
+    "rationale": "Enable or disable automatic idle locking.",
+    "source_row_label": 95
+  },
+  "96": {
+    "command": "SHIFT ALT + D",
+    "label": "Download Video from Web App",
+    "intentions": "Transfer",
+    "rationale": "Download web-app media or copy its URL; provided as a web-app shortcut by the listing.",
+    "source_row_label": 96
+  },
+  "97": {
+    "command": "SHIFT ALT + L",
+    "label": "Copy URL from Web App",
+    "intentions": "Transfer",
+    "rationale": "Download web-app media or copy its URL; provided as a web-app shortcut by the listing.",
+    "source_row_label": 97
+  },
+  "98": {
+    "command": "SUPER ALT + BRACKETLEFT",
+    "label": "Make webcam overlay smaller",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Change the capture webcam overlay size.",
+    "source_row_label": 98
+  },
+  "99": {
+    "command": "SUPER ALT + BRACKETRIGHT",
+    "label": "Make webcam overlay larger",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Change the capture webcam overlay size.",
+    "source_row_label": 99
+  },
+  "100": {
+    "command": "SUPER ALT + Home",
+    "label": "Save window width",
+    "intentions": "State change",
+    "rationale": "Store the current width as the saved preference for this app and workspace.",
+    "source_row_label": 100
+  },
+  "101": {
+    "command": "SUPER ALT + SLASH",
+    "label": "Monitor scaling down",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Change display scale or zoom; reset returns zoom to 1.",
+    "source_row_label": 101
+  },
+  "102": {
+    "command": "SUPER ALT + SPACE",
+    "label": "Apps menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 102
+  },
+  "103": {
+    "command": "SUPER CTRL + 1",
+    "label": "Bar panel 1",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 103
+  },
+  "104": {
+    "command": "SUPER CTRL + 2",
+    "label": "Bar panel 2",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 104
+  },
+  "105": {
+    "command": "SUPER CTRL + 3",
+    "label": "Bar panel 3",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 105
+  },
+  "106": {
+    "command": "SUPER CTRL + 4",
+    "label": "Bar panel 4",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 106
+  },
+  "107": {
+    "command": "SUPER CTRL + 5",
+    "label": "Bar panel 5",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 107
+  },
+  "108": {
+    "command": "SUPER CTRL + 6",
+    "label": "Bar panel 6",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 108
+  },
+  "109": {
+    "command": "SUPER CTRL + 7",
+    "label": "Bar panel 7",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 109
+  },
+  "110": {
+    "command": "SUPER CTRL + 8",
+    "label": "Bar panel 8",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 110
+  },
+  "111": {
+    "command": "SUPER CTRL + 9",
+    "label": "Bar panel 9",
+    "intentions": "Access; Discovery",
+    "rationale": "Toggle the numbered panel in the bar's right section; does nothing if that panel is absent.",
+    "source_row_label": 111
+  },
+  "112": {
+    "command": "SUPER CTRL + A",
+    "label": "Audio",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the corresponding information and controls panel.",
+    "source_row_label": 112
+  },
+  "113": {
+    "command": "SUPER CTRL ALT + B",
+    "label": "Show battery remaining",
+    "intentions": "Access; Discovery",
+    "rationale": "Display the requested status or information.",
+    "source_row_label": 113
+  },
+  "114": {
+    "command": "SUPER CTRL ALT + D",
+    "label": "Calendar",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the shell clock/calendar panel.",
+    "source_row_label": 114
+  },
+  "115": {
+    "command": "SUPER CTRL ALT + Delete",
+    "label": "Toggle laptop display mirroring",
+    "intentions": "State change; Transformation",
+    "rationale": "Toggle the monitor mirroring configuration.",
+    "source_row_label": 115
+  },
+  "116": {
+    "command": "SUPER CTRL ALT + R",
+    "label": "Show reminders",
+    "intentions": "Access; Discovery",
+    "rationale": "Display the requested status or information.",
+    "source_row_label": 116
+  },
+  "117": {
+    "command": "SUPER CTRL ALT + T",
+    "label": "Show time",
+    "intentions": "Access; Discovery",
+    "rationale": "Display the requested status or information.",
+    "source_row_label": 117
+  },
+  "118": {
+    "command": "SUPER CTRL ALT + W",
+    "label": "Toggle weather",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the corresponding information and controls panel.",
+    "source_row_label": 118
+  },
+  "119": {
+    "command": "SUPER CTRL ALT + Z",
+    "label": "Reset zoom",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Change display scale or zoom; reset returns zoom to 1.",
+    "source_row_label": 119
+  },
+  "120": {
+    "command": "SUPER CTRL + BACKSPACE",
+    "label": "Toggle single-window square aspect",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 120
+  },
+  "121": {
+    "command": "SUPER CTRL + B",
+    "label": "Bluetooth",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the corresponding information and controls panel.",
+    "source_row_label": 121
+  },
+  "122": {
+    "command": "SUPER CTRL + C",
+    "label": "Capture menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 122
+  },
+  "123": {
+    "command": "SUPER CTRL + D",
+    "label": "Display",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the corresponding information and controls panel.",
+    "source_row_label": 123
+  },
+  "124": {
+    "command": "SUPER CTRL + Delete",
+    "label": "Toggle laptop display",
+    "intentions": "State change; Removal",
+    "rationale": "Enable or disable the laptop's built-in display.",
+    "source_row_label": 124
+  },
+  "125": {
+    "command": "SUPER CTRL + F",
+    "label": "Tiled full screen",
+    "intentions": "State change; Transformation",
+    "rationale": "Toggle client fullscreen while keeping the compositor's tiled layout; changes application presentation.",
+    "source_row_label": 125
+  },
+  "126": {
+    "command": "SUPER CTRL + H",
+    "label": "Hardware menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 126
+  },
+  "127": {
+    "command": "SUPER CTRL + O",
+    "label": "Toggle menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 127
+  },
+  "128": {
+    "command": "SUPER CTRL + PERIOD",
+    "label": "Transcode",
+    "intentions": "Access; Discovery; Transformation; Transfer",
+    "rationale": "Choose a file, format and resolution; convert the media and copy the output file URI to the clipboard.",
+    "source_row_label": 128
+  },
+  "129": {
+    "command": "SUPER CTRL + P",
+    "label": "Power",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the corresponding information and controls panel.",
+    "source_row_label": 129
+  },
+  "130": {
+    "command": "SUPER CTRL + PRINT",
+    "label": "Extract text (OCR) from screenshot",
+    "intentions": "Transfer; Transformation",
+    "rationale": "Capture a region, convert its image text into text, and copy it to the clipboard.",
+    "source_row_label": 130
+  },
+  "131": {
+    "command": "SUPER CTRL + Q",
+    "label": "Calculator",
+    "intentions": "Access",
+    "rationale": "Open the calculator.",
+    "source_row_label": 131
+  },
+  "132": {
+    "command": "SUPER CTRL + R",
+    "label": "Set reminder",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the reminder-setting menu; saving a reminder requires a subsequent choice.",
+    "source_row_label": 132
+  },
+  "133": {
+    "command": "SUPER CTRL + SPACE",
+    "label": "Background switcher",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 133
+  },
+  "134": {
+    "command": "SUPER CTRL + S",
+    "label": "Share",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 134
+  },
+  "135": {
+    "command": "SUPER CTRL + T",
+    "label": "Activity",
+    "intentions": "Access; Discovery",
+    "rationale": "Open btop to inspect system activity.",
+    "source_row_label": 135
+  },
+  "136": {
+    "command": "SUPER CTRL + W",
+    "label": "Network",
+    "intentions": "Access; Discovery",
+    "rationale": "Open/toggle the corresponding information and controls panel.",
+    "source_row_label": 136
+  },
+  "137": {
+    "command": "SUPER CTRL + Z",
+    "label": "Zoom in",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Change display scale or zoom; reset returns zoom to 1.",
+    "source_row_label": 137
+  },
+  "138": {
+    "command": "SUPER + Home",
+    "label": "Restore window width",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Resize toward the saved width.",
+    "source_row_label": 138
+  },
+  "139": {
+    "command": "SUPER + L",
+    "label": "Toggle workspace layout",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 139
+  },
+  "140": {
+    "command": "SUPER + P",
+    "label": "Pseudo window",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 140
+  },
+  "141": {
+    "command": "SUPER SHIFT + A",
+    "label": "ChatGPT here",
+    "intentions": "Access; Movement",
+    "rationale": "Move and focus the most recently used matching window on this workspace, or launch the app.",
+    "source_row_label": 141
+  },
+  "142": {
+    "command": "SUPER SHIFT ALT + A",
+    "label": "Grok",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 142
+  },
+  "143": {
+    "command": "SUPER SHIFT ALT + DOWN",
+    "label": "Move workspace to down monitor",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 143
+  },
+  "144": {
+    "command": "SUPER SHIFT ALT + E",
+    "label": "New email",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 144
+  },
+  "145": {
+    "command": "SUPER SHIFT ALT + G",
+    "label": "WhatsApp",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 145
+  },
+  "146": {
+    "command": "SUPER SHIFT ALT + LEFT",
+    "label": "Move workspace to left monitor",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 146
+  },
+  "147": {
+    "command": "SUPER SHIFT ALT + M",
+    "label": "Music TUI",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 147
+  },
+  "148": {
+    "command": "SUPER SHIFT ALT + RIGHT",
+    "label": "Move workspace to right monitor",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 148
+  },
+  "149": {
+    "command": "SUPER SHIFT ALT + UP",
+    "label": "Move workspace to up monitor",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 149
+  },
+  "150": {
+    "command": "SUPER SHIFT ALT + X",
+    "label": "X Post",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 150
+  },
+  "151": {
+    "command": "SUPER SHIFT + BACKSPACE",
+    "label": "Toggle window gaps",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 151
+  },
+  "152": {
+    "command": "SUPER SHIFT + C",
+    "label": "Calendar",
+    "intentions": "Access",
+    "rationale": "Open the HEY Calendar web app.",
+    "source_row_label": 152
+  },
+  "153": {
+    "command": "SUPER SHIFT CTRL + A",
+    "label": "Agent",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the agent picker.",
+    "source_row_label": 153
+  },
+  "154": {
+    "command": "SUPER SHIFT CTRL + D",
+    "label": "Word lookup",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the local spelling/word lookup panel.",
+    "source_row_label": 154
+  },
+  "155": {
+    "command": "SUPER SHIFT CTRL + G",
+    "label": "Google Messages",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 155
+  },
+  "156": {
+    "command": "SUPER SHIFT CTRL + LEFT",
+    "label": "Floating window to top left",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 156
+  },
+  "157": {
+    "command": "SUPER SHIFT CTRL + R",
+    "label": "Clear reminders",
+    "intentions": "Removal",
+    "rationale": "Dismiss the notification(s) or clear reminders.",
+    "source_row_label": 157
+  },
+  "158": {
+    "command": "SUPER SHIFT CTRL + RIGHT",
+    "label": "Floating window to top right",
+    "intentions": "Movement",
+    "rationale": "Move the window or workspace to another position or destination.",
+    "source_row_label": 158
+  },
+  "159": {
+    "command": "SUPER SHIFT + D",
+    "label": "Docker",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 159
+  },
+  "160": {
+    "command": "SUPER SHIFT + E",
+    "label": "Email",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 160
+  },
+  "161": {
+    "command": "SUPER SHIFT + G",
+    "label": "Signal",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 161
+  },
+  "162": {
+    "command": "SUPER SHIFT + M",
+    "label": "Music",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 162
+  },
+  "163": {
+    "command": "SUPER SHIFT + N",
+    "label": "Editor",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 163
+  },
+  "164": {
+    "command": "SUPER SHIFT + O",
+    "label": "Obsidian here",
+    "intentions": "Access; Movement",
+    "rationale": "Move and focus the most recently used matching window on this workspace, or launch the app.",
+    "source_row_label": 164
+  },
+  "165": {
+    "command": "SUPER SHIFT + P",
+    "label": "Google Photos",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 165
+  },
+  "166": {
+    "command": "SUPER SHIFT + RETURN",
+    "label": "Floating terminal",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 166
+  },
+  "167": {
+    "command": "SUPER SHIFT + S",
+    "label": "Google Maps",
+    "intentions": "Access; Movement",
+    "rationale": "Launch the app, or move attention to an existing matching window.",
+    "source_row_label": 167
+  },
+  "168": {
+    "command": "SUPER SHIFT + SLASH",
+    "label": "Passwords",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 168
+  },
+  "169": {
+    "command": "SUPER SHIFT + SPACE",
+    "label": "Toggle top bar",
+    "intentions": "Access; Removal; State change",
+    "rationale": "Show or hide the top bar.",
+    "source_row_label": 169
+  },
+  "170": {
+    "command": "SUPER SHIFT + W",
+    "label": "Omawrite",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 170
+  },
+  "171": {
+    "command": "SUPER SHIFT + X",
+    "label": "X",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 171
+  },
+  "172": {
+    "command": "SUPER SHIFT + Y",
+    "label": "YouTube",
+    "intentions": "Access",
+    "rationale": "Open the named application or entry point.",
+    "source_row_label": 172
+  },
+  "173": {
+    "command": "SUPER + SLASH",
+    "label": "Monitor scaling up",
+    "intentions": "Transformation; Adjustment",
+    "rationale": "Change display scale or zoom; reset returns zoom to 1.",
+    "source_row_label": 173
+  },
+  "174": {
+    "command": "SUPER ALT + 1",
+    "label": "Switch to group window 1",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 174
+  },
+  "175": {
+    "command": "SUPER ALT + 2",
+    "label": "Switch to group window 2",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 175
+  },
+  "176": {
+    "command": "SUPER ALT + 3",
+    "label": "Switch to group window 3",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 176
+  },
+  "177": {
+    "command": "SUPER ALT + 4",
+    "label": "Switch to group window 4",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 177
+  },
+  "178": {
+    "command": "SUPER ALT + 5",
+    "label": "Switch to group window 5",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 178
+  },
+  "179": {
+    "command": "SUPER ALT + DOWN",
+    "label": "Move window to group on bottom",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 179
+  },
+  "180": {
+    "command": "SUPER ALT + G",
+    "label": "Move active window out of group",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 180
+  },
+  "181": {
+    "command": "SUPER ALT + LEFT",
+    "label": "Move window to group on left",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 181
+  },
+  "182": {
+    "command": "SUPER ALT + mouse_down",
+    "label": "Next window in group",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 182
+  },
+  "183": {
+    "command": "SUPER ALT + mouse_up",
+    "label": "Previous window in group",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 183
+  },
+  "184": {
+    "command": "SUPER ALT + RIGHT",
+    "label": "Move window to group on right",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 184
+  },
+  "185": {
+    "command": "SUPER ALT + TAB",
+    "label": "Next window in group",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 185
+  },
+  "186": {
+    "command": "SUPER ALT + UP",
+    "label": "Move window to group on top",
+    "intentions": "Movement; Transformation",
+    "rationale": "Reposition the window and rearrange its layout or group membership.",
+    "source_row_label": 186
+  },
+  "187": {
+    "command": "SUPER CTRL + LEFT",
+    "label": "Move grouped window focus left",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 187
+  },
+  "188": {
+    "command": "SUPER CTRL + RIGHT",
+    "label": "Move grouped window focus right",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 188
+  },
+  "189": {
+    "command": "SUPER + G",
+    "label": "Toggle window grouping",
+    "intentions": "State change; Transformation",
+    "rationale": "Change the window or workspace layout/geometry mode.",
+    "source_row_label": 189
+  },
+  "190": {
+    "command": "SUPER SHIFT ALT + TAB",
+    "label": "Previous window in group",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 190
+  },
+  "191": {
+    "command": "SUPER + mouse_down",
+    "label": "Scroll active workspace forward",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 191
+  },
+  "192": {
+    "command": "SUPER + mouse_up",
+    "label": "Scroll active workspace backward",
+    "intentions": "Movement",
+    "rationale": "Move attention to another window, workspace, group member or monitor.",
+    "source_row_label": 192
+  },
+  "193": {
+    "command": "ALT + TAB",
+    "label": "Reveal active window on top",
+    "intentions": "Access",
+    "rationale": "Raise the active window to reveal it above overlapping windows.",
+    "source_row_label": 193
+  },
+  "194": {
+    "command": "ALT + XF86AudioLowerVolume",
+    "label": "Volume down precise",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 195
+  },
+  "195": {
+    "command": "ALT + XF86AudioPlay",
+    "label": "Next track",
+    "intentions": "Playback/control",
+    "rationale": "Control media playback; both Play and Pause bindings actually toggle play/pause.",
+    "source_row_label": 196
+  },
+  "196": {
+    "command": "ALT + XF86AudioRaiseVolume",
+    "label": "Volume up precise",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 197
+  },
+  "197": {
+    "command": "ALT + XF86MonBrightnessDown",
+    "label": "Brightness down precise",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 198
+  },
+  "198": {
+    "command": "ALT + XF86MonBrightnessUp",
+    "label": "Brightness up precise",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 199
+  },
+  "199": {
+    "command": "SHIFT ALT + XF86AudioPlay",
+    "label": "Previous track",
+    "intentions": "Playback/control",
+    "rationale": "Control media playback; both Play and Pause bindings actually toggle play/pause.",
+    "source_row_label": 200
+  },
+  "200": {
+    "command": "SHIFT + XF86AudioMute",
+    "label": "Switch audio output",
+    "intentions": "State change; Playback/control",
+    "rationale": "Change the audio output device or the media source controlled by playback shortcuts.",
+    "source_row_label": 201
+  },
+  "201": {
+    "command": "SHIFT + XF86AudioPause",
+    "label": "Pause media source",
+    "intentions": "State change; Playback/control",
+    "rationale": "Change the audio output device or the media source controlled by playback shortcuts.",
+    "source_row_label": 202
+  },
+  "202": {
+    "command": "SHIFT + XF86AudioPlay",
+    "label": "Play media source",
+    "intentions": "State change; Playback/control",
+    "rationale": "Change the audio output device or the media source controlled by playback shortcuts.",
+    "source_row_label": 203
+  },
+  "203": {
+    "command": "SHIFT + XF86MonBrightnessDown",
+    "label": "Brightness minimum",
+    "intentions": "Adjustment",
+    "rationale": "Set display brightness to 1%.",
+    "source_row_label": 204
+  },
+  "204": {
+    "command": "SHIFT + XF86MonBrightnessUp",
+    "label": "Brightness maximum",
+    "intentions": "Adjustment",
+    "rationale": "Set display brightness to 100%.",
+    "source_row_label": 205
+  },
+  "205": {
+    "command": "XF86AudioLowerVolume",
+    "label": "Volume down",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 206
+  },
+  "206": {
+    "command": "XF86AudioMicMute",
+    "label": "Mute microphone",
+    "intentions": "State change; Playback/control",
+    "rationale": "Toggle microphone or output mute.",
+    "source_row_label": 207
+  },
+  "207": {
+    "command": "XF86AudioMute",
+    "label": "Mute",
+    "intentions": "State change; Playback/control",
+    "rationale": "Toggle microphone or output mute.",
+    "source_row_label": 208
+  },
+  "208": {
+    "command": "XF86AudioPause",
+    "label": "Pause",
+    "intentions": "Playback/control",
+    "rationale": "Control media playback; both Play and Pause bindings actually toggle play/pause.",
+    "source_row_label": 210
+  },
+  "209": {
+    "command": "XF86AudioPlay",
+    "label": "Play",
+    "intentions": "Playback/control",
+    "rationale": "Control media playback; both Play and Pause bindings actually toggle play/pause.",
+    "source_row_label": 211
+  },
+  "210": {
+    "command": "XF86AudioRaiseVolume",
+    "label": "Volume up",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 213
+  },
+  "211": {
+    "command": "XF86Eject",
+    "label": "Eject media",
+    "intentions": "Removal; Playback/control",
+    "rationale": "Eject removable media.",
+    "source_row_label": 215
+  },
+  "212": {
+    "command": "XF86KbdBrightnessDown",
+    "label": "Keyboard brightness down",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 216
+  },
+  "213": {
+    "command": "XF86KbdBrightnessUp",
+    "label": "Keyboard brightness up",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 217
+  },
+  "214": {
+    "command": "XF86KbdLightOnOff",
+    "label": "Keyboard backlight cycle",
+    "intentions": "Adjustment",
+    "rationale": "Advance keyboard brightness by a step, wrapping to zero above the maximum.",
+    "source_row_label": 218
+  },
+  "215": {
+    "command": "XF86MonBrightnessDown",
+    "label": "Brightness down",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 219
+  },
+  "216": {
+    "command": "XF86MonBrightnessUp",
+    "label": "Brightness up",
+    "intentions": "Adjustment",
+    "rationale": "Raise or lower volume or brightness.",
+    "source_row_label": 220
+  },
+  "217": {
+    "command": "XF86PowerOff",
+    "label": "Power menu",
+    "intentions": "Access; Discovery",
+    "rationale": "Open the named menu to discover and choose an action.",
+    "source_row_label": 221
+  },
+  "218": {
+    "command": "XF86TouchpadOff",
+    "label": "Disable touchpad",
+    "intentions": "Removal; State change",
+    "rationale": "Disable touchpad input.",
+    "source_row_label": 222
+  },
+  "219": {
+    "command": "XF86TouchpadOn",
+    "label": "Enable touchpad",
+    "intentions": "State change",
+    "rationale": "Enable touchpad input or toggle whether it is enabled.",
+    "source_row_label": 223
+  },
+  "220": {
+    "command": "XF86TouchpadToggle",
+    "label": "Toggle touchpad",
+    "intentions": "State change",
+    "rationale": "Enable touchpad input or toggle whether it is enabled.",
+    "source_row_label": 224
+  },
+  "221": {
+    "command": "SUPER ALT + K",
+    "label": "Tmux keybindings",
+    "intentions": "Access; Discovery",
+    "rationale": "Open searchable shortcut help.",
+    "source_row_label": 225
+  },
+  "222": {
+    "command": "SUPER CTRL + K",
+    "label": "Herdr keybindings",
+    "intentions": "Access; Discovery",
+    "rationale": "Open searchable shortcut help.",
+    "source_row_label": 226
+  }
+}

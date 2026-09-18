@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "training_records": 11150,
+  "classes": 223,
+  "records_per_class": 50,
+  "labels": {
+    "minimum": 0,
+    "maximum": 222,
+    "contiguous": true
+  },
+  "schema": "Each JSONL record has exactly query:string and label:integer.",
+  "parse_errors": 0,
+  "schema_errors": 0,
+  "exact_duplicate_queries": 0,
+  "normalized_duplicate_queries": 0,
+  "mouse_navigation_rule_failures": 0,
+  "media_source_rule_failures": 0,
+  "shortcut_sequence_mentions": 0,
+  "semantic_review_reports": 6,
+  "semantic_issues_corrected": 185,
+  "removed_rows_absent": true,
+  "label_map_matches_expected_class_count": true
+}

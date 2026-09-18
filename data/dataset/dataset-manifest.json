@@ -1,0 +1,70 @@
+{
+  "source": "/home/scossar/simons-uploads/user-intentions.md",
+  "source_unchanged": true,
+  "numbering": "Remaining rows are numbered contiguously from 0 in original relative order.",
+  "source_row_label_definition": "Zero-based position in the original Complete Classification table.",
+  "removed_rows": [
+    {
+      "original_row_label": 194,
+      "command": "SHIFT ALT + TAB",
+      "label": "Reveal active window on top",
+      "reason": "Erroneous duplicate; SHIFT ALT + TAB is retained for Focus on previous window."
+    },
+    {
+      "original_row_label": 209,
+      "command": "XF86AudioNext",
+      "label": "Next track",
+      "reason": "Duplicate next-track action; retain ALT + XF86AudioPlay."
+    },
+    {
+      "original_row_label": 212,
+      "command": "XF86AudioPrev",
+      "label": "Previous track",
+      "reason": "Duplicate previous-track action; retain SHIFT ALT + XF86AudioPlay."
+    },
+    {
+      "original_row_label": 214,
+      "command": "XF86Calculator",
+      "label": "Calculator",
+      "reason": "Duplicate calculator action; retain SUPER CTRL + Q."
+    }
+  ],
+  "relabeled_rows": [
+    {
+      "original_row_label": 202,
+      "command": "SHIFT + XF86AudioPause",
+      "old_label": "Switch media source",
+      "new_label": "Pause media source",
+      "reason": "Dataset label clarified using the keybinding-help context and expected user interpretation."
+    },
+    {
+      "original_row_label": 203,
+      "command": "SHIFT + XF86AudioPlay",
+      "old_label": "Switch media source",
+      "new_label": "Play media source",
+      "reason": "Dataset label clarified using the keybinding-help context and expected user interpretation."
+    }
+  ],
+  "mouse_group_navigation_rule": "Every training example for SUPER ALT + mouse_down and SUPER ALT + mouse_up must explicitly mention the mouse, mouse wheel, or scrolling.",
+  "spelling_rule": "Use proper spelling. Grammar and phrasing may be informal or imperfect.",
+  "counts": {
+    "source_rows": 227,
+    "removed_rows": 4,
+    "training_classes": 223,
+    "examples_per_class": 50,
+    "expected_training_examples": 11150
+  },
+  "artifacts": {
+    "training_data": "train.jsonl",
+    "label_map": "label-map.json",
+    "row_metadata": "row-metadata.json",
+    "validation_report": "validation-report.json"
+  },
+  "quality_control": {
+    "semantic_review_reports": 6,
+    "reviewed_records": 11150,
+    "reviewed_issues_corrected": 185,
+    "post_review_duplicate_replacements": 15,
+    "evaluation_set_included": false
+  }
+}
