@@ -6,7 +6,7 @@ from pathlib import Path
 
 import yaml
 
-DATA_PATH = Path(__file__).parent / "data" / "intentions.yaml"
+DATA_PATH = Path(__file__).parent / "data" / "user-intentions.yaml"
 
 
 def populate(database: Path) -> int:
