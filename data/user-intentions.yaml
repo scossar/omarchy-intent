@@ -1,0 +1,26 @@
+- intention: "access"
+  description: "I want to open an app, launch a program, bring up a tool or menu, show a panel, or reveal a window. Open my terminal, browser, file manager, or editor. Bring an application into view so I can use it."
+
+- intention: "movement"
+  description: "I want to move to another window, switch workspaces, focus a different monitor, or go back to where I was working. Move a window to another workspace or screen, put it in a different position, or bring an existing app to my current workspace."
+
+- intention: "removal"
+  description: "I want to close a window, quit an app, dismiss a notification, clear reminders, or hide something from view. Get rid of what is on my screen, close all windows, disable a device or feature, or stop notifications from appearing."
+
+- intention: "transformation"
+  description: "I want to resize a window, make it wider or smaller, rearrange windows, or change the desktop layout. Make a window full screen, switch between floating and tiled windows, change window groups or gaps, or scale the display. Convert an image or video to another format or size, or turn text in an image into editable text."
+
+- intention: "state_change"
+  description: "I want to turn a feature on or off, toggle a setting, or change which mode is active. Enable or disable night light, transparency, automatic locking, display mirroring, or the touchpad. Set a window to floating, tiled, pinned, or full screen, mute or unmute audio, or choose a different audio device."
+
+- intention: "transfer"
+  description: "I want to copy, paste, or cut text or other content, copy a link or color, download a video, or share a file with another device. Take a screenshot, record my screen, or extract text from an image into the clipboard so I can save it or use it elsewhere."
+
+- intention: "adjustment"
+  description: "I want to turn the volume up or down, make the screen brighter or dimmer, or adjust the keyboard backlight. Increase or decrease a level, make a window a little wider or narrower, zoom in or out, change display scaling, or reset a size or level to a preferred value."
+
+- intention: "playback/control"
+  description: "I want to play or pause media, resume playback, skip to the next track, or go back to the previous track. Switch the media source or audio output, mute sound, or stop a screen recording. Lock my session, suspend the computer, restart it, power it off, or eject removable media."
+
+- intention: "discovery"
+  description: "I want to find an app, command, setting, or keyboard shortcut, see the available options, or learn how to perform an action. Show a menu, keybinding help, clipboard history, or previous notifications. Look up a word, check the time, calendar, weather, battery, reminders, or system activity, or inspect network, audio, and device information."

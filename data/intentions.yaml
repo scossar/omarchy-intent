@@ -1,11 +1,15 @@
+# Encompases the concepts of opening, launching, showing, revealing
 - intention: "access"
   description: "Open an application. Launch an application."
 
+# Encompases the ideas of moving attention, moving an object
 - intention: "move"
   description: "Move a window. Move focus to a workspace."
 
+# Encompases the ideas of closing, dismissing, clearing, disabling
 - intention: "remove"
   description: "Close a window."
 
+# Encompases the ideas of resizing, rearranging, scaling, changing a layout
 - intention: "transform"
   description: "Resize window. Change layout."
