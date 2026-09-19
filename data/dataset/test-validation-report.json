@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "holdout_records": 2230,
+  "classes": 223,
+  "records_per_class": 10,
+  "labels": {
+    "minimum": 0,
+    "maximum": 222,
+    "contiguous": true
+  },
+  "schema": "Each JSONL record has exactly query:string and label:integer.",
+  "parse_errors": 0,
+  "schema_errors": 0,
+  "exact_duplicate_queries": 0,
+  "normalized_duplicate_queries": 0,
+  "normalized_training_overlaps": 0,
+  "mouse_navigation_rule_failures": 0,
+  "media_source_rule_failures": 0,
+  "shortcut_sequence_mentions": 0,
+  "semantic_review_reports": 5,
+  "semantic_issues_corrected": 13,
+  "intended_split": "Stratify each label into 5 validation and 5 final-test examples."
+}

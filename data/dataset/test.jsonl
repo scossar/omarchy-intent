@@ -1,0 +1,2230 @@
+{"query":"Bring up the searchable keyboard command index","label":0}
+{"query":"Display the system hotkey catalog","label":0}
+{"query":"Access the keyboard binding reference","label":0}
+{"query":"Launch the shortcut discovery guide","label":0}
+{"query":"Let me look through the available key commands","label":0}
+{"query":"Where can I search for a keyboard action?","label":0}
+{"query":"Pull up the guide to configured hotkeys","label":0}
+{"query":"I forgot how to trigger an action, so show the keyboard reference","label":0}
+{"query":"Before I continue, let me search the catalog of key commands","label":0}
+{"query":"Need hotkey guide","label":0}
+{"query":"Bring the Omarchy action menu into view","label":1}
+{"query":"Display Omarchy's main menu","label":1}
+{"query":"Launch the primary Omarchy choices menu","label":1}
+{"query":"Access the main menu for Omarchy actions","label":1}
+{"query":"Let me look over the main Omarchy choices","label":1}
+{"query":"Take me to the menu where Omarchy actions are listed","label":1}
+{"query":"Present the central list of Omarchy options","label":1}
+{"query":"I have not decided what to do yet, so show Omarchy's main choices","label":1}
+{"query":"Before my next action, let me browse the primary Omarchy menu","label":1}
+{"query":"Omarchy choices, please","label":1}
+{"query":"Launch a terminal emulator","label":2}
+{"query":"Create a fresh shell window","label":2}
+{"query":"Bring up a command-line terminal","label":2}
+{"query":"Start an interactive terminal window","label":2}
+{"query":"Give me a shell to work in","label":2}
+{"query":"Let me work from a new command prompt","label":2}
+{"query":"Put a command-line window in front of me","label":2}
+{"query":"I need to run a few shell commands, so start a terminal","label":2}
+{"query":"For this setup task, give me a fresh terminal emulator","label":2}
+{"query":"Want a shell window","label":2}
+{"query":"Launch the graphical file browser","label":3}
+{"query":"Bring up a folder browsing window","label":3}
+{"query":"Start the desktop file explorer","label":3}
+{"query":"Display the graphical file manager","label":3}
+{"query":"Let me navigate my folders visually","label":3}
+{"query":"Give me a window for browsing files and directories","label":3}
+{"query":"Take me to the desktop's file browsing application","label":3}
+{"query":"I need to locate a document, so bring up the file browser","label":3}
+{"query":"Open a general file manager so I can sort some documents","label":3}
+{"query":"Want the folder browser","label":3}
+{"query":"Bring up the operating system actions menu","label":4}
+{"query":"Display the main system controls menu","label":4}
+{"query":"Launch the system-level options menu","label":4}
+{"query":"Access the menu of system actions","label":4}
+{"query":"Let me browse the computer's main controls","label":4}
+{"query":"Take me to the list of system-level choices","label":4}
+{"query":"Present the menu for managing the system","label":4}
+{"query":"I need to find a machine-level action, so show the system controls","label":4}
+{"query":"Before changing anything, let me inspect the system options menu","label":4}
+{"query":"Want system controls","label":4}
+{"query":"Bring up the appearance theme selector","label":5}
+{"query":"Display the desktop theme choices","label":5}
+{"query":"Launch the visual theme selection menu","label":5}
+{"query":"Access the menu of interface themes","label":5}
+{"query":"Let me browse the available visual styles","label":5}
+{"query":"Take me to where desktop themes can be selected","label":5}
+{"query":"Present the appearance preset choices","label":5}
+{"query":"I want a different desktop look, so show the theme selector","label":5}
+{"query":"Before restyling the interface, let me inspect the available themes","label":5}
+{"query":"Want appearance choices","label":5}
+{"query":"Make the active window occupy the entire screen","label":6}
+{"query":"Exit full-screen presentation for this window","label":6}
+{"query":"Toggle whether the current window fills the screen","label":6}
+{"query":"Restore this full-screen window to a regular window","label":6}
+{"query":"Expand the active application across the whole display","label":6}
+{"query":"Bring this application back from its screen-filling view","label":6}
+{"query":"Change the active window between regular and screen-filling display","label":6}
+{"query":"The video window is too small, so let it occupy the whole screen","label":6}
+{"query":"I need the other applications visible again, so leave full screen","label":6}
+{"query":"Make it fill screen","label":6}
+{"query":"Stretch the active window across the available horizontal space","label":7}
+{"query":"Undo the full-width state of this window","label":7}
+{"query":"Toggle whether this window spans the complete width","label":7}
+{"query":"Take this edge-to-edge-wide window back to its ordinary horizontal span","label":7}
+{"query":"Widen this window to use all horizontal room","label":7}
+{"query":"Bring the window back from edge-to-edge width","label":7}
+{"query":"Change between ordinary and maximum horizontal width","label":7}
+{"query":"This document is cramped horizontally, so stretch its window across the workspace","label":7}
+{"query":"The wide window is taking too much room, so return it to normal width","label":7}
+{"query":"Make window wide","label":7}
+{"query":"Close the active application window","label":8}
+{"query":"Dismiss the window currently in focus","label":8}
+{"query":"Remove the current window from the desktop","label":8}
+{"query":"Shut the focused window","label":8}
+{"query":"Get rid of the window I am using","label":8}
+{"query":"Make this one window go away","label":8}
+{"query":"End the currently displayed window","label":8}
+{"query":"I am finished with this editor window, so close it","label":8}
+{"query":"This dialog is no longer needed; dismiss its window","label":8}
+{"query":"Close this one","label":8}
+{"query":"Close every open application window","label":9}
+{"query":"Dismiss all windows on the desktop","label":9}
+{"query":"Shut every currently open window","label":9}
+{"query":"Remove all application windows at once","label":9}
+{"query":"Clear the desktop of every open window","label":9}
+{"query":"Get rid of all the windows I have open","label":9}
+{"query":"Make every visible application window go away","label":9}
+{"query":"I am done working, so close all of my open windows","label":9}
+{"query":"Before I leave, shut every application window that remains open","label":9}
+{"query":"Close everything open","label":9}
+{"query":"Lock the current desktop session","label":10}
+{"query":"Secure the computer by locking it","label":10}
+{"query":"Put the system on its lock screen","label":10}
+{"query":"Require authentication before this session can be used again","label":10}
+{"query":"Prevent anyone from using my open session","label":10}
+{"query":"Take me to the locked sign-in screen","label":10}
+{"query":"Secure my desktop until I authenticate again","label":10}
+{"query":"I am stepping away for lunch, so lock this computer","label":10}
+{"query":"Keep my work open but require authentication before anyone can use it","label":10}
+{"query":"Lock it now","label":10}
+{"query":"Change the active tiled window into a floating window","label":11}
+{"query":"Return the current floating window to the tiled layout","label":11}
+{"query":"Toggle the focused window between floating and tiled placement","label":11}
+{"query":"Make this window participate in tiling again","label":11}
+{"query":"Detach this window from the tiled arrangement","label":11}
+{"query":"Put the floating application back into the automatic layout","label":11}
+{"query":"Switch how the current window is managed between free and tiled positioning","label":11}
+{"query":"I need to position this dialog freely, so make its window float","label":11}
+{"query":"This floating window should line up with the others, so tile it again","label":11}
+{"query":"Float this window","label":11}
+{"query":"Toggle the orientation of the current window split","label":12}
+{"query":"Change this split from horizontal to vertical","label":12}
+{"query":"Change this split from vertical to horizontal","label":12}
+{"query":"Flip the active layout split direction","label":12}
+{"query":"Rotate how the two window areas are divided","label":12}
+{"query":"Use the other orientation for this window division","label":12}
+{"query":"Reverse the direction of the current tiled split","label":12}
+{"query":"These windows are side by side; change their split to a stacked arrangement","label":12}
+{"query":"The panes are stacked now, so divide the layout from left to right instead","label":12}
+{"query":"Flip split direction","label":12}
+{"query":"Pop the current window out as floating and pinned","label":13}
+{"query":"Reintegrate this pinned floating window into its prior layout","label":13}
+{"query":"Turn this window into a centered pinned pop-out","label":13}
+{"query":"Make the focused window a floating pinned panel","label":13}
+{"query":"Pull this application out of the layout and keep it on top","label":13}
+{"query":"Detach and center this window as a persistent overlay","label":13}
+{"query":"Give the current window a pinned pop-out presentation","label":13}
+{"query":"I need this reference visible over my other work, so pop it out and pin it","label":13}
+{"query":"Center this small window as a floating panel that stays visible","label":13}
+{"query":"Make this a pinned floating centerpiece","label":13}
+{"query":"Copy the current selection using universal copy","label":14}
+{"query":"Place the selected content onto the clipboard universally","label":14}
+{"query":"Perform a universal copy of this selection","label":14}
+{"query":"Send the highlighted item to the clipboard with universal copy","label":14}
+{"query":"Keep a clipboard duplicate of what I selected","label":14}
+{"query":"Capture the selected content for later pasting","label":14}
+{"query":"Store a copy of this item in the shared clipboard","label":14}
+{"query":"I want to reuse this paragraph elsewhere, so copy it to the clipboard","label":14}
+{"query":"Save the highlighted image on the clipboard without removing the original","label":14}
+{"query":"Copy selection universally","label":14}
+{"query":"Paste the clipboard contents using universal paste","label":15}
+{"query":"Insert the copied item with universal paste","label":15}
+{"query":"Perform a universal paste at the current location","label":15}
+{"query":"Place the clipboard content into the active application","label":15}
+{"query":"Insert whatever I copied most recently","label":15}
+{"query":"Put the clipboard's current item here","label":15}
+{"query":"Transfer the saved clipboard content into this field","label":15}
+{"query":"I copied an address earlier; insert it into this form field","label":15}
+{"query":"The cursor is in the document, so place the clipboard text at this position","label":15}
+{"query":"Paste it here","label":15}
+{"query":"Cut the current selection using universal cut","label":16}
+{"query":"Remove the selected content and place it on the clipboard","label":16}
+{"query":"Perform a universal cut on this selection","label":16}
+{"query":"Transfer the highlighted item to the clipboard by cutting it","label":16}
+{"query":"Take this selection out while keeping it ready to paste","label":16}
+{"query":"Move the highlighted content onto the clipboard","label":16}
+{"query":"Extract this item from its current place for later insertion","label":16}
+{"query":"I want to move this paragraph elsewhere, so cut it from the document","label":16}
+{"query":"Remove the selected file from here and retain it on the clipboard","label":16}
+{"query":"Cut selection universally","label":16}
+{"query":"Bring up the clipboard history manager","label":17}
+{"query":"Display the clipboard manager interface","label":17}
+{"query":"Open the list of previously copied items","label":17}
+{"query":"Access my clipboard history","label":17}
+{"query":"Let me choose from things I copied earlier","label":17}
+{"query":"Show me the recent contents saved by the clipboard","label":17}
+{"query":"Present the clipboard item chooser","label":17}
+{"query":"I need text I copied several steps ago, so open the clipboard history","label":17}
+{"query":"Instead of the latest item, let me select an older entry from the clipboard manager","label":17}
+{"query":"Need copied-item history","label":17}
+{"query":"Bring up the emoji selection panel","label":18}
+{"query":"Display the emoji browser","label":18}
+{"query":"Open the emoji character chooser","label":18}
+{"query":"Access the emoji picker interface","label":18}
+{"query":"Let me browse pictographs to insert","label":18}
+{"query":"Show me a searchable list of emoji characters","label":18}
+{"query":"Present the panel for choosing an emoji","label":18}
+{"query":"I want to add a reaction symbol to this message, so open the emoji browser","label":18}
+{"query":"While typing this note, let me pick an emoji character","label":18}
+{"query":"Need an emoji chooser","label":18}
+{"query":"Activate the on-screen color sampler","label":19}
+{"query":"Start the color picker for a screen pixel","label":19}
+{"query":"Inspect a display color and copy its value","label":19}
+{"query":"Launch the screen color selection tool","label":19}
+{"query":"Let me sample a color visible on the display","label":19}
+{"query":"Give me the color value from a point on screen","label":19}
+{"query":"Use the eyedropper tool to capture a pixel's color","label":19}
+{"query":"I need the exact color of this icon, so let me sample it from the screen","label":19}
+{"query":"For this design, inspect the background pixel and copy its color value","label":19}
+{"query":"Pick screen color","label":19}
+{"query":"Begin an interactive screenshot capture","label":20}
+{"query":"Start the screen capture selector","label":20}
+{"query":"Take a screenshot using the interactive tool","label":20}
+{"query":"Launch the region screenshot interface","label":20}
+{"query":"Let me select part of the display to capture","label":20}
+{"query":"Give me a still image of an area I choose","label":20}
+{"query":"Bring up the tool for capturing a screen region","label":20}
+{"query":"I need an image of this error message, so start an interactive screenshot","label":20}
+{"query":"For the documentation, let me choose and capture part of the display","label":20}
+{"query":"Grab a screen region","label":20}
+{"query":"Open the screen recording options","label":21}
+{"query":"Stop the active screen recording","label":21}
+{"query":"Bring up the controls for starting a screen recording","label":21}
+{"query":"End the screen capture video currently in progress","label":21}
+{"query":"Let me choose how to record the display","label":21}
+{"query":"Show me the available screen video capture choices","label":21}
+{"query":"Finish recording what is happening on my screen","label":21}
+{"query":"I need to demonstrate this workflow, so open the screen recording setup","label":21}
+{"query":"The demonstration is complete, so stop recording the display now","label":21}
+{"query":"Screen recording options","label":21}
+{"query":"Launch a tmux session","label":22}
+{"query":"Open the tmux terminal multiplexer","label":22}
+{"query":"Start tmux in a terminal","label":22}
+{"query":"Bring up a new tmux environment","label":22}
+{"query":"Give me a multiplexed terminal session","label":22}
+{"query":"Let me work inside tmux","label":22}
+{"query":"Create a terminal workspace managed by tmux","label":22}
+{"query":"I need several shell panes for this task, so start tmux","label":22}
+{"query":"For this long-running command, launch a tmux environment","label":22}
+{"query":"Want tmux session","label":22}
+{"query":"Bring Herdr onto the screen","label":23}
+{"query":"Start a new Herdr instance","label":23}
+{"query":"Launch the Herdr workspace tool","label":23}
+{"query":"Open up the Herdr program","label":23}
+{"query":"I'd like to get into Herdr","label":23}
+{"query":"Put Herdr in front of me","label":23}
+{"query":"Fire up Herdr so it's ready","label":23}
+{"query":"I'm about to work with Herdr, so bring it onscreen","label":23}
+{"query":"Herdr is the application I need next; start it","label":23}
+{"query":"Herdr, get it open","label":23}
+{"query":"Create a private browser window","label":24}
+{"query":"Launch the browser with privacy mode on","label":24}
+{"query":"Begin a private web session","label":24}
+{"query":"Open an incognito-style browser session","label":24}
+{"query":"Let me surf without the regular browsing session","label":24}
+{"query":"Give me a fresh private web window","label":24}
+{"query":"Bring up the browser's private session","label":24}
+{"query":"I need to visit a site without using my normal browser session","label":24}
+{"query":"For this sensitive lookup, start the browser in private mode","label":24}
+{"query":"Private browsing window, quick","label":24}
+{"query":"Create a regular browser window","label":25}
+{"query":"Start my standard web browser","label":25}
+{"query":"Bring a web browser onto the screen","label":25}
+{"query":"Launch a normal browsing session","label":25}
+{"query":"Let me get online in the usual browser","label":25}
+{"query":"Put a browser in front of me","label":25}
+{"query":"Fire up something for browsing the internet","label":25}
+{"query":"I need to check a website, so start the regular browser","label":25}
+{"query":"For my next task, bring up a standard web window","label":25}
+{"query":"Browser, get it going","label":25}
+{"query":"Launch a file manager from the present directory","label":26}
+{"query":"Open this working folder with a graphical file manager","label":26}
+{"query":"Start the file browser at my current path","label":26}
+{"query":"Display the present folder in a file-management window","label":26}
+{"query":"Let me manage the files right where I am","label":26}
+{"query":"Give me a graphical browser rooted here","label":26}
+{"query":"Bring this location up in the file manager","label":26}
+{"query":"I am working in this directory and want to inspect it graphically","label":26}
+{"query":"Use my shell's current location as the file manager's starting folder","label":26}
+{"query":"Open the graphical file browser at the directory I am currently in","label":26}
+{"query":"Switch my view to workspace number 10","label":27}
+{"query":"Focus the desktop workspace numbered 10","label":27}
+{"query":"Activate desktop number 10 as my workspace","label":27}
+{"query":"Navigate directly into workspace 10","label":27}
+{"query":"Put workspace 10 in front of me","label":27}
+{"query":"I'd like to see desktop workspace 10","label":27}
+{"query":"Take my desktop over to workspace 10","label":27}
+{"query":"My apps are on workspace 10; change my view there","label":27}
+{"query":"I'm done here and want to work from workspace 10","label":27}
+{"query":"Workspace 10, switch me there","label":27}
+{"query":"Switch my view to workspace number 1","label":28}
+{"query":"Focus the desktop workspace numbered 1","label":28}
+{"query":"Activate desktop number 1 as my workspace","label":28}
+{"query":"Navigate directly into workspace 1","label":28}
+{"query":"Put workspace 1 in front of me","label":28}
+{"query":"I'd like to see desktop workspace 1","label":28}
+{"query":"Take my desktop over to workspace 1","label":28}
+{"query":"My apps are on workspace 1; change my view there","label":28}
+{"query":"I'm done here and want to work from workspace 1","label":28}
+{"query":"Workspace 1, switch me there","label":28}
+{"query":"Switch my view to workspace number 2","label":29}
+{"query":"Focus the desktop workspace numbered 2","label":29}
+{"query":"Activate desktop number 2 as my workspace","label":29}
+{"query":"Navigate directly into workspace 2","label":29}
+{"query":"Put workspace 2 in front of me","label":29}
+{"query":"I'd like to see desktop workspace 2","label":29}
+{"query":"Take my desktop over to workspace 2","label":29}
+{"query":"My apps are on workspace 2; change my view there","label":29}
+{"query":"I'm done here and want to work from workspace 2","label":29}
+{"query":"Workspace 2, switch me there","label":29}
+{"query":"Switch my view to workspace number 3","label":30}
+{"query":"Focus the desktop workspace numbered 3","label":30}
+{"query":"Activate desktop number 3 as my workspace","label":30}
+{"query":"Navigate directly into workspace 3","label":30}
+{"query":"Put workspace 3 in front of me","label":30}
+{"query":"I'd like to see desktop workspace 3","label":30}
+{"query":"Take my desktop over to workspace 3","label":30}
+{"query":"My apps are on workspace 3; change my view there","label":30}
+{"query":"I'm done here and want to work from workspace 3","label":30}
+{"query":"Workspace 3, switch me there","label":30}
+{"query":"Switch my view to workspace number 4","label":31}
+{"query":"Focus the desktop workspace numbered 4","label":31}
+{"query":"Activate desktop number 4 as my workspace","label":31}
+{"query":"Navigate directly into workspace 4","label":31}
+{"query":"Put workspace 4 in front of me","label":31}
+{"query":"I'd like to see desktop workspace 4","label":31}
+{"query":"Take my desktop over to workspace 4","label":31}
+{"query":"My apps are on workspace 4; change my view there","label":31}
+{"query":"I'm done here and want to work from workspace 4","label":31}
+{"query":"Workspace 4, switch me there","label":31}
+{"query":"Switch my view to workspace number 5","label":32}
+{"query":"Focus the desktop workspace numbered 5","label":32}
+{"query":"Activate desktop number 5 as my workspace","label":32}
+{"query":"Navigate directly into workspace 5","label":32}
+{"query":"Put workspace 5 in front of me","label":32}
+{"query":"I'd like to see desktop workspace 5","label":32}
+{"query":"Take my desktop over to workspace 5","label":32}
+{"query":"My apps are on workspace 5; change my view there","label":32}
+{"query":"I'm done here and want to work from workspace 5","label":32}
+{"query":"Workspace 5, switch me there","label":32}
+{"query":"Switch my view to workspace number 6","label":33}
+{"query":"Focus the desktop workspace numbered 6","label":33}
+{"query":"Activate desktop number 6 as my workspace","label":33}
+{"query":"Navigate directly into workspace 6","label":33}
+{"query":"Put workspace 6 in front of me","label":33}
+{"query":"I'd like to see desktop workspace 6","label":33}
+{"query":"Take my desktop over to workspace 6","label":33}
+{"query":"My apps are on workspace 6; change my view there","label":33}
+{"query":"I'm done here and want to work from workspace 6","label":33}
+{"query":"Workspace 6, switch me there","label":33}
+{"query":"Switch my view to workspace number 7","label":34}
+{"query":"Focus the desktop workspace numbered 7","label":34}
+{"query":"Activate desktop number 7 as my workspace","label":34}
+{"query":"Navigate directly into workspace 7","label":34}
+{"query":"Put workspace 7 in front of me","label":34}
+{"query":"I'd like to see desktop workspace 7","label":34}
+{"query":"Take my desktop over to workspace 7","label":34}
+{"query":"My apps are on workspace 7; change my view there","label":34}
+{"query":"I'm done here and want to work from workspace 7","label":34}
+{"query":"Workspace 7, switch me there","label":34}
+{"query":"Switch my view to workspace number 8","label":35}
+{"query":"Focus the desktop workspace numbered 8","label":35}
+{"query":"Activate desktop number 8 as my workspace","label":35}
+{"query":"Navigate directly into workspace 8","label":35}
+{"query":"Put workspace 8 in front of me","label":35}
+{"query":"I'd like to see desktop workspace 8","label":35}
+{"query":"Take my desktop over to workspace 8","label":35}
+{"query":"My apps are on workspace 8; change my view there","label":35}
+{"query":"I'm done here and want to work from workspace 8","label":35}
+{"query":"Workspace 8, switch me there","label":35}
+{"query":"Switch my view to workspace number 9","label":36}
+{"query":"Focus the desktop workspace numbered 9","label":36}
+{"query":"Activate desktop number 9 as my workspace","label":36}
+{"query":"Navigate directly into workspace 9","label":36}
+{"query":"Put workspace 9 in front of me","label":36}
+{"query":"I'd like to see desktop workspace 9","label":36}
+{"query":"Take my desktop over to workspace 9","label":36}
+{"query":"My apps are on workspace 9; change my view there","label":36}
+{"query":"I'm done here and want to work from workspace 9","label":36}
+{"query":"Workspace 9, switch me there","label":36}
+{"query":"Return focus to the workspace used just before this one","label":37}
+{"query":"Toggle back to my most recently viewed workspace","label":37}
+{"query":"Activate whichever workspace I came from","label":37}
+{"query":"Restore the last active workspace","label":37}
+{"query":"Take me back to where I was working a moment ago","label":37}
+{"query":"Put my previous location in front of me again","label":37}
+{"query":"Swap back to the desktop I most recently left","label":37}
+{"query":"I changed workspaces by mistake; return to the one I was on","label":37}
+{"query":"My other task is on the workspace I just left, so take me back","label":37}
+{"query":"Back where I was","label":37}
+{"query":"Shift to the workspace immediately lower in sequence","label":38}
+{"query":"Focus the preceding desktop in workspace order","label":38}
+{"query":"Activate one workspace earlier in the sequence","label":38}
+{"query":"Navigate backward by a single workspace","label":38}
+{"query":"Take the desktop one position to the left in the workspace order","label":38}
+{"query":"Step backward through my virtual desktops","label":38}
+{"query":"Put the preceding numbered workspace in front","label":38}
+{"query":"I am moving through the workspace sequence; go back exactly one position","label":38}
+{"query":"The task I need is on the workspace directly before this in order","label":38}
+{"query":"Workspace before this, go","label":38}
+{"query":"Shift to the workspace immediately higher in sequence","label":39}
+{"query":"Focus the succeeding desktop in workspace order","label":39}
+{"query":"Activate one workspace later in the sequence","label":39}
+{"query":"Navigate ahead by a single workspace","label":39}
+{"query":"Take the desktop one position to the right in the workspace order","label":39}
+{"query":"Step ahead through my virtual desktops","label":39}
+{"query":"Put the succeeding numbered workspace in front","label":39}
+{"query":"I am moving through the workspace sequence; advance exactly one position","label":39}
+{"query":"The task I need is on the workspace directly after this in order","label":39}
+{"query":"Workspace after this, go","label":39}
+{"query":"Move the current app window onto workspace 10","label":40}
+{"query":"Assign the focused window to workspace 10","label":40}
+{"query":"Rehome this window on workspace 10","label":40}
+{"query":"Place whichever window is active onto workspace 10","label":40}
+{"query":"Carry this window across to workspace 10","label":40}
+{"query":"Put the app I'm using over on workspace 10","label":40}
+{"query":"Move this onscreen window into desktop 10","label":40}
+{"query":"I'm organizing my desktop; file this window under workspace 10","label":40}
+{"query":"This app belongs with my work on workspace 10, so move its window there","label":40}
+{"query":"Current window goes workspace 10","label":40}
+{"query":"Move the current app window onto workspace 1","label":41}
+{"query":"Assign the focused window to workspace 1","label":41}
+{"query":"Rehome this window on workspace 1","label":41}
+{"query":"Place whichever window is active onto workspace 1","label":41}
+{"query":"Carry this window across to workspace 1","label":41}
+{"query":"Put the app I'm using over on workspace 1","label":41}
+{"query":"Move this onscreen window into desktop 1","label":41}
+{"query":"I'm organizing my desktop; file this window under workspace 1","label":41}
+{"query":"This app belongs with my work on workspace 1, so move its window there","label":41}
+{"query":"Current window goes workspace 1","label":41}
+{"query":"Move the current app window onto workspace 2","label":42}
+{"query":"Assign the focused window to workspace 2","label":42}
+{"query":"Rehome this window on workspace 2","label":42}
+{"query":"Place whichever window is active onto workspace 2","label":42}
+{"query":"Carry this window across to workspace 2","label":42}
+{"query":"Put the app I'm using over on workspace 2","label":42}
+{"query":"Move this onscreen window into desktop 2","label":42}
+{"query":"I'm organizing my desktop; file this window under workspace 2","label":42}
+{"query":"This app belongs with my work on workspace 2, so move its window there","label":42}
+{"query":"Current window goes workspace 2","label":42}
+{"query":"Move the current app window onto workspace 3","label":43}
+{"query":"Assign the focused window to workspace 3","label":43}
+{"query":"Rehome this window on workspace 3","label":43}
+{"query":"Place whichever window is active onto workspace 3","label":43}
+{"query":"Carry this window across to workspace 3","label":43}
+{"query":"Put the app I'm using over on workspace 3","label":43}
+{"query":"Move this onscreen window into desktop 3","label":43}
+{"query":"I'm organizing my desktop; file this window under workspace 3","label":43}
+{"query":"This app belongs with my work on workspace 3, so move its window there","label":43}
+{"query":"Current window goes workspace 3","label":43}
+{"query":"Move the current app window onto workspace 4","label":44}
+{"query":"Assign the focused window to workspace 4","label":44}
+{"query":"Rehome this window on workspace 4","label":44}
+{"query":"Place whichever window is active onto workspace 4","label":44}
+{"query":"Carry this window across to workspace 4","label":44}
+{"query":"Put the app I'm using over on workspace 4","label":44}
+{"query":"Move this onscreen window into desktop 4","label":44}
+{"query":"I'm organizing my desktop; file this window under workspace 4","label":44}
+{"query":"This app belongs with my work on workspace 4, so move its window there","label":44}
+{"query":"Current window goes workspace 4","label":44}
+{"query":"Move the current app window onto workspace 5","label":45}
+{"query":"Assign the focused window to workspace 5","label":45}
+{"query":"Rehome this window on workspace 5","label":45}
+{"query":"Place whichever window is active onto workspace 5","label":45}
+{"query":"Carry this window across to workspace 5","label":45}
+{"query":"Put the app I'm using over on workspace 5","label":45}
+{"query":"Move this onscreen window into desktop 5","label":45}
+{"query":"I'm organizing my desktop; file this window under workspace 5","label":45}
+{"query":"This app belongs with my work on workspace 5, so move its window there","label":45}
+{"query":"Current window goes workspace 5","label":45}
+{"query":"Route the active window to workspace 6","label":46}
+{"query":"Assign this window to workspace 6","label":46}
+{"query":"Move whichever window has focus onto workspace 6","label":46}
+{"query":"Deliver the current app window to workspace 6","label":46}
+{"query":"Could you move this window across to workspace 6?","label":46}
+{"query":"I'd like this window shifted over to workspace 6","label":46}
+{"query":"Have the frontmost window relocated onto workspace 6","label":46}
+{"query":"I'm organizing my desktop; move this window to workspace 6","label":46}
+{"query":"This app is on the wrong desktop, so place its window in workspace 6","label":46}
+{"query":"Window goes workspace 6","label":46}
+{"query":"Route the active window to workspace 7","label":47}
+{"query":"Assign this window to workspace 7","label":47}
+{"query":"Move whichever window has focus onto workspace 7","label":47}
+{"query":"Deliver the current app window to workspace 7","label":47}
+{"query":"Could you move this window across to workspace 7?","label":47}
+{"query":"I'd like this window shifted over to workspace 7","label":47}
+{"query":"Have the frontmost window relocated onto workspace 7","label":47}
+{"query":"I'm organizing my desktop; move this window to workspace 7","label":47}
+{"query":"This app is on the wrong desktop, so place its window in workspace 7","label":47}
+{"query":"Window goes workspace 7","label":47}
+{"query":"Route the active window to workspace 8","label":48}
+{"query":"Assign this window to workspace 8","label":48}
+{"query":"Move whichever window has focus onto workspace 8","label":48}
+{"query":"Deliver the current app window to workspace 8","label":48}
+{"query":"Could you move this window across to workspace 8?","label":48}
+{"query":"I'd like this window shifted over to workspace 8","label":48}
+{"query":"Have the frontmost window relocated onto workspace 8","label":48}
+{"query":"I'm organizing my desktop; move this window to workspace 8","label":48}
+{"query":"This app is on the wrong desktop, so place its window in workspace 8","label":48}
+{"query":"Window goes workspace 8","label":48}
+{"query":"Route the active window to workspace 9","label":49}
+{"query":"Assign this window to workspace 9","label":49}
+{"query":"Move whichever window has focus onto workspace 9","label":49}
+{"query":"Deliver the current app window to workspace 9","label":49}
+{"query":"Could you move this window across to workspace 9?","label":49}
+{"query":"I'd like this window shifted over to workspace 9","label":49}
+{"query":"Have the frontmost window relocated onto workspace 9","label":49}
+{"query":"I'm organizing my desktop; move this window to workspace 9","label":49}
+{"query":"This app is on the wrong desktop, so place its window in workspace 9","label":49}
+{"query":"Window goes workspace 9","label":49}
+{"query":"Dispatch the active window to workspace 10 without following it","label":50}
+{"query":"Assign this window to workspace 10 while keeping this workspace active","label":50}
+{"query":"Relocate the focused window to workspace 10 without taking me there","label":50}
+{"query":"Move the frontmost app to workspace 10 and leave focus here","label":50}
+{"query":"Could you park this window on workspace 10 while I stay put?","label":50}
+{"query":"File this window under workspace 10 but keep showing my present workspace","label":50}
+{"query":"Have the current window moved to workspace 10 behind the scenes","label":50}
+{"query":"I'm still working here; send the active window away to workspace 10","label":50}
+{"query":"This app can wait on workspace 10, but do not change my current view","label":50}
+{"query":"Window to 10, me stay here","label":50}
+{"query":"Dispatch the active window to workspace 1 without following it","label":51}
+{"query":"Assign this window to workspace 1 while keeping this workspace active","label":51}
+{"query":"Relocate the focused window to workspace 1 without taking me there","label":51}
+{"query":"Move the frontmost app to workspace 1 and leave focus here","label":51}
+{"query":"Could you park this window on workspace 1 while I stay put?","label":51}
+{"query":"File this window under workspace 1 but keep showing my present workspace","label":51}
+{"query":"Have the current window moved to workspace 1 behind the scenes","label":51}
+{"query":"I'm still working here; send the active window away to workspace 1","label":51}
+{"query":"This app can wait on workspace 1, but do not change my current view","label":51}
+{"query":"Window to 1, me stay here","label":51}
+{"query":"Dispatch the active window to workspace 2 without following it","label":52}
+{"query":"Assign this window to workspace 2 while keeping this workspace active","label":52}
+{"query":"Relocate the focused window to workspace 2 without taking me there","label":52}
+{"query":"Move the frontmost app to workspace 2 and leave focus here","label":52}
+{"query":"Could you park this window on workspace 2 while I stay put?","label":52}
+{"query":"File this window under workspace 2 but keep showing my present workspace","label":52}
+{"query":"Have the current window moved to workspace 2 behind the scenes","label":52}
+{"query":"I'm still working here; send the active window away to workspace 2","label":52}
+{"query":"This app can wait on workspace 2, but do not change my current view","label":52}
+{"query":"Window to 2, me stay here","label":52}
+{"query":"Dispatch the active window to workspace 3 without following it","label":53}
+{"query":"Assign this window to workspace 3 while keeping this workspace active","label":53}
+{"query":"Relocate the focused window to workspace 3 without taking me there","label":53}
+{"query":"Move the frontmost app to workspace 3 and leave focus here","label":53}
+{"query":"Could you park this window on workspace 3 while I stay put?","label":53}
+{"query":"File this window under workspace 3 but keep showing my present workspace","label":53}
+{"query":"Have the current window moved to workspace 3 behind the scenes","label":53}
+{"query":"I'm still working here; send the active window away to workspace 3","label":53}
+{"query":"This app can wait on workspace 3, but do not change my current view","label":53}
+{"query":"Window to 3, me stay here","label":53}
+{"query":"Dispatch the active window to workspace 4 without following it","label":54}
+{"query":"Assign this window to workspace 4 while keeping this workspace active","label":54}
+{"query":"Relocate the focused window to workspace 4 without taking me there","label":54}
+{"query":"Move the frontmost app to workspace 4 and leave focus here","label":54}
+{"query":"Could you park this window on workspace 4 while I stay put?","label":54}
+{"query":"File this window under workspace 4 but keep showing my present workspace","label":54}
+{"query":"Have the current window moved to workspace 4 behind the scenes","label":54}
+{"query":"I'm still working here; send the active window away to workspace 4","label":54}
+{"query":"This app can wait on workspace 4, but do not change my current view","label":54}
+{"query":"Window to 4, me stay here","label":54}
+{"query":"Dispatch the active window to workspace 5 without following it","label":55}
+{"query":"Assign this window to workspace 5 while keeping this workspace active","label":55}
+{"query":"Relocate the focused window to workspace 5 without taking me there","label":55}
+{"query":"Move the frontmost app to workspace 5 and leave focus here","label":55}
+{"query":"Could you park this window on workspace 5 while I stay put?","label":55}
+{"query":"File this window under workspace 5 but keep showing my present workspace","label":55}
+{"query":"Have the current window moved to workspace 5 behind the scenes","label":55}
+{"query":"I'm still working here; send the active window away to workspace 5","label":55}
+{"query":"This app can wait on workspace 5, but do not change my current view","label":55}
+{"query":"Window to 5, me stay here","label":55}
+{"query":"Dispatch the active window to workspace 6 without following it","label":56}
+{"query":"Assign this window to workspace 6 while keeping this workspace active","label":56}
+{"query":"Relocate the focused window to workspace 6 without taking me there","label":56}
+{"query":"Move the frontmost app to workspace 6 and leave focus here","label":56}
+{"query":"Could you park this window on workspace 6 while I stay put?","label":56}
+{"query":"File this window under workspace 6 but keep showing my present workspace","label":56}
+{"query":"Have the current window moved to workspace 6 behind the scenes","label":56}
+{"query":"I'm still working here; send the active window away to workspace 6","label":56}
+{"query":"This app can wait on workspace 6, but do not change my current view","label":56}
+{"query":"Window to 6, me stay here","label":56}
+{"query":"Dispatch the active window to workspace 7 without following it","label":57}
+{"query":"Assign this window to workspace 7 while keeping this workspace active","label":57}
+{"query":"Relocate the focused window to workspace 7 without taking me there","label":57}
+{"query":"Move the frontmost app to workspace 7 and leave focus here","label":57}
+{"query":"Could you park this window on workspace 7 while I stay put?","label":57}
+{"query":"File this window under workspace 7 but keep showing my present workspace","label":57}
+{"query":"Have the current window moved to workspace 7 behind the scenes","label":57}
+{"query":"I'm still working here; send the active window away to workspace 7","label":57}
+{"query":"This app can wait on workspace 7, but do not change my current view","label":57}
+{"query":"Window to 7, me stay here","label":57}
+{"query":"Dispatch the active window to workspace 8 without following it","label":58}
+{"query":"Assign this window to workspace 8 while keeping this workspace active","label":58}
+{"query":"Relocate the focused window to workspace 8 without taking me there","label":58}
+{"query":"Move the frontmost app to workspace 8 and leave focus here","label":58}
+{"query":"Could you park this window on workspace 8 while I stay put?","label":58}
+{"query":"File this window under workspace 8 but keep showing my present workspace","label":58}
+{"query":"Have the current window moved to workspace 8 behind the scenes","label":58}
+{"query":"I'm still working here; send the active window away to workspace 8","label":58}
+{"query":"This app can wait on workspace 8, but do not change my current view","label":58}
+{"query":"Window to 8, me stay here","label":58}
+{"query":"Dispatch the active window to workspace 9 without following it","label":59}
+{"query":"Assign this window to workspace 9 while keeping this workspace active","label":59}
+{"query":"Relocate the focused window to workspace 9 without taking me there","label":59}
+{"query":"Move the frontmost app to workspace 9 and leave focus here","label":59}
+{"query":"Could you park this window on workspace 9 while I stay put?","label":59}
+{"query":"File this window under workspace 9 but keep showing my present workspace","label":59}
+{"query":"Have the current window moved to workspace 9 behind the scenes","label":59}
+{"query":"I'm still working here; send the active window away to workspace 9","label":59}
+{"query":"This app can wait on workspace 9, but do not change my current view","label":59}
+{"query":"Window to 9, me stay here","label":59}
+{"query":"Exchange the active window with the tile directly below","label":60}
+{"query":"Swap the focused window into the lower neighboring position","label":60}
+{"query":"Reorder this window by trading it with the one beneath it","label":60}
+{"query":"Move the current window downward through a positional swap","label":60}
+{"query":"Let this window trade spots with the tile underneath","label":60}
+{"query":"Bump the active window one place lower in the arrangement","label":60}
+{"query":"Have the front window exchange places with its lower neighbor","label":60}
+{"query":"The lower tile should come here, with this window taking its place","label":60}
+{"query":"While arranging these tiles, swap the app in focus with the one below it","label":60}
+{"query":"Swap window lower","label":60}
+{"query":"Exchange the active window with the tile directly left of it","label":61}
+{"query":"Swap the focused window into the neighboring position on its left","label":61}
+{"query":"Reorder this window by trading it with the one beside it on the left","label":61}
+{"query":"Move the current window leftward through a positional swap","label":61}
+{"query":"Let this window trade spots with the tile on its left side","label":61}
+{"query":"Bump the active window one place leftward in the arrangement","label":61}
+{"query":"Have the front window exchange places with its left-side neighbor","label":61}
+{"query":"The left tile should come here, with this window taking its place","label":61}
+{"query":"While arranging these tiles, swap the app in focus with the one on its left","label":61}
+{"query":"Swap window leftward","label":61}
+{"query":"Exchange the active window with the tile directly right of it","label":62}
+{"query":"Swap the focused window into the neighboring position on its right","label":62}
+{"query":"Reorder this window by trading it with the one beside it on the right","label":62}
+{"query":"Move the current window rightward through a positional swap","label":62}
+{"query":"Let this window trade spots with the tile on its right side","label":62}
+{"query":"Bump the active window one place rightward in the arrangement","label":62}
+{"query":"Have the front window exchange places with its right-side neighbor","label":62}
+{"query":"The right tile should come here, with this window taking its place","label":62}
+{"query":"While arranging these tiles, swap the app in focus with the one on its right","label":62}
+{"query":"Swap window rightward","label":62}
+{"query":"Exchange the active window with the tile directly above","label":63}
+{"query":"Swap the focused window into the upper neighboring position","label":63}
+{"query":"Reorder this window by trading it with the one above it","label":63}
+{"query":"Move the current window upward through a positional swap","label":63}
+{"query":"Let this window trade spots with the tile overhead","label":63}
+{"query":"Bump the active window one place higher in the arrangement","label":63}
+{"query":"Have the front window exchange places with its upper neighbor","label":63}
+{"query":"The upper tile should come here, with this window taking its place","label":63}
+{"query":"While arranging these tiles, swap the app in focus with the one above it","label":63}
+{"query":"Swap window higher","label":63}
+{"query":"Pass focus to the window that follows this one","label":64}
+{"query":"Advance to the following open window","label":64}
+{"query":"Set the succeeding window as active","label":64}
+{"query":"Continue the window cycle forward once","label":64}
+{"query":"Let me use whichever window comes after this one","label":64}
+{"query":"Step ahead by one window without rearranging anything","label":64}
+{"query":"Hand keyboard control to the following application window","label":64}
+{"query":"I am finished here for now; focus the window after this one","label":64}
+{"query":"Keep every window in place and advance focus by one","label":64}
+{"query":"Window focus forward","label":64}
+{"query":"Pass focus to the monitor that follows this one","label":65}
+{"query":"Advance to the following connected display","label":65}
+{"query":"Set the succeeding monitor as active","label":65}
+{"query":"Continue the display cycle forward once","label":65}
+{"query":"Let me use whichever screen comes after this one","label":65}
+{"query":"Step ahead by one monitor without relocating any windows","label":65}
+{"query":"Hand keyboard control to the following display","label":65}
+{"query":"I want to work on another screen; focus the monitor after this one","label":65}
+{"query":"Keep every window in place and advance display focus by one","label":65}
+{"query":"Monitor focus forward","label":65}
+{"query":"Pass focus to the window that precedes this one","label":66}
+{"query":"Return to the preceding open window","label":66}
+{"query":"Set the prior window as active","label":66}
+{"query":"Run the window cycle backward once","label":66}
+{"query":"Let me use whichever window comes before this one","label":66}
+{"query":"Step back by one window without rearranging anything","label":66}
+{"query":"Hand keyboard control to the preceding application window","label":66}
+{"query":"I need the app I just passed; focus the window before this one","label":66}
+{"query":"Keep every window in place and move focus back by one","label":66}
+{"query":"Window focus backward","label":66}
+{"query":"Pass focus to the monitor that precedes this one","label":67}
+{"query":"Return to the preceding connected display","label":67}
+{"query":"Set the prior monitor as active","label":67}
+{"query":"Run the display cycle backward once","label":67}
+{"query":"Let me use whichever screen comes before this one","label":67}
+{"query":"Step back by one monitor without relocating any windows","label":67}
+{"query":"Hand keyboard control to the preceding display","label":67}
+{"query":"I need the screen I just passed; focus the monitor before this one","label":67}
+{"query":"Keep every window in place and move display focus back by one","label":67}
+{"query":"Monitor focus backward","label":67}
+{"query":"Focus the window directly below","label":68}
+{"query":"Move focus to the window underneath","label":68}
+{"query":"Select the window below the current one","label":68}
+{"query":"Give focus to the lower window","label":68}
+{"query":"Shift my attention one window downward","label":68}
+{"query":"Go to the neighboring window beneath this one","label":68}
+{"query":"Activate the next window in the downward direction","label":68}
+{"query":"I am done here; focus the window immediately below","label":68}
+{"query":"Without moving anything, select the window under this one","label":68}
+{"query":"Focus lower window","label":68}
+{"query":"Focus the window directly to the left","label":69}
+{"query":"Move focus to the window on the left side","label":69}
+{"query":"Select the window left of the current one","label":69}
+{"query":"Give focus to the left-hand window","label":69}
+{"query":"Shift my attention one window leftward","label":69}
+{"query":"Go to the neighboring window on this one's left","label":69}
+{"query":"Activate the next window in the leftward direction","label":69}
+{"query":"I need the window beside this one on the left to be active","label":69}
+{"query":"Without rearranging the layout, focus the window to my left","label":69}
+{"query":"Focus left-side window","label":69}
+{"query":"Focus the window directly to the right","label":70}
+{"query":"Move focus to the window on the right side","label":70}
+{"query":"Select the window right of the current one","label":70}
+{"query":"Give focus to the right-hand window","label":70}
+{"query":"Shift my attention one window rightward","label":70}
+{"query":"Go to the neighboring window on this one's right","label":70}
+{"query":"Activate the next window in the rightward direction","label":70}
+{"query":"I need the window beside this one on the right to be active","label":70}
+{"query":"Without rearranging the layout, focus the window to my right","label":70}
+{"query":"Focus right-side window","label":70}
+{"query":"Focus the window directly above","label":71}
+{"query":"Move focus to the window overhead","label":71}
+{"query":"Select the window above the current one","label":71}
+{"query":"Give focus to the upper window","label":71}
+{"query":"Shift my attention one window upward","label":71}
+{"query":"Go to the neighboring window over this one","label":71}
+{"query":"Activate the next window in the upward direction","label":71}
+{"query":"I am finished here; focus the window immediately above","label":71}
+{"query":"Without moving anything, select the window over this one","label":71}
+{"query":"Focus upper window","label":71}
+{"query":"Move the current window","label":72}
+{"query":"Reposition the active window","label":72}
+{"query":"Drag this window to another location","label":72}
+{"query":"Change the position of this window","label":72}
+{"query":"Let me place this window somewhere else","label":72}
+{"query":"Relocate the focused window on the desktop","label":72}
+{"query":"Allow me to drag the window into position","label":72}
+{"query":"This window is covering my work, so let me move it aside","label":72}
+{"query":"Keep the window open while I reposition it on screen","label":72}
+{"query":"Move this one around","label":72}
+{"query":"Resize the current window","label":73}
+{"query":"Change the active window's dimensions","label":73}
+{"query":"Drag to adjust this window's size","label":73}
+{"query":"Alter the size of the focused window","label":73}
+{"query":"Let me make the window a different size","label":73}
+{"query":"Adjust this window by dragging its boundary","label":73}
+{"query":"Give me control over the window dimensions","label":73}
+{"query":"The content feels cramped, so let me resize its window","label":73}
+{"query":"Keep this window in place while I change its width and height","label":73}
+{"query":"Resize this one","label":73}
+{"query":"Expand the window slightly toward the left","label":74}
+{"query":"Extend the window's left edge a little","label":74}
+{"query":"Make the window a little wider on its left side","label":74}
+{"query":"Increase the window size leftward by a small step","label":74}
+{"query":"Nudge the left boundary outward just a bit","label":74}
+{"query":"Add a small amount of width on the window's left","label":74}
+{"query":"Grow this window modestly in the leftward direction","label":74}
+{"query":"I only need a touch more room, so extend the window leftward","label":74}
+{"query":"The left side is cramped; expand it by the smallest increment","label":74}
+{"query":"Slightly wider to the left","label":74}
+{"query":"Expand the window far toward the left","label":75}
+{"query":"Extend the window's left edge by a large amount","label":75}
+{"query":"Make the window much wider on its left side","label":75}
+{"query":"Increase the window size leftward by a large step","label":75}
+{"query":"Push the left boundary outward substantially","label":75}
+{"query":"Add a generous amount of width on the window's left","label":75}
+{"query":"Grow this window considerably in the leftward direction","label":75}
+{"query":"I need plenty more room, so extend the window well to the left","label":75}
+{"query":"The left side needs major expansion; use the largest increment","label":75}
+{"query":"Much wider to the left","label":75}
+{"query":"Expand the window toward the left","label":76}
+{"query":"Extend the window's left edge outward","label":76}
+{"query":"Make the window wider on its left side","label":76}
+{"query":"Increase the window size in the leftward direction","label":76}
+{"query":"Push the left boundary farther out","label":76}
+{"query":"Add more width on the window's left","label":76}
+{"query":"Grow this window leftward by the regular amount","label":76}
+{"query":"I need more horizontal room, so extend this window to the left","label":76}
+{"query":"The content needs space on the left; expand that side normally","label":76}
+{"query":"Wider toward the left","label":76}
+{"query":"Give the window a slight downward expansion","label":77}
+{"query":"Extend the window's bottom edge a little","label":77}
+{"query":"Make the window a little taller at the bottom","label":77}
+{"query":"Increase the window size downward by a small step","label":77}
+{"query":"Nudge the lower boundary outward just a bit","label":77}
+{"query":"Add a small amount of height beneath the window","label":77}
+{"query":"Grow this window modestly in the downward direction","label":77}
+{"query":"I only need a touch more room, so extend the window downward","label":77}
+{"query":"The bottom is cramped; expand it by the smallest increment","label":77}
+{"query":"Tiny downward window growth","label":77}
+{"query":"Give the window a major downward expansion","label":78}
+{"query":"Extend the window's bottom edge by a large amount","label":78}
+{"query":"Make the window much taller at the bottom","label":78}
+{"query":"Increase the window size downward by a large step","label":78}
+{"query":"Push the lower boundary outward substantially","label":78}
+{"query":"Add a generous amount of height beneath the window","label":78}
+{"query":"Grow this window considerably in the downward direction","label":78}
+{"query":"I need plenty more room, so extend the window well downward","label":78}
+{"query":"The bottom needs major expansion; use the largest increment","label":78}
+{"query":"Big downward window growth","label":78}
+{"query":"Give the window a downward expansion","label":79}
+{"query":"Extend the window's bottom edge outward","label":79}
+{"query":"Make the window taller at the bottom","label":79}
+{"query":"Increase the window size in the downward direction","label":79}
+{"query":"Push the lower boundary farther out","label":79}
+{"query":"Add more height beneath the window","label":79}
+{"query":"Grow this window downward by the regular amount","label":79}
+{"query":"I need more vertical room, so extend this window downward","label":79}
+{"query":"The content needs space below; expand the bottom normally","label":79}
+{"query":"Taller toward the bottom","label":79}
+{"query":"Give the window a slight contraction from the left","label":80}
+{"query":"Bring the window's left edge inward a little","label":80}
+{"query":"Make the window a little narrower on its left side","label":80}
+{"query":"Reduce the window size from the left by a small step","label":80}
+{"query":"Nudge the left boundary inward just a bit","label":80}
+{"query":"Remove a small amount of width from the window's left","label":80}
+{"query":"Contract this window modestly from the left side","label":80}
+{"query":"It is just a touch too wide, so trim the window from the left","label":80}
+{"query":"Reclaim a little space by shrinking the window's left side","label":80}
+{"query":"Slightly narrower from left","label":80}
+{"query":"Shrink the window heavily from the left","label":81}
+{"query":"Bring the window's left edge inward by a large amount","label":81}
+{"query":"Make the window much narrower on its left side","label":81}
+{"query":"Reduce the window size from the left by a large step","label":81}
+{"query":"Pull the left boundary inward substantially","label":81}
+{"query":"Remove a generous amount of width from the window's left","label":81}
+{"query":"Contract this window considerably from the left side","label":81}
+{"query":"It is far too wide, so trim a lot from the window's left","label":81}
+{"query":"Reclaim substantial space by shrinking the left side as much as possible","label":81}
+{"query":"Much narrower from left","label":81}
+{"query":"Give the window a contraction from the left","label":82}
+{"query":"Bring the window's left edge inward","label":82}
+{"query":"Make the window narrower on its left side","label":82}
+{"query":"Reduce the window size from the left","label":82}
+{"query":"Pull the left boundary farther inward","label":82}
+{"query":"Remove some width from the window's left","label":82}
+{"query":"Contract this window from the left by the regular amount","label":82}
+{"query":"This is too wide, so trim the window from its left side","label":82}
+{"query":"Reclaim horizontal space by shrinking the left edge normally","label":82}
+{"query":"Trim left-side width","label":82}
+{"query":"Give the window a slight upward contraction","label":83}
+{"query":"Bring the window's bottom edge upward a little","label":83}
+{"query":"Make the window a little shorter from the bottom","label":83}
+{"query":"Reduce the window height upward by a small step","label":83}
+{"query":"Nudge the lower boundary upward just a bit","label":83}
+{"query":"Remove a small amount of height from beneath the window","label":83}
+{"query":"Contract this window modestly in the upward direction","label":83}
+{"query":"It is just a touch too tall, so trim the window upward","label":83}
+{"query":"Reclaim a little space below by shrinking the window upward","label":83}
+{"query":"Slightly shorter upward","label":83}
+{"query":"Shrink the window far upward","label":84}
+{"query":"Bring the window's bottom edge upward by a large amount","label":84}
+{"query":"Make the window much shorter from the bottom","label":84}
+{"query":"Reduce the window height upward by a large step","label":84}
+{"query":"Pull the lower boundary upward substantially","label":84}
+{"query":"Remove a generous amount of height from beneath the window","label":84}
+{"query":"Contract this window considerably in the upward direction","label":84}
+{"query":"It is far too tall, so trim the window well upward","label":84}
+{"query":"Reclaim substantial space below by shrinking upward as much as possible","label":84}
+{"query":"Much shorter upward","label":84}
+{"query":"Give the window an upward contraction","label":85}
+{"query":"Bring the window's bottom edge upward","label":85}
+{"query":"Make the window shorter from the bottom","label":85}
+{"query":"Reduce the window height in the upward direction","label":85}
+{"query":"Pull the lower boundary farther upward","label":85}
+{"query":"Remove some height from beneath the window","label":85}
+{"query":"Contract this window upward by the regular amount","label":85}
+{"query":"This is too tall, so trim the window upward","label":85}
+{"query":"Reclaim vertical space below by shrinking upward normally","label":85}
+{"query":"Shorter from the bottom","label":85}
+{"query":"Move the current window to the scratchpad","label":86}
+{"query":"Send the active window into the scratchpad","label":86}
+{"query":"Place this window on the scratchpad","label":86}
+{"query":"Transfer the focused window to scratchpad storage","label":86}
+{"query":"Put this window aside in the scratchpad","label":86}
+{"query":"Stash the window in the hidden scratch workspace","label":86}
+{"query":"Remove this window from view by moving it to the scratchpad","label":86}
+{"query":"I want this app available later, so move its window to the scratchpad","label":86}
+{"query":"Keep the window open but send it away to the scratchpad","label":86}
+{"query":"Stash this window","label":86}
+{"query":"Toggle the scratchpad workspace","label":87}
+{"query":"Reveal my scratchpad workspace","label":87}
+{"query":"Conceal my scratchpad workspace","label":87}
+{"query":"Switch the scratchpad's visibility","label":87}
+{"query":"Bring my stashed windows into view","label":87}
+{"query":"Put the scratch workspace out of sight","label":87}
+{"query":"Flip whether the scratchpad is currently visible","label":87}
+{"query":"I need something I stashed earlier, so reveal the scratchpad","label":87}
+{"query":"The scratchpad is blocking my desktop; conceal it again","label":87}
+{"query":"Flip scratchpad visibility","label":87}
+{"query":"Invoke the notification received most recently","label":88}
+{"query":"Run the action from the newest notification","label":88}
+{"query":"Activate the most recent notification","label":88}
+{"query":"Use the last notification's default action","label":88}
+{"query":"Act on the notification that just appeared","label":88}
+{"query":"Trigger whatever action the newest alert offers","label":88}
+{"query":"Follow the latest notification instead of merely closing it","label":88}
+{"query":"That new message has an action attached; activate it for me","label":88}
+{"query":"I want to respond to the newest popup using its default action","label":88}
+{"query":"Do latest notification action","label":88}
+{"query":"Dismiss the notification received most recently","label":89}
+{"query":"Close the newest notification","label":89}
+{"query":"Remove the most recent popup","label":89}
+{"query":"Clear the last notification","label":89}
+{"query":"Get the newest alert off my screen","label":89}
+{"query":"Make the most recent notification go away","label":89}
+{"query":"Discard the notification that appeared last","label":89}
+{"query":"I have read the newest popup, so dismiss it now","label":89}
+{"query":"Leave older alerts alone and remove only the latest notification","label":89}
+{"query":"Lose that latest popup","label":89}
+{"query":"Mute notification popups","label":90}
+{"query":"Resume notification popups","label":90}
+{"query":"Set notifications to silent","label":90}
+{"query":"Unsilence my notifications","label":90}
+{"query":"Prevent alerts from popping up","label":90}
+{"query":"Let alerts pop up normally again","label":90}
+{"query":"Swap the popup suppression setting","label":90}
+{"query":"I am presenting my screen, so suppress notification banners","label":90}
+{"query":"My presentation is finished; restore notification banners","label":90}
+{"query":"Make alerts quiet","label":90}
+{"query":"Bring up my notification log","label":91}
+{"query":"Display the notification history view","label":91}
+{"query":"Access previously received notifications","label":91}
+{"query":"List my recent notification messages","label":91}
+{"query":"Let me browse alerts from the recent past","label":91}
+{"query":"Pull up the record of prior alerts","label":91}
+{"query":"Reopen the recent notification feed","label":91}
+{"query":"I missed an alert during lunch; show the notification log","label":91}
+{"query":"Before I respond, let me inspect the earlier notifications","label":91}
+{"query":"Past alerts, please","label":91}
+{"query":"Delete every notification from view","label":92}
+{"query":"Close the whole notification stack","label":92}
+{"query":"Empty all notifications","label":92}
+{"query":"Discard the complete alert list","label":92}
+{"query":"Remove the notification backlog in one go","label":92}
+{"query":"Sweep away every outstanding alert","label":92}
+{"query":"Leave the notification area completely empty","label":92}
+{"query":"I have handled the alerts, so dismiss the entire stack","label":92}
+{"query":"Before sharing my screen, remove every visible notification","label":92}
+{"query":"Lose all the alerts","label":92}
+{"query":"Enable transparency for the active window","label":93}
+{"query":"Disable transparency for the active window","label":93}
+{"query":"Apply a translucent appearance to this window","label":93}
+{"query":"Make this window fully solid","label":93}
+{"query":"Swap this window between translucent and opaque","label":93}
+{"query":"Let some of the desktop remain visible through this window","label":93}
+{"query":"Remove the see-through effect from the focused window","label":93}
+{"query":"This terminal blocks my reference behind it; make the window translucent","label":93}
+{"query":"The text is hard to read through the window, so restore full opacity","label":93}
+{"query":"Window see-through off","label":93}
+{"query":"Activate the night light","label":94}
+{"query":"Deactivate the night light","label":94}
+{"query":"Apply the night-time display tint","label":94}
+{"query":"Remove the night-time display tint","label":94}
+{"query":"Shift the display to warmer evening colors","label":94}
+{"query":"Restore the display's regular color temperature","label":94}
+{"query":"Swap between normal and warm screen coloring","label":94}
+{"query":"My eyes are tired this evening; apply the warmer display tint","label":94}
+{"query":"I am editing photos now, so remove the warm color filter","label":94}
+{"query":"Night light off, thanks","label":94}
+{"query":"Start locking the session after inactivity","label":95}
+{"query":"Stop locking the session after inactivity","label":95}
+{"query":"Set the computer to lock when left idle","label":95}
+{"query":"Keep the computer unlocked during idle periods","label":95}
+{"query":"Make inactivity automatically secure the session","label":95}
+{"query":"Prevent inactivity from triggering the lock screen","label":95}
+{"query":"Reverse the automatic inactivity lock preference","label":95}
+{"query":"I am leaving this workstation unattended, so lock it after idle time","label":95}
+{"query":"A dashboard must stay visible all day; do not lock it for inactivity","label":95}
+{"query":"No idle locking, please","label":95}
+{"query":"Download the web application's active video","label":96}
+{"query":"Save the currently playing web video to disk","label":96}
+{"query":"Fetch this video from the web application","label":96}
+{"query":"Create a local copy of this web-app video","label":96}
+{"query":"Keep the video from this web page on my computer","label":96}
+{"query":"Transfer the displayed online video onto this machine","label":96}
+{"query":"Grab the video loaded in the current web app","label":96}
+{"query":"I need to watch this offline later, so download the open web video","label":96}
+{"query":"Before the page expires, save its video onto my computer","label":96}
+{"query":"Save this clip locally","label":96}
+{"query":"Copy the active web application's address","label":97}
+{"query":"Place this page's web address on my clipboard","label":97}
+{"query":"Copy the link for the current web-app view","label":97}
+{"query":"Store the current page address in the clipboard","label":97}
+{"query":"Grab a clipboard copy of this page's link","label":97}
+{"query":"Put the address for this web view somewhere I can paste it","label":97}
+{"query":"Capture the open web application's URL to the clipboard","label":97}
+{"query":"I want to send this page to a colleague, so copy its address","label":97}
+{"query":"Before navigating away, put the current web-app link on my clipboard","label":97}
+{"query":"Copy this page's address","label":97}
+{"query":"Shrink the on-screen camera overlay","label":98}
+{"query":"Decrease the webcam inset dimensions","label":98}
+{"query":"Scale the camera preview overlay downward","label":98}
+{"query":"Reduce the size of my webcam frame","label":98}
+{"query":"Give the webcam picture-in-picture less screen space","label":98}
+{"query":"Make the camera inset more compact","label":98}
+{"query":"Use a smaller frame for the webcam preview","label":98}
+{"query":"The camera view is covering my slides; shrink its overlay","label":98}
+{"query":"During this recording, reduce the webcam inset so the chart is visible","label":98}
+{"query":"Camera overlay smaller, please","label":98}
+{"query":"Expand the on-screen camera overlay","label":99}
+{"query":"Increase the webcam inset dimensions","label":99}
+{"query":"Scale the camera preview overlay upward","label":99}
+{"query":"Grow the size of my webcam frame","label":99}
+{"query":"Give the webcam picture-in-picture more screen space","label":99}
+{"query":"Make the camera inset more prominent","label":99}
+{"query":"Use a bigger frame for the webcam preview","label":99}
+{"query":"My face is difficult to see in the recording; enlarge the webcam overlay","label":99}
+{"query":"For the introduction, increase the camera inset so the speaker is prominent","label":99}
+{"query":"Camera overlay bigger, please","label":99}
+{"query":"Preserve the active window's width","label":100}
+{"query":"Record this window's horizontal dimension","label":100}
+{"query":"Set this as the remembered window width","label":100}
+{"query":"Store how wide the active window is","label":100}
+{"query":"Remember the present horizontal size for this app","label":100}
+{"query":"Keep this width as the window's saved preference","label":100}
+{"query":"Use the present width as the future restore target","label":100}
+{"query":"This app is sized just right; preserve its width on this workspace","label":100}
+{"query":"Before resizing anything, record how wide this window currently is","label":100}
+{"query":"Remember this horizontal size","label":100}
+{"query":"Decrease this monitor's scale factor","label":101}
+{"query":"Step the display scaling downward","label":101}
+{"query":"Set the monitor to a lower scaling level","label":101}
+{"query":"Shrink the display's interface scale","label":101}
+{"query":"Fit more items by lowering the screen scale","label":101}
+{"query":"Make onscreen elements smaller through display scaling","label":101}
+{"query":"Move the current monitor scale one level lower","label":101}
+{"query":"The interface is oversized on this monitor; decrease its scale","label":101}
+{"query":"I need more desktop room, so step down this display's scaling","label":101}
+{"query":"Lower screen scale, please","label":101}
+{"query":"Launch the applications menu","label":102}
+{"query":"Display the app launcher menu","label":102}
+{"query":"Access the menu of applications","label":102}
+{"query":"Reveal the installed-app menu","label":102}
+{"query":"Let me look through the application launcher","label":102}
+{"query":"Pull up the place where apps can be selected","label":102}
+{"query":"Present the list for choosing an application","label":102}
+{"query":"I need to start another program, so show the application menu","label":102}
+{"query":"Before choosing my next task, let me browse the installed apps","label":102}
+{"query":"App launcher, please","label":102}
+{"query":"Activate right-side bar panel 1","label":103}
+{"query":"Deactivate right-side bar panel 1","label":103}
+{"query":"Expose numbered bar panel 1","label":103}
+{"query":"Conceal numbered bar panel 1","label":103}
+{"query":"Swap panel 1 between visible and hidden","label":103}
+{"query":"Let me inspect the first numbered panel in the bar","label":103}
+{"query":"Put the bar's first panel away","label":103}
+{"query":"I need information from the first right-hand bar panel, so expose it","label":103}
+{"query":"Panel 1 is covering something; conceal it for now","label":103}
+{"query":"First bar panel, on","label":103}
+{"query":"Activate right-side bar panel 2","label":104}
+{"query":"Deactivate right-side bar panel 2","label":104}
+{"query":"Expose numbered bar panel 2","label":104}
+{"query":"Conceal numbered bar panel 2","label":104}
+{"query":"Swap panel 2 between visible and hidden","label":104}
+{"query":"Let me inspect the second numbered panel in the bar","label":104}
+{"query":"Put the bar's second panel away","label":104}
+{"query":"I need information from the second right-hand bar panel, so expose it","label":104}
+{"query":"Panel 2 is covering something; conceal it for now","label":104}
+{"query":"Second bar panel, off","label":104}
+{"query":"Activate right-side bar panel 3","label":105}
+{"query":"Deactivate right-side bar panel 3","label":105}
+{"query":"Expose numbered bar panel 3","label":105}
+{"query":"Conceal numbered bar panel 3","label":105}
+{"query":"Swap panel 3 between visible and hidden","label":105}
+{"query":"Let me inspect the third numbered panel in the bar","label":105}
+{"query":"Put the bar's third panel away","label":105}
+{"query":"I need information from the third right-hand bar panel, so expose it","label":105}
+{"query":"Panel 3 is covering something; conceal it for now","label":105}
+{"query":"Third bar panel, on","label":105}
+{"query":"Activate right-side bar panel 4","label":106}
+{"query":"Deactivate right-side bar panel 4","label":106}
+{"query":"Expose numbered bar panel 4","label":106}
+{"query":"Conceal numbered bar panel 4","label":106}
+{"query":"Swap panel 4 between visible and hidden","label":106}
+{"query":"Let me inspect the fourth numbered panel in the bar","label":106}
+{"query":"Put the bar's fourth panel away","label":106}
+{"query":"I need information from the fourth right-hand bar panel, so expose it","label":106}
+{"query":"Panel 4 is covering something; conceal it for now","label":106}
+{"query":"Fourth bar panel, off","label":106}
+{"query":"Activate right-side bar panel 5","label":107}
+{"query":"Deactivate right-side bar panel 5","label":107}
+{"query":"Expose numbered bar panel 5","label":107}
+{"query":"Conceal numbered bar panel 5","label":107}
+{"query":"Swap panel 5 between visible and hidden","label":107}
+{"query":"Let me inspect the fifth numbered panel in the bar","label":107}
+{"query":"Put the bar's fifth panel away","label":107}
+{"query":"I need information from the fifth right-hand bar panel, so expose it","label":107}
+{"query":"Panel 5 is covering something; conceal it for now","label":107}
+{"query":"Fifth bar panel, on","label":107}
+{"query":"Activate right-side bar panel 6","label":108}
+{"query":"Deactivate right-side bar panel 6","label":108}
+{"query":"Expose numbered bar panel 6","label":108}
+{"query":"Conceal numbered bar panel 6","label":108}
+{"query":"Swap panel 6 between visible and hidden","label":108}
+{"query":"Let me inspect the sixth numbered panel in the bar","label":108}
+{"query":"Put the bar's sixth panel away","label":108}
+{"query":"I need information from the sixth right-hand bar panel, so expose it","label":108}
+{"query":"Panel 6 is covering something; conceal it for now","label":108}
+{"query":"Sixth bar panel, off","label":108}
+{"query":"Activate right-side bar panel 7","label":109}
+{"query":"Deactivate right-side bar panel 7","label":109}
+{"query":"Expose numbered bar panel 7","label":109}
+{"query":"Conceal numbered bar panel 7","label":109}
+{"query":"Swap panel 7 between visible and hidden","label":109}
+{"query":"Let me inspect the seventh numbered panel in the bar","label":109}
+{"query":"Put the bar's seventh panel away","label":109}
+{"query":"I need information from the seventh right-hand bar panel, so expose it","label":109}
+{"query":"Panel 7 is covering something; conceal it for now","label":109}
+{"query":"Seventh bar panel, on","label":109}
+{"query":"Activate right-side bar panel 8","label":110}
+{"query":"Deactivate right-side bar panel 8","label":110}
+{"query":"Expose numbered bar panel 8","label":110}
+{"query":"Conceal numbered bar panel 8","label":110}
+{"query":"Swap panel 8 between visible and hidden","label":110}
+{"query":"Let me inspect the eighth numbered panel in the bar","label":110}
+{"query":"Put the bar's eighth panel away","label":110}
+{"query":"I need information from the eighth right-hand bar panel, so expose it","label":110}
+{"query":"Panel 8 is covering something; conceal it for now","label":110}
+{"query":"Eighth bar panel, off","label":110}
+{"query":"Activate right-side bar panel 9","label":111}
+{"query":"Deactivate right-side bar panel 9","label":111}
+{"query":"Expose numbered bar panel 9","label":111}
+{"query":"Conceal numbered bar panel 9","label":111}
+{"query":"Swap panel 9 between visible and hidden","label":111}
+{"query":"Let me inspect the ninth numbered panel in the bar","label":111}
+{"query":"Put the bar's ninth panel away","label":111}
+{"query":"I need information from the ninth right-hand bar panel, so expose it","label":111}
+{"query":"Panel 9 is covering something; conceal it for now","label":111}
+{"query":"Ninth bar panel, on","label":111}
+{"query":"Reveal the sound control panel","label":112}
+{"query":"Call up the audio options","label":112}
+{"query":"Put the sound controls on screen","label":112}
+{"query":"Show me the panel for audio devices","label":112}
+{"query":"Let me change my sound configuration","label":112}
+{"query":"I would like to inspect the volume and audio options","label":112}
+{"query":"Take me to where sound is managed","label":112}
+{"query":"My speakers need adjusting, so bring up the audio panel","label":112}
+{"query":"I need to choose an audio device from the sound controls","label":112}
+{"query":"Sound controls, now","label":112}
+{"query":"Report how much battery charge remains","label":113}
+{"query":"Show the remaining charge level","label":113}
+{"query":"Tell me the battery charge left","label":113}
+{"query":"Display how much power the battery has left","label":113}
+{"query":"How much battery do I have left?","label":113}
+{"query":"Let me check the laptop's remaining charge","label":113}
+{"query":"Tell me how much longer the battery will last","label":113}
+{"query":"Before I unplug, show how much battery remains","label":113}
+{"query":"I am away from the charger and need the remaining battery status","label":113}
+{"query":"Battery left?","label":113}
+{"query":"Reveal the clock calendar panel","label":114}
+{"query":"Call up the shell calendar","label":114}
+{"query":"Put the date panel on screen","label":114}
+{"query":"Show the clock's calendar view","label":114}
+{"query":"Open the shell clock panel so I can browse calendar dates","label":114}
+{"query":"Show the shell clock's monthly calendar panel","label":114}
+{"query":"Take me to the panel attached to the clock","label":114}
+{"query":"I need to check a date, so reveal the calendar panel","label":114}
+{"query":"Show the calendar pane while I plan next week","label":114}
+{"query":"Bring up the calendar panel attached to the desktop clock","label":114}
+{"query":"Reverse laptop screen mirroring","label":115}
+{"query":"Start mirroring the laptop screen","label":115}
+{"query":"Stop mirroring the laptop screen","label":115}
+{"query":"Change the built-in display mirroring mode","label":115}
+{"query":"Duplicate the laptop display onto the other screen","label":115}
+{"query":"Use separate screens instead of mirroring the laptop","label":115}
+{"query":"Swap between duplicated and independent laptop displays","label":115}
+{"query":"The projector should match my laptop screen, so enable mirroring","label":115}
+{"query":"I need different content on each monitor, so end laptop mirroring","label":115}
+{"query":"Mirror laptop screen now","label":115}
+{"query":"List my saved reminders","label":116}
+{"query":"Reveal the reminder list","label":116}
+{"query":"Put my existing reminders on screen","label":116}
+{"query":"Display every reminder I have set","label":116}
+{"query":"Let me look over my upcoming reminders","label":116}
+{"query":"What reminders are waiting for me?","label":116}
+{"query":"I would like to review my reminder entries","label":116}
+{"query":"Before planning today, show all of my saved reminders","label":116}
+{"query":"I may have an appointment reminder, so display the list","label":116}
+{"query":"My reminders, show them","label":116}
+{"query":"Reveal the time display","label":117}
+{"query":"Put the clock reading on screen","label":117}
+{"query":"Display the time at this moment","label":117}
+{"query":"Tell me what the clock says","label":117}
+{"query":"Let me glance at the clock","label":117}
+{"query":"What is the time at the moment?","label":117}
+{"query":"I would like the clock reading displayed","label":117}
+{"query":"I am about to leave, so show me the time","label":117}
+{"query":"Before the meeting begins, tell me the current time","label":117}
+{"query":"Time, what is it?","label":117}
+{"query":"Reverse the weather panel visibility","label":118}
+{"query":"Reveal the weather information panel","label":118}
+{"query":"Close the weather information panel","label":118}
+{"query":"Change whether the forecast panel is visible","label":118}
+{"query":"Let me see the local forecast panel","label":118}
+{"query":"Put away the weather details","label":118}
+{"query":"Swap the forecast display between shown and hidden","label":118}
+{"query":"I am heading outside, so reveal the weather panel","label":118}
+{"query":"The forecast is covering my work, so hide its panel","label":118}
+{"query":"Weather view, hide it","label":118}
+{"query":"Restore the screen magnification to its baseline","label":119}
+{"query":"Return the display to unzoomed view","label":119}
+{"query":"Remove all screen magnification","label":119}
+{"query":"Revert to the regular display magnification","label":119}
+{"query":"Make everything its usual on-screen size again","label":119}
+{"query":"Set the magnification factor back to 1","label":119}
+{"query":"Cancel the enlarged display view","label":119}
+{"query":"The screen is too magnified; restore its usual scale","label":119}
+{"query":"After reading the small text, return the display to baseline magnification","label":119}
+{"query":"Unzoom the screen","label":119}
+{"query":"Reverse square mode for a lone window","label":120}
+{"query":"Give the only window a square aspect ratio","label":120}
+{"query":"Remove the square aspect from the only window","label":120}
+{"query":"Change whether a single window uses square proportions","label":120}
+{"query":"Make this lone window square-shaped","label":120}
+{"query":"Return the sole window to non-square proportions","label":120}
+{"query":"Swap the one-window layout into or out of square form","label":120}
+{"query":"There is only one window; reshape it to a square aspect","label":120}
+{"query":"The lone window is square now, so restore its regular proportions","label":120}
+{"query":"Square up this one window","label":120}
+{"query":"Reveal the wireless device control panel","label":121}
+{"query":"Call up the Bluetooth device manager","label":121}
+{"query":"Put the Bluetooth options on screen","label":121}
+{"query":"Show me the panel for paired devices","label":121}
+{"query":"Let me manage my wireless accessories","label":121}
+{"query":"I would like to inspect nearby Bluetooth devices","label":121}
+{"query":"Take me to the controls for Bluetooth connections","label":121}
+{"query":"My headphones need pairing, so bring up the Bluetooth panel","label":121}
+{"query":"I need to reconnect a wireless keyboard from the Bluetooth controls","label":121}
+{"query":"Bluetooth devices, now","label":121}
+{"query":"Reveal the screen capture menu","label":122}
+{"query":"Call up the capture action menu","label":122}
+{"query":"Put the capture choices on screen","label":122}
+{"query":"Show the menu of capture methods","label":122}
+{"query":"Let me pick how to capture the screen","label":122}
+{"query":"I would like to browse the available capture modes","label":122}
+{"query":"Take me to the chooser for captures","label":122}
+{"query":"I need a capture type, so reveal the selection menu","label":122}
+{"query":"Before grabbing the screen, show me all capture choices","label":122}
+{"query":"Capture choices, now","label":122}
+{"query":"Reveal the monitor configuration panel","label":123}
+{"query":"Call up the screen arrangement controls","label":123}
+{"query":"Put the monitor options on screen","label":123}
+{"query":"Show me the panel for configuring displays","label":123}
+{"query":"Let me manage my connected screens","label":123}
+{"query":"I would like to inspect the monitor configuration","label":123}
+{"query":"Take me to where screen settings are managed","label":123}
+{"query":"My second monitor is misaligned, so reveal the display panel","label":123}
+{"query":"I need to rearrange my screens from the display controls","label":123}
+{"query":"Monitor controls, now","label":123}
+{"query":"Reverse the built-in laptop screen state","label":124}
+{"query":"Power on the laptop's internal display","label":124}
+{"query":"Shut off the laptop's internal display","label":124}
+{"query":"Change whether the notebook screen is active","label":124}
+{"query":"Use the built-in screen again","label":124}
+{"query":"Blank the laptop panel while keeping external displays","label":124}
+{"query":"Swap the internal laptop screen between active and inactive","label":124}
+{"query":"I disconnected my monitor, so restore the laptop's built-in screen","label":124}
+{"query":"I am using only the external monitor, so turn off the notebook display","label":124}
+{"query":"Laptop screen back on","label":124}
+{"query":"Reverse fullscreen presentation within the tiled layout","label":125}
+{"query":"Enter compositor-tiled fullscreen mode","label":125}
+{"query":"Leave compositor-tiled fullscreen mode","label":125}
+{"query":"Change the client's tiled fullscreen state","label":125}
+{"query":"Make this application fullscreen without abandoning tiling","label":125}
+{"query":"Return this client from tiled fullscreen to its usual presentation","label":125}
+{"query":"Swap the app between tiled fullscreen and normal tiled view","label":125}
+{"query":"I want this client enlarged but still managed by the tiled layout","label":125}
+{"query":"The app is in tiled fullscreen; restore its ordinary tiled view","label":125}
+{"query":"Tiled fullscreen, switch it","label":125}
+{"query":"Reveal the device hardware menu","label":126}
+{"query":"Call up the hardware action menu","label":126}
+{"query":"Put the hardware choices on screen","label":126}
+{"query":"Show the menu of device hardware options","label":126}
+{"query":"Let me browse controls for this machine's hardware","label":126}
+{"query":"I would like to choose a hardware-related action","label":126}
+{"query":"Take me to the device controls chooser","label":126}
+{"query":"I need to manage a physical device, so reveal the hardware menu","label":126}
+{"query":"Before changing a device setting, show the hardware choices","label":126}
+{"query":"Hardware choices, now","label":126}
+{"query":"Reveal the quick toggles menu","label":127}
+{"query":"Call up the system switch menu","label":127}
+{"query":"Put the available toggles on screen","label":127}
+{"query":"Show the menu containing system switches","label":127}
+{"query":"Let me browse the on-off controls","label":127}
+{"query":"I would like to choose from the quick toggles","label":127}
+{"query":"Take me to the system feature switches","label":127}
+{"query":"I need to change a feature state, so reveal the toggles menu","label":127}
+{"query":"Before switching a setting, show all available system toggles","label":127}
+{"query":"Quick toggles, now","label":127}
+{"query":"Launch a media transcoding workflow","label":128}
+{"query":"Prepare this media for format conversion","label":128}
+{"query":"Bring up the file transcoding interface","label":128}
+{"query":"Create a converted copy of a media file","label":128}
+{"query":"Let me re-encode a video into a different format","label":128}
+{"query":"I would like to choose an output resolution for this clip","label":128}
+{"query":"Take me through converting media and copying its output URI","label":128}
+{"query":"This clip will not play on my device, so let me transcode it","label":128}
+{"query":"I need a lower-resolution copy of this video in another format","label":128}
+{"query":"Re-encode this media","label":128}
+{"query":"Reveal the energy management panel","label":129}
+{"query":"Call up the power options pane","label":129}
+{"query":"Put the power management controls on screen","label":129}
+{"query":"Show me the panel for energy settings","label":129}
+{"query":"Let me manage this computer's power behavior","label":129}
+{"query":"I would like to inspect the energy options","label":129}
+{"query":"Take me to where power usage is configured","label":129}
+{"query":"My battery drains quickly, so reveal the power panel","label":129}
+{"query":"I need to change sleep behavior from the power controls","label":129}
+{"query":"Energy controls, now","label":129}
+{"query":"Perform text recognition on a screen region","label":130}
+{"query":"Turn a selected screenshot area into clipboard text","label":130}
+{"query":"Recognize and copy words from the display","label":130}
+{"query":"Capture an area and convert the writing to text","label":130}
+{"query":"Let me digitize words that appear only in an image","label":130}
+{"query":"I would like selectable text from part of the screen","label":130}
+{"query":"Scan a chosen display region for written content","label":130}
+{"query":"This error message is an image; recognize its words and copy them","label":130}
+{"query":"I need the writing in this scanned document captured as clipboard text","label":130}
+{"query":"OCR the screen bit","label":130}
+{"query":"Bring the calculation application to the foreground","label":131}
+{"query":"Start a fresh calculator session","label":131}
+{"query":"Put a calculator window on screen","label":131}
+{"query":"Launch the desktop arithmetic tool","label":131}
+{"query":"Let me work out a numerical result","label":131}
+{"query":"I would like a tool for doing sums","label":131}
+{"query":"Give me somewhere to enter an equation","label":131}
+{"query":"I need to total these expenses, so start the calculator","label":131}
+{"query":"There is a percentage I need to work out in the calculator","label":131}
+{"query":"Calc, bring it up","label":131}
+{"query":"Reveal the create-reminder menu","label":132}
+{"query":"Call up the new reminder chooser","label":132}
+{"query":"Put the reminder creation options on screen","label":132}
+{"query":"Show the menu used to schedule a reminder","label":132}
+{"query":"Let me choose when to be reminded","label":132}
+{"query":"I would like to prepare a new reminder","label":132}
+{"query":"Take me to the reminder scheduling choices","label":132}
+{"query":"I must remember an appointment, so open the reminder creation menu","label":132}
+{"query":"Before I forget this task, show the options for scheduling a reminder","label":132}
+{"query":"Set-reminder choices, now","label":132}
+{"query":"Reveal the wallpaper selection menu","label":133}
+{"query":"Call up the desktop wallpaper chooser","label":133}
+{"query":"Put the background choices on screen","label":133}
+{"query":"Show the menu for changing wallpaper","label":133}
+{"query":"Let me browse alternative desktop backgrounds","label":133}
+{"query":"I would like to pick a different wallpaper","label":133}
+{"query":"Take me to the desktop image chooser","label":133}
+{"query":"I am tired of this wallpaper, so reveal the background selection menu","label":133}
+{"query":"Before changing the desktop look, show me the available backgrounds","label":133}
+{"query":"Wallpaper chooser, now","label":133}
+{"query":"Present the sharing menu","label":134}
+{"query":"Reveal my sharing choices","label":134}
+{"query":"Call up the desktop share options","label":134}
+{"query":"Show the chooser for sharing","label":134}
+{"query":"Let me decide how to distribute this","label":134}
+{"query":"Give me a list of ways to share","label":134}
+{"query":"I would like to pick a sharing method","label":134}
+{"query":"Before sending this anywhere, let me see the share choices","label":134}
+{"query":"I have something to distribute, so present the sharing menu","label":134}
+{"query":"Sharing choices, please","label":134}
+{"query":"Launch the Activity system monitor","label":135}
+{"query":"Start btop for me","label":135}
+{"query":"Display the computer activity overview","label":135}
+{"query":"Show the live resource monitor","label":135}
+{"query":"Let me examine processor and memory use","label":135}
+{"query":"Give me a real-time view of resource consumption","label":135}
+{"query":"I would like to inspect how busy this machine is","label":135}
+{"query":"The fans are running loudly; show me the activity monitor","label":135}
+{"query":"While the build runs, let me watch system resource usage","label":135}
+{"query":"btop, please","label":135}
+{"query":"Reveal the networking panel","label":136}
+{"query":"Toggle my network controls panel","label":136}
+{"query":"Open the connection management panel","label":136}
+{"query":"Close the networking panel","label":136}
+{"query":"Let me inspect the available connections","label":136}
+{"query":"Give me access to connectivity controls","label":136}
+{"query":"Put the connection details on screen","label":136}
+{"query":"I need to change Wi-Fi settings, so show the network controls","label":136}
+{"query":"The connection panel is blocking my view; put it away","label":136}
+{"query":"Network controls, please","label":136}
+{"query":"Increase screen magnification by one step","label":137}
+{"query":"Zoom closer into the whole desktop view","label":137}
+{"query":"Apply a higher display zoom level","label":137}
+{"query":"Move one level closer into the screen view","label":137}
+{"query":"Use display zoom to enlarge everything on the desktop","label":137}
+{"query":"Bring the on-screen interface nearer","label":137}
+{"query":"I would like more zoom across the display","label":137}
+{"query":"The interface text is tiny, so increase screen magnification","label":137}
+{"query":"For this presentation, zoom in on the whole display view","label":137}
+{"query":"Zoom it in more","label":137}
+{"query":"Reinstate the stored width for this window","label":138}
+{"query":"Resize this window back to its remembered width","label":138}
+{"query":"Recall the active window's saved horizontal size","label":138}
+{"query":"Return this app window to the width preference","label":138}
+{"query":"Make the window horizontally match the stored setting","label":138}
+{"query":"Bring back my preferred width for this app","label":138}
+{"query":"Use the horizontal size that was remembered earlier","label":138}
+{"query":"I stretched this window by mistake; return to its stored width","label":138}
+{"query":"On this workspace, resize the app to its remembered horizontal dimension","label":138}
+{"query":"Saved width back, please","label":138}
+{"query":"Cycle the workspace layout","label":139}
+{"query":"Flip to the alternative layout for this workspace","label":139}
+{"query":"Return this workspace to its prior layout style","label":139}
+{"query":"Set the active workspace to its opposite layout mode","label":139}
+{"query":"Rearrange this workspace using the other layout","label":139}
+{"query":"Let me alternate how this workspace is arranged","label":139}
+{"query":"Use the other arrangement mode for this desktop","label":139}
+{"query":"This workspace arrangement is inconvenient; cycle its layout mode","label":139}
+{"query":"Without leaving this desktop, flip its window arrangement style","label":139}
+{"query":"Workspace layout flip","label":139}
+{"query":"Turn pseudotiling on for the active window","label":140}
+{"query":"Turn pseudotiling off for the active window","label":140}
+{"query":"Reverse this window's pseudo-tiled state","label":140}
+{"query":"Have this tiled client retain its natural dimensions","label":140}
+{"query":"Let the app keep its own size inside the tile","label":140}
+{"query":"Make this client fill its tile instead of using pseudo sizing","label":140}
+{"query":"Alternate this window between regular and pseudo tiling","label":140}
+{"query":"This app looks stretched in its tile; let it retain its preferred dimensions","label":140}
+{"query":"The client is using pseudo sizing; return it to filling the tile","label":140}
+{"query":"Pseudotile this window","label":140}
+{"query":"Activate ChatGPT on this workspace","label":141}
+{"query":"Locate or start ChatGPT here","label":141}
+{"query":"Raise my most recently used ChatGPT window","label":141}
+{"query":"Make ChatGPT current on this desktop","label":141}
+{"query":"Let me continue in my latest ChatGPT window","label":141}
+{"query":"Find the ChatGPT instance I used most recently here","label":141}
+{"query":"Put me in ChatGPT on the current workspace","label":141}
+{"query":"I need to ask a question; focus or start ChatGPT on this workspace","label":141}
+{"query":"Bring my latest local ChatGPT window to the foreground so I can continue","label":141}
+{"query":"ChatGPT here, now","label":141}
+{"query":"Start the Grok application","label":142}
+{"query":"Display the Grok app","label":142}
+{"query":"Activate Grok for me","label":142}
+{"query":"Load the Grok application","label":142}
+{"query":"Let me work with Grok","label":142}
+{"query":"Put the Grok application in front","label":142}
+{"query":"I would like access to Grok now","label":142}
+{"query":"I have a question for Grok, so start the application","label":142}
+{"query":"For my next task, put the Grok app on the desktop","label":142}
+{"query":"Grok app, please","label":142}
+{"query":"Relocate the current workspace onto the lower monitor","label":143}
+{"query":"Send the active workspace to the display underneath","label":143}
+{"query":"Shift this entire workspace downward to another screen","label":143}
+{"query":"Place the current desktop on the lower display","label":143}
+{"query":"Take this workspace down to the adjacent monitor","label":143}
+{"query":"Put this desktop area on the screen underneath","label":143}
+{"query":"I would like the active workspace on the lower screen","label":143}
+{"query":"My lower monitor is free; transfer this whole workspace onto it","label":143}
+{"query":"Keep these windows together while moving their workspace to the display underneath","label":143}
+{"query":"Workspace downward, please","label":143}
+{"query":"Begin composing a fresh email message","label":144}
+{"query":"Launch a blank mail composer","label":144}
+{"query":"Create an empty outgoing email","label":144}
+{"query":"Take me directly to a fresh email draft","label":144}
+{"query":"Let me prepare a message to send by email","label":144}
+{"query":"Give me an empty mail composition window","label":144}
+{"query":"I would like to begin drafting an email","label":144}
+{"query":"I need to contact a colleague, so create a blank outgoing message","label":144}
+{"query":"Skip the inbox and take me straight to a fresh mail composer","label":144}
+{"query":"Fresh email draft, please","label":144}
+{"query":"Activate the WhatsApp application","label":145}
+{"query":"Locate or start WhatsApp","label":145}
+{"query":"Raise my WhatsApp app window","label":145}
+{"query":"Make WhatsApp current","label":145}
+{"query":"Let me return to my WhatsApp conversations","label":145}
+{"query":"Put the messaging app WhatsApp in front","label":145}
+{"query":"I would like to continue using WhatsApp","label":145}
+{"query":"I need to reply to a chat, so focus or launch WhatsApp","label":145}
+{"query":"Bring my existing WhatsApp session forward, or start it if absent","label":145}
+{"query":"WhatsApp app, now","label":145}
+{"query":"Relocate the current workspace onto the monitor to my left","label":146}
+{"query":"Send the active workspace to the left-hand display","label":146}
+{"query":"Shift this entire workspace horizontally to the left screen","label":146}
+{"query":"Place the current desktop on the monitor at left","label":146}
+{"query":"Take this workspace across to the neighboring left display","label":146}
+{"query":"Put this desktop area onto the screen on my left","label":146}
+{"query":"I would like the active workspace transferred leftward","label":146}
+{"query":"My left-hand monitor is free; transfer this whole workspace there","label":146}
+{"query":"Keep these windows together while shifting their workspace onto the left display","label":146}
+{"query":"Workspace leftward, please","label":146}
+{"query":"Activate the terminal-based music interface","label":147}
+{"query":"Locate or start the Music TUI","label":147}
+{"query":"Raise my console music player window","label":147}
+{"query":"Make the text music player current","label":147}
+{"query":"Let me return to the music interface in my terminal","label":147}
+{"query":"Put the terminal audio player in front","label":147}
+{"query":"I would like to continue using the Music TUI","label":147}
+{"query":"I want to browse tracks in the terminal, so focus or launch the music TUI","label":147}
+{"query":"Bring my running console music player forward, or start it if absent","label":147}
+{"query":"Music TUI app, now","label":147}
+{"query":"Relocate the current workspace onto the monitor to my right","label":148}
+{"query":"Send the active workspace to the right-hand display","label":148}
+{"query":"Shift this entire workspace horizontally to the right screen","label":148}
+{"query":"Place the current desktop on the monitor at right","label":148}
+{"query":"Take this workspace across to the neighboring right display","label":148}
+{"query":"Put this desktop area onto the screen on my right","label":148}
+{"query":"I would like the active workspace transferred rightward","label":148}
+{"query":"My right-hand monitor is free; transfer this whole workspace there","label":148}
+{"query":"Keep these windows together while shifting their workspace onto the right display","label":148}
+{"query":"Workspace rightward, please","label":148}
+{"query":"Relocate the current workspace onto the upper monitor","label":149}
+{"query":"Send the active workspace to the display overhead","label":149}
+{"query":"Shift this entire workspace upward to another screen","label":149}
+{"query":"Place the current desktop on the upper display","label":149}
+{"query":"Take this workspace up to the adjacent monitor","label":149}
+{"query":"Put this desktop area on the screen overhead","label":149}
+{"query":"I would like the active workspace on the upper screen","label":149}
+{"query":"My upper monitor is free; transfer this whole workspace onto it","label":149}
+{"query":"Keep these windows together while moving their workspace to the display overhead","label":149}
+{"query":"Workspace upward, please","label":149}
+{"query":"Launch a fresh post composer for X","label":150}
+{"query":"Begin drafting a post for X","label":150}
+{"query":"Create an empty X posting draft","label":150}
+{"query":"Take me directly to the X composition view","label":150}
+{"query":"Let me prepare something to publish on X","label":150}
+{"query":"Give me a blank post editor for X","label":150}
+{"query":"I would like to begin an X update","label":150}
+{"query":"I have an update to publish, so create a blank X draft","label":150}
+{"query":"Skip the timeline and open a fresh posting composer on X","label":150}
+{"query":"Fresh X draft, please","label":150}
+{"query":"Reverse the tiled-window gap setting","label":151}
+{"query":"Insert spacing around the tiled windows","label":151}
+{"query":"Eliminate spacing around the tiled windows","label":151}
+{"query":"Cycle between spaced and flush window tiling","label":151}
+{"query":"Give each tiled window some surrounding room","label":151}
+{"query":"Pack the tiled windows together with no margins","label":151}
+{"query":"Change whether this layout leaves space between clients","label":151}
+{"query":"These windows feel cramped; add separation around each tile","label":151}
+{"query":"Too much desktop space is wasted between tiles; remove that spacing","label":151}
+{"query":"Flip window spacing","label":151}
+{"query":"Start the HEY web calendar","label":152}
+{"query":"Display the HEY Calendar application","label":152}
+{"query":"Activate the HEY calendar web app","label":152}
+{"query":"Load HEY Calendar for me","label":152}
+{"query":"Let me work with my calendar in HEY","label":152}
+{"query":"Put the HEY scheduling app in front","label":152}
+{"query":"I would like access to my HEY calendar now","label":152}
+{"query":"I need to check an appointment, so start the HEY Calendar web app","label":152}
+{"query":"For planning my week, put HEY Calendar on the desktop","label":152}
+{"query":"HEY calendar app, please","label":152}
+{"query":"Present the agent selection interface","label":153}
+{"query":"Reveal the menu of agents","label":153}
+{"query":"Call up the agent chooser","label":153}
+{"query":"Display the available-agent selector","label":153}
+{"query":"Let me decide which agent to use","label":153}
+{"query":"Give me a list of agents to select from","label":153}
+{"query":"I would like to pick a different agent","label":153}
+{"query":"Before starting the task, let me review the agent choices","label":153}
+{"query":"I need another assistant for this job, so present the agent selector","label":153}
+{"query":"Agent choices, please","label":153}
+{"query":"Launch the local vocabulary lookup panel","label":154}
+{"query":"Display the local spelling reference","label":154}
+{"query":"Bring up the desktop word-search tool","label":154}
+{"query":"Show the panel for checking words locally","label":154}
+{"query":"Let me confirm the spelling of a term","label":154}
+{"query":"Give me a local reference for this word","label":154}
+{"query":"I would like to search the desktop dictionary","label":154}
+{"query":"This spelling looks unfamiliar; bring up the local word reference","label":154}
+{"query":"Before finishing this sentence, let me verify the word in the lookup panel","label":154}
+{"query":"Spelling lookup, please","label":154}
+{"query":"Activate the Google Messages application","label":155}
+{"query":"Locate or start Google Messages","label":155}
+{"query":"Raise my Google Messages app window","label":155}
+{"query":"Make Google Messages current","label":155}
+{"query":"Let me return to my text conversations","label":155}
+{"query":"Put Google's messaging app in front","label":155}
+{"query":"I would like to continue using Google Messages","label":155}
+{"query":"I need to answer a text, so focus or launch Google Messages","label":155}
+{"query":"Bring my existing Google Messages session forward, or start it if absent","label":155}
+{"query":"Google Messages app, now","label":155}
+{"query":"Move the floating window into the northwest corner","label":156}
+{"query":"Place the current floating window at the screen's upper-left edge","label":156}
+{"query":"Send this floating window to the northwest","label":156}
+{"query":"Position my floating window at the upper-left of the display","label":156}
+{"query":"Tuck the floating window into the corner above and to the left","label":156}
+{"query":"Shift this untiled window to the display's top-left corner","label":156}
+{"query":"Relocate the floating app to the northwest corner of the screen","label":156}
+{"query":"Keep the window floating, but move it away to the upper-left corner","label":156}
+{"query":"This floating panel is covering my work; park it in the top-left corner","label":156}
+{"query":"Float goes upper-left","label":156}
+{"query":"Remove every saved reminder","label":157}
+{"query":"Clear the entire set of reminders","label":157}
+{"query":"Delete all reminder entries","label":157}
+{"query":"Dismiss every reminder I have","label":157}
+{"query":"Purge my reminder list","label":157}
+{"query":"Wipe all items from the reminders list","label":157}
+{"query":"Make sure no reminders remain","label":157}
+{"query":"I have completed my tasks, so remove every reminder","label":157}
+{"query":"Start fresh by clearing all the reminders I previously created","label":157}
+{"query":"Reminders all gone, please","label":157}
+{"query":"Move the floating window into the northeast corner","label":158}
+{"query":"Place the current floating window at the screen's upper-right edge","label":158}
+{"query":"Send this floating window to the northeast","label":158}
+{"query":"Position my floating window at the upper-right of the display","label":158}
+{"query":"Tuck the floating window into the corner above and to the right","label":158}
+{"query":"Shift this untiled window to the display's top-right corner","label":158}
+{"query":"Relocate the floating app to the northeast corner of the screen","label":158}
+{"query":"Keep the window floating, but move it away to the upper-right corner","label":158}
+{"query":"This floating panel is covering my work; park it in the top-right corner","label":158}
+{"query":"Float goes upper-right","label":158}
+{"query":"Start the Docker app for me","label":159}
+{"query":"Open Docker on this computer","label":159}
+{"query":"Launch the Docker interface","label":159}
+{"query":"Bring the Docker window into view","label":159}
+{"query":"Put Docker on my screen","label":159}
+{"query":"Get the Docker application ready to use","label":159}
+{"query":"Take me into the Docker interface","label":159}
+{"query":"I need to manage containers, so bring up Docker","label":159}
+{"query":"Before I work with my containers, open the Docker application","label":159}
+{"query":"Docker, get it open","label":159}
+{"query":"Open my email application","label":160}
+{"query":"Launch the mail app","label":160}
+{"query":"Start my email client","label":160}
+{"query":"Bring the email application into view","label":160}
+{"query":"Take me to my inbox app","label":160}
+{"query":"Put my mail client on the screen","label":160}
+{"query":"Get the email program ready for me","label":160}
+{"query":"I want to read my messages, so open the email app","label":160}
+{"query":"Bring up my mail application so I can check the inbox","label":160}
+{"query":"Email app, open it","label":160}
+{"query":"Launch Signal and make it active","label":161}
+{"query":"Open Signal or focus its existing window","label":161}
+{"query":"Bring my Signal conversation window forward","label":161}
+{"query":"Make the Signal application current","label":161}
+{"query":"Put the messaging app Signal in front","label":161}
+{"query":"Return me to my most recent Signal window","label":161}
+{"query":"Get Signal ready, opening it if necessary","label":161}
+{"query":"I need to reply to a secure message, so take me to Signal","label":161}
+{"query":"Bring Signal forward because I want to continue my conversation","label":161}
+{"query":"Signal next, please","label":161}
+{"query":"Launch Music and make it active","label":162}
+{"query":"Open Music or focus its existing window","label":162}
+{"query":"Bring my Music application window forward","label":162}
+{"query":"Make the Music application current","label":162}
+{"query":"Put the music player in front","label":162}
+{"query":"Return me to my most recent Music window","label":162}
+{"query":"Get Music ready, opening it if necessary","label":162}
+{"query":"I want to choose something to listen to, so take me to Music","label":162}
+{"query":"Bring Music forward because I want to browse my library","label":162}
+{"query":"Music next, please","label":162}
+{"query":"Open my editor application","label":163}
+{"query":"Launch the text editor","label":163}
+{"query":"Start a fresh editor instance","label":163}
+{"query":"Bring the editor application into view","label":163}
+{"query":"Put the editing program on my screen","label":163}
+{"query":"Get my code editor ready","label":163}
+{"query":"Take me into the editing application","label":163}
+{"query":"I need to modify a file, so launch the editor","label":163}
+{"query":"Open my editor because I am ready to work on the document","label":163}
+{"query":"Editor, get it open","label":163}
+{"query":"Open or focus Obsidian on this workspace","label":164}
+{"query":"Bring the latest Obsidian window here to the front","label":164}
+{"query":"Launch Obsidian here if no window is available","label":164}
+{"query":"Make Obsidian active on my current workspace","label":164}
+{"query":"Put my note-taking app in front on this desktop","label":164}
+{"query":"Return to the most recently used Obsidian window here","label":164}
+{"query":"Get Obsidian ready within this workspace","label":164}
+{"query":"I want to edit my notes without leaving this workspace, so bring up Obsidian","label":164}
+{"query":"Focus my latest Obsidian window here so I can continue writing","label":164}
+{"query":"Obsidian here, make it active","label":164}
+{"query":"Launch or focus Google Photos","label":165}
+{"query":"Bring the latest Google Photos window forward","label":165}
+{"query":"Open Google Photos if it is not already running","label":165}
+{"query":"Make Google Photos my active application","label":165}
+{"query":"Put my online photo library on screen","label":165}
+{"query":"Return me to the photo app from Google","label":165}
+{"query":"Get Google Photos ready for use","label":165}
+{"query":"I want to browse my pictures, so take me to Google Photos","label":165}
+{"query":"Bring Google Photos forward so I can find an old picture","label":165}
+{"query":"Google Photos, make it active","label":165}
+{"query":"Create a new terminal in floating mode","label":166}
+{"query":"Launch a terminal window outside the tiling layout","label":166}
+{"query":"Open a terminal that remains untiled","label":166}
+{"query":"Start a floating command-line window","label":166}
+{"query":"Give me an untiled shell window","label":166}
+{"query":"Put a free-floating command prompt on screen","label":166}
+{"query":"Spawn a terminal as a separate floating panel","label":166}
+{"query":"I need a quick shell without changing my tiled layout, so open a floating terminal","label":166}
+{"query":"Create a floating terminal over my current windows for a short command","label":166}
+{"query":"Terminal, but floating","label":166}
+{"query":"Launch or focus Google Maps","label":167}
+{"query":"Bring the latest Google Maps window forward","label":167}
+{"query":"Open Google Maps if it is not already running","label":167}
+{"query":"Make Google Maps my active application","label":167}
+{"query":"Put Google's mapping app on screen","label":167}
+{"query":"Return me to the map application from Google","label":167}
+{"query":"Get Google Maps ready for use","label":167}
+{"query":"I need directions, so take me to Google Maps","label":167}
+{"query":"Bring Google Maps forward so I can look up a destination","label":167}
+{"query":"Google Maps, make it active","label":167}
+{"query":"Open the application that stores my passwords","label":168}
+{"query":"Launch my saved-password vault","label":168}
+{"query":"Start the credentials manager","label":168}
+{"query":"Bring my password application into view","label":168}
+{"query":"Take me to my login vault","label":168}
+{"query":"Put the credential manager on screen","label":168}
+{"query":"Let me access the app containing my saved logins","label":168}
+{"query":"I need a stored login, so open my password manager","label":168}
+{"query":"Bring up the credentials vault so I can find an account password","label":168}
+{"query":"Password vault, open it","label":168}
+{"query":"Toggle whether the top panel is visible","label":169}
+{"query":"Reverse the visibility of the bar at the top","label":169}
+{"query":"Show the top bar when absent and hide it when present","label":169}
+{"query":"Change the top panel between shown and hidden","label":169}
+{"query":"Make the upper bar disappear","label":169}
+{"query":"Restore the bar along the screen's upper edge","label":169}
+{"query":"Flip whether the desktop's upper panel is displayed","label":169}
+{"query":"The upper bar is using space I need, so conceal it","label":169}
+{"query":"I cannot access the hidden top panel, so make it visible again","label":169}
+{"query":"Top panel other state","label":169}
+{"query":"Open a new Omawrite session","label":170}
+{"query":"Launch the Omawrite writing application","label":170}
+{"query":"Start Omawrite on this computer","label":170}
+{"query":"Bring an Omawrite window into view","label":170}
+{"query":"Put Omawrite on my screen","label":170}
+{"query":"Get the Omawrite app ready for writing","label":170}
+{"query":"Take me into the Omawrite editor","label":170}
+{"query":"I want a distraction-free place to type, so open Omawrite","label":170}
+{"query":"Launch Omawrite because I am ready to draft some text","label":170}
+{"query":"Omawrite, get it open","label":170}
+{"query":"Open the X platform application","label":171}
+{"query":"Launch the social network X","label":171}
+{"query":"Start an X app window","label":171}
+{"query":"Bring the X platform into view","label":171}
+{"query":"Put the X social network on my screen","label":171}
+{"query":"Take me into the app formerly called Twitter","label":171}
+{"query":"Get the X application ready to use","label":171}
+{"query":"I want to check my social feed, so open X","label":171}
+{"query":"Bring up X because I want to read recent posts","label":171}
+{"query":"X app, open it","label":171}
+{"query":"Open the YouTube video platform","label":172}
+{"query":"Launch the YouTube web app","label":172}
+{"query":"Start a YouTube app window","label":172}
+{"query":"Bring the YouTube platform into view","label":172}
+{"query":"Put the video site YouTube on my screen","label":172}
+{"query":"Take me into the YouTube application","label":172}
+{"query":"Get YouTube ready for viewing","label":172}
+{"query":"I want to watch a video, so open YouTube","label":172}
+{"query":"Bring up YouTube because I want to browse my subscriptions","label":172}
+{"query":"YouTube, get it open","label":172}
+{"query":"Increase scaling for the current monitor by one level","label":173}
+{"query":"Raise this display's scaling setting","label":173}
+{"query":"Move the active screen to a higher scale factor","label":173}
+{"query":"Step the monitor scale upward","label":173}
+{"query":"Magnify the interface using the display scale","label":173}
+{"query":"Make items on this monitor larger through scaling","label":173}
+{"query":"Apply the next larger scaling level to this screen","label":173}
+{"query":"The interface is hard to read, so increase scaling on this monitor","label":173}
+{"query":"On this high-resolution screen, raise the scale to enlarge desktop elements","label":173}
+{"query":"Screen scale needs bigger","label":173}
+{"query":"Switch directly to the first member of this window group","label":174}
+{"query":"Focus window number one within the active group","label":174}
+{"query":"Activate the group's first window","label":174}
+{"query":"Select the window occupying the first group position","label":174}
+{"query":"Put the initial window in this group in focus","label":174}
+{"query":"Choose the first entry from the current window group","label":174}
+{"query":"Move attention to member number one of this group","label":174}
+{"query":"I have several grouped windows; bring the first one to the foreground","label":174}
+{"query":"Within this active group, make its first window the one I am viewing","label":174}
+{"query":"Group member one, switch there","label":174}
+{"query":"Switch directly to the second member of this window group","label":175}
+{"query":"Focus window number two within the active group","label":175}
+{"query":"Activate the group's second window","label":175}
+{"query":"Select the window occupying the second group position","label":175}
+{"query":"Put the window in position two of this group in focus","label":175}
+{"query":"Choose the second entry from the current window group","label":175}
+{"query":"Move attention to member number two of this group","label":175}
+{"query":"I have several grouped windows; bring the second one to the foreground","label":175}
+{"query":"Within this active group, make its second window the one I am viewing","label":175}
+{"query":"Group member two, switch there","label":175}
+{"query":"Switch directly to the third member of this window group","label":176}
+{"query":"Focus window number three within the active group","label":176}
+{"query":"Activate the group's third window","label":176}
+{"query":"Select the window occupying the third group position","label":176}
+{"query":"Put the third-listed window in this group in focus","label":176}
+{"query":"Choose the third entry from the current window group","label":176}
+{"query":"Move attention to member number three of this group","label":176}
+{"query":"I have several grouped windows; bring the third one to the foreground","label":176}
+{"query":"Within this active group, make its third window the one I am viewing","label":176}
+{"query":"Group member three, switch there","label":176}
+{"query":"Switch directly to the fourth member of this window group","label":177}
+{"query":"Focus window number four within the active group","label":177}
+{"query":"Activate the group's fourth window","label":177}
+{"query":"Select the window occupying the fourth group position","label":177}
+{"query":"Put the fourth-listed window in this group in focus","label":177}
+{"query":"Choose the fourth entry from the current window group","label":177}
+{"query":"Move attention to member number four of this group","label":177}
+{"query":"I have several grouped windows; bring the fourth one to the foreground","label":177}
+{"query":"Within this active group, make its fourth window the one I am viewing","label":177}
+{"query":"Group member four, switch there","label":177}
+{"query":"Activate the fifth window in the current group","label":178}
+{"query":"Bring group window number five into focus","label":178}
+{"query":"Choose the fifth member of this window group","label":178}
+{"query":"Navigate directly to window five within the group","label":178}
+{"query":"Make the group's fifth window the active one","label":178}
+{"query":"Move my focus to group member number five","label":178}
+{"query":"Display member five of the current window group","label":178}
+{"query":"This group contains five windows; activate the last one","label":178}
+{"query":"While staying in this group, take me straight to its fifth member","label":178}
+{"query":"Fifth group window, now","label":178}
+{"query":"Transfer the focused window into the group immediately below","label":179}
+{"query":"Merge the active window with the lower window group","label":179}
+{"query":"Place my current window inside the group beneath it","label":179}
+{"query":"Attach this window to the group at the bottom","label":179}
+{"query":"Make this window a member of the group one row down","label":179}
+{"query":"Shift the focused window downward into the neighboring group","label":179}
+{"query":"Combine this window with the grouped windows underneath it","label":179}
+{"query":"The destination group is below the active window; add the window there","label":179}
+{"query":"I am reorganizing the layout, so merge this window into the group beneath it","label":179}
+{"query":"Window to lower group","label":179}
+{"query":"Extract the active window from its current group","label":180}
+{"query":"Make the focused window independent of its group","label":180}
+{"query":"Remove only this window from the grouped set","label":180}
+{"query":"Break the current window away from its group","label":180}
+{"query":"Leave the rest grouped while making this window separate","label":180}
+{"query":"Turn the focused group member into a standalone window","label":180}
+{"query":"Release this window from the collection it belongs to","label":180}
+{"query":"I still need the other windows together, but pull the active one out","label":180}
+{"query":"This member no longer belongs in the group; separate it without affecting the others","label":180}
+{"query":"Free this grouped window","label":180}
+{"query":"Transfer the focused window into the group immediately to the left","label":181}
+{"query":"Merge the active window with the left-side window group","label":181}
+{"query":"Place my current window inside the neighboring group on the left","label":181}
+{"query":"Attach this window to the group located leftward","label":181}
+{"query":"Make this window a member of the adjacent left group","label":181}
+{"query":"Shift the focused window sideways into the group on its left","label":181}
+{"query":"Combine this window with the grouped windows to the left of it","label":181}
+{"query":"The destination group is left of the active window; add the window there","label":181}
+{"query":"I am reorganizing the layout, so merge this window into the group on its left","label":181}
+{"query":"Window to left-side group","label":181}
+{"query":"Select the following grouped window with the mouse wheel","label":182}
+{"query":"Use mouse scrolling to advance focus to the next window in this group","label":182}
+{"query":"Move one window forward in the group by rolling the mouse wheel","label":182}
+{"query":"With the mouse, focus the group member after this one","label":182}
+{"query":"Advance through this window group using wheel scrolling","label":182}
+{"query":"Roll the mouse wheel to continue to the following member of the group","label":182}
+{"query":"Navigate ahead by one grouped window through mouse scrolling","label":182}
+{"query":"I am staying in this window group; use the mouse wheel to advance focus once","label":182}
+{"query":"While my pointer is here, scroll the mouse to activate the next group member","label":182}
+{"query":"Mouse wheel, next in group","label":182}
+{"query":"Select the preceding grouped window with the mouse wheel","label":183}
+{"query":"Use mouse scrolling to move focus to the window before this one in the group","label":183}
+{"query":"Move one window backward in the group by rolling the mouse wheel","label":183}
+{"query":"With the mouse, focus the group member before this one","label":183}
+{"query":"Reverse through this window group using wheel scrolling","label":183}
+{"query":"Roll the mouse wheel to revisit the preceding member of the group","label":183}
+{"query":"Navigate back by one grouped window through mouse scrolling","label":183}
+{"query":"I am staying in this window group; use the mouse wheel to move focus back once","label":183}
+{"query":"While my pointer is here, scroll the mouse to activate the prior group member","label":183}
+{"query":"Mouse wheel, back in group","label":183}
+{"query":"Transfer the focused window into the group immediately to the right","label":184}
+{"query":"Merge the active window with the right-side window group","label":184}
+{"query":"Place my current window inside the neighboring group on the right","label":184}
+{"query":"Attach this window to the group located rightward","label":184}
+{"query":"Make this window a member of the adjacent right group","label":184}
+{"query":"Shift the focused window sideways into the group on its right","label":184}
+{"query":"Combine this window with the grouped windows to the right of it","label":184}
+{"query":"The destination group is right of the active window; add the window there","label":184}
+{"query":"I am reorganizing the layout, so merge this window into the group on its right","label":184}
+{"query":"Window to right-side group","label":184}
+{"query":"Activate the window after this one in the current group","label":185}
+{"query":"Advance focus to the next member of the window group","label":185}
+{"query":"Select the following window within this group","label":185}
+{"query":"Cycle ahead once through the grouped windows","label":185}
+{"query":"Make the next grouped member active","label":185}
+{"query":"Continue to the window that follows this one in the group","label":185}
+{"query":"Step forward once within the current window collection","label":185}
+{"query":"I want to remain in this group but activate its following window","label":185}
+{"query":"This group has another member after the current one; move focus there","label":185}
+{"query":"Next one in this group","label":185}
+{"query":"Transfer the focused window into the group immediately above","label":186}
+{"query":"Merge the active window with the upper window group","label":186}
+{"query":"Place my current window inside the group over it","label":186}
+{"query":"Attach this window to the group at the top","label":186}
+{"query":"Make this window a member of the group one row up","label":186}
+{"query":"Shift the focused window upward into the neighboring group","label":186}
+{"query":"Combine this window with the grouped windows above it","label":186}
+{"query":"The destination group is above the active window; add the window there","label":186}
+{"query":"I am reorganizing the layout, so merge this window into the group over it","label":186}
+{"query":"Window to upper group","label":186}
+{"query":"Shift focus left within the grouped windows","label":187}
+{"query":"Activate the grouped window immediately to the left","label":187}
+{"query":"Move the group focus one position leftward","label":187}
+{"query":"Select the left neighbor in this window group","label":187}
+{"query":"Give focus to the group member on the left side","label":187}
+{"query":"Step sideways to the left-hand window in the group","label":187}
+{"query":"Move my attention left across the current grouped set","label":187}
+{"query":"I am working inside a window group; focus its member directly to the left","label":187}
+{"query":"The needed window is the left neighbor in this group, so activate it","label":187}
+{"query":"Group focus leftward","label":187}
+{"query":"Shift focus right within the grouped windows","label":188}
+{"query":"Activate the grouped window immediately to the right","label":188}
+{"query":"Move the group focus one position rightward","label":188}
+{"query":"Select the right neighbor in this window group","label":188}
+{"query":"Give focus to the group member on the right side","label":188}
+{"query":"Step sideways to the right-hand window in the group","label":188}
+{"query":"Move my attention right across the current grouped set","label":188}
+{"query":"I am working inside a window group; focus its member directly to the right","label":188}
+{"query":"The needed window is the right neighbor in this group, so activate it","label":188}
+{"query":"Group focus rightward","label":188}
+{"query":"Reverse whether the current windows are grouped","label":189}
+{"query":"Toggle the active windows between grouped and separate","label":189}
+{"query":"Enable grouping if these windows are separate, otherwise disable it","label":189}
+{"query":"Switch the grouping mode for the current windows","label":189}
+{"query":"Combine these windows when ungrouped or split the group when combined","label":189}
+{"query":"Change these windows to the other grouping arrangement","label":189}
+{"query":"Invert the grouped status of the active window set","label":189}
+{"query":"These windows are separate; turn their grouping on","label":189}
+{"query":"This window set is already grouped; turn grouping off","label":189}
+{"query":"Swap grouped state","label":189}
+{"query":"Activate the window before this one in the current group","label":190}
+{"query":"Move focus to the earlier member of the window group","label":190}
+{"query":"Select the window immediately preceding this one within the group","label":190}
+{"query":"Cycle in reverse once through the grouped windows","label":190}
+{"query":"Make the prior grouped member active","label":190}
+{"query":"Return focus to the window that comes before this one in the group","label":190}
+{"query":"Step back once within the current window collection","label":190}
+{"query":"I want to remain in this group but reactivate its preceding window","label":190}
+{"query":"This group has a member before the current one; move focus there","label":190}
+{"query":"Earlier one in this group","label":190}
+{"query":"Use the mouse wheel to move forward from the active workspace","label":191}
+{"query":"Scroll ahead through workspaces with the mouse","label":191}
+{"query":"Advance the current workspace view by rolling the wheel forward","label":191}
+{"query":"Navigate to the following workspace through mouse scrolling","label":191}
+{"query":"Move the desktop one workspace ahead using the wheel","label":191}
+{"query":"Roll forward from this workspace to the one that follows","label":191}
+{"query":"Progress through the workspace sequence by scrolling forward","label":191}
+{"query":"I am done here for now; use the mouse wheel to advance to the following workspace","label":191}
+{"query":"While keeping my hands on the mouse, scroll onward from the current workspace","label":191}
+{"query":"Wheel to workspace ahead","label":191}
+{"query":"Use the mouse wheel to move backward from the active workspace","label":192}
+{"query":"Scroll back through workspaces with the mouse","label":192}
+{"query":"Reverse the current workspace view by rolling the wheel backward","label":192}
+{"query":"Navigate to the preceding workspace through mouse scrolling","label":192}
+{"query":"Move the desktop one workspace back using the wheel","label":192}
+{"query":"Roll backward from this workspace to the one before it","label":192}
+{"query":"Retreat through the workspace sequence by scrolling backward","label":192}
+{"query":"I need the workspace I just left; use the mouse wheel to go back to it","label":192}
+{"query":"While keeping my hands on the mouse, scroll in reverse from the current workspace","label":192}
+{"query":"Wheel to workspace behind","label":192}
+{"query":"Raise the focused window to the front of the stack","label":193}
+{"query":"Place the active window above every overlapping window","label":193}
+{"query":"Expose the current window by bringing it to the foreground","label":193}
+{"query":"Move the window with focus to the top layer","label":193}
+{"query":"Put the window I am using in front of the others","label":193}
+{"query":"Uncover the active window without changing focus","label":193}
+{"query":"Lift my current window above the rest of the stack","label":193}
+{"query":"Several windows cover the active one; bring that active window to the foreground","label":193}
+{"query":"I need to see the window that already has focus, so raise it over the overlapping ones","label":193}
+{"query":"Current window to front","label":193}
+{"query":"Reduce the volume by one precise step","label":194}
+{"query":"Lower audio output by a single fine increment","label":194}
+{"query":"Make one granular downward adjustment to the sound level","label":194}
+{"query":"Nudge the playback volume down one notch precisely","label":194}
+{"query":"Turn the sound down by the finer adjustment amount","label":194}
+{"query":"Decrease audio just enough for a subtle correction","label":194}
+{"query":"Make the smallest available downward change to volume","label":194}
+{"query":"The audio is barely too loud; reduce it by one precise increment","label":194}
+{"query":"During this call, lower the output volume with the fine adjustment","label":194}
+{"query":"Volume down a hair","label":194}
+{"query":"Advance playback to the track immediately after this one","label":195}
+{"query":"Skip forward to the following song","label":195}
+{"query":"Select the next item in the current music queue","label":195}
+{"query":"Leave this track and start its successor","label":195}
+{"query":"Continue playback with the song that comes next","label":195}
+{"query":"Move the playlist ahead by exactly one item","label":195}
+{"query":"Jump past the current audio track to the following one","label":195}
+{"query":"I do not want to finish this song; continue with the next track in the queue","label":195}
+{"query":"While the playlist is running, advance from the current track to its successor","label":195}
+{"query":"Next song now","label":195}
+{"query":"Increase the volume by one precise step","label":196}
+{"query":"Raise audio output by a single fine increment","label":196}
+{"query":"Make one granular upward adjustment to the sound level","label":196}
+{"query":"Nudge the playback volume up one notch precisely","label":196}
+{"query":"Turn the sound up by the finer adjustment amount","label":196}
+{"query":"Increase audio just enough for a subtle correction","label":196}
+{"query":"Make the smallest available upward change to volume","label":196}
+{"query":"The audio is barely too quiet; increase it by one precise increment","label":196}
+{"query":"During this call, raise the output volume with the fine adjustment","label":196}
+{"query":"Volume up a hair","label":196}
+{"query":"Reduce display brightness by one precise step","label":197}
+{"query":"Lower the screen light by a single fine increment","label":197}
+{"query":"Make one granular downward adjustment to monitor brightness","label":197}
+{"query":"Nudge the display brightness down one notch precisely","label":197}
+{"query":"Dim the screen by the finer adjustment amount","label":197}
+{"query":"Reduce the display light just enough for a subtle correction","label":197}
+{"query":"Make the smallest available downward change to screen brightness","label":197}
+{"query":"The monitor is barely too bright; dim it by one precise increment","label":197}
+{"query":"In this dark room, lower the display brightness with the fine adjustment","label":197}
+{"query":"Screen dimmer a hair","label":197}
+{"query":"Increase display brightness by one precise step","label":198}
+{"query":"Raise the screen light by a single fine increment","label":198}
+{"query":"Make one granular upward adjustment to monitor brightness","label":198}
+{"query":"Nudge the display brightness up one notch precisely","label":198}
+{"query":"Brighten the screen by the finer adjustment amount","label":198}
+{"query":"Increase the display light just enough for a subtle correction","label":198}
+{"query":"Make the smallest available upward change to screen brightness","label":198}
+{"query":"The monitor is barely too dim; brighten it by one precise increment","label":198}
+{"query":"In this bright room, raise the display brightness with the fine adjustment","label":198}
+{"query":"Screen brighter a hair","label":198}
+{"query":"Return playback to the track immediately before this one","label":199}
+{"query":"Skip backward to the preceding song","label":199}
+{"query":"Select the prior item in the current music queue","label":199}
+{"query":"Leave this track and restart its predecessor","label":199}
+{"query":"Resume playback with the song that came before","label":199}
+{"query":"Move the playlist backward by exactly one item","label":199}
+{"query":"Jump from the current audio track to the earlier one","label":199}
+{"query":"I want to hear the last song again; return to the track before this one","label":199}
+{"query":"While the playlist is running, move from the current track to its predecessor","label":199}
+{"query":"Prior song now","label":199}
+{"query":"Change the current audio output device","label":200}
+{"query":"Switch over to another sound output","label":200}
+{"query":"Select a different audio output","label":200}
+{"query":"Cycle to the next audio output device","label":200}
+{"query":"Route my sound through another output","label":200}
+{"query":"Move the system audio to a different device","label":200}
+{"query":"Choose somewhere else for the audio to come out","label":200}
+{"query":"My headphones are connected; switch the audio output to them","label":200}
+{"query":"Send the meeting audio to a different output device","label":200}
+{"query":"Other audio output","label":200}
+{"query":"Change the media source targeted by the pause control","label":201}
+{"query":"Select a different player for the pause command","label":201}
+{"query":"Switch which media source receives pause commands","label":201}
+{"query":"Choose the source associated with media pause","label":201}
+{"query":"Make the pause control act on another media player","label":201}
+{"query":"Point my pause command at a different playback source","label":201}
+{"query":"Use another active media session when I request pause","label":201}
+{"query":"The pause control targets my browser; change its source to the music player","label":201}
+{"query":"Before I pause anything, select a different media source for that control","label":201}
+{"query":"Pause target, next source","label":201}
+{"query":"Change the media source targeted by the play control","label":202}
+{"query":"Select a different player for the play command","label":202}
+{"query":"Switch which media source receives play commands","label":202}
+{"query":"Choose the source associated with media play","label":202}
+{"query":"Make the play control act on another media player","label":202}
+{"query":"Point my play command at a different playback source","label":202}
+{"query":"Use another active media session when I request play","label":202}
+{"query":"The play control targets my browser; change its source to the music player","label":202}
+{"query":"Before I start playback, select a different media source for the play control","label":202}
+{"query":"Play target, next source","label":202}
+{"query":"Set the display brightness to its minimum level","label":203}
+{"query":"Take screen brightness all the way down","label":203}
+{"query":"Put the display at minimum brightness","label":203}
+{"query":"Set screen brightness to one percent","label":203}
+{"query":"Dim the screen as far as it can go","label":203}
+{"query":"Drop my display to the lowest brightness setting","label":203}
+{"query":"Make this screen barely lit","label":203}
+{"query":"The room is dark, so set the monitor brightness to minimum","label":203}
+{"query":"Save battery by reducing the display to its lowest brightness","label":203}
+{"query":"Brightness to minimum","label":203}
+{"query":"Set the display brightness to its maximum level","label":204}
+{"query":"Take screen brightness all the way up","label":204}
+{"query":"Put the display at maximum brightness","label":204}
+{"query":"Set screen brightness to one hundred percent","label":204}
+{"query":"Make the screen as bright as possible","label":204}
+{"query":"Raise my display to the highest brightness setting","label":204}
+{"query":"Turn the screen illumination up fully","label":204}
+{"query":"I am outside, so set the monitor brightness to maximum","label":204}
+{"query":"For better visibility, increase the display to full brightness","label":204}
+{"query":"Brightness to maximum","label":204}
+{"query":"Turn the system volume down one step","label":205}
+{"query":"Lower the audio volume","label":205}
+{"query":"Decrease the output volume","label":205}
+{"query":"Reduce the sound level a notch","label":205}
+{"query":"Make the audio a little quieter","label":205}
+{"query":"Bring the speaker level down","label":205}
+{"query":"Ease off the sound volume","label":205}
+{"query":"This video is too loud, so lower the volume","label":205}
+{"query":"Reduce the volume while I am on this call","label":205}
+{"query":"Volume down a bit","label":205}
+{"query":"Mute the microphone input","label":206}
+{"query":"Turn off microphone sound capture","label":206}
+{"query":"Unmute the microphone input","label":206}
+{"query":"Reverse the microphone mute status","label":206}
+{"query":"Stop my mic from picking up audio","label":206}
+{"query":"Let the microphone capture sound again","label":206}
+{"query":"Change whether my mic is muted","label":206}
+{"query":"I am stepping away from the call, so mute my microphone","label":206}
+{"query":"Nobody can hear me; turn microphone mute off","label":206}
+{"query":"Mic mute on","label":206}
+{"query":"Mute the audio output","label":207}
+{"query":"Silence all system sound","label":207}
+{"query":"Unmute the audio output","label":207}
+{"query":"Toggle output audio mute","label":207}
+{"query":"Cut off the sound from my speakers","label":207}
+{"query":"Let the system audio be heard again","label":207}
+{"query":"Change whether the output is silenced","label":207}
+{"query":"The speakers are distracting everyone, so mute the sound","label":207}
+{"query":"I cannot hear the video; unmute the system audio","label":207}
+{"query":"Sound mute on","label":207}
+{"query":"Pause the current media playback","label":208}
+{"query":"Suspend playback for now","label":208}
+{"query":"Pause whatever is currently playing","label":208}
+{"query":"Stop the active media temporarily","label":208}
+{"query":"Hold this track where it is","label":208}
+{"query":"Put the playing content on pause","label":208}
+{"query":"Freeze playback at this point","label":208}
+{"query":"I need to answer the door, so pause the video","label":208}
+{"query":"Pause the music while I take this phone call","label":208}
+{"query":"Pause it now","label":208}
+{"query":"Play the currently selected media","label":209}
+{"query":"Start media playback","label":209}
+{"query":"Resume the paused media","label":209}
+{"query":"Begin playing the active track","label":209}
+{"query":"Get the current video playing","label":209}
+{"query":"Continue playback from where it stopped","label":209}
+{"query":"Let the selected media run again","label":209}
+{"query":"The interruption is over, so resume the music","label":209}
+{"query":"Start the video now that everyone is ready","label":209}
+{"query":"Play it now","label":209}
+{"query":"Turn the system volume up one step","label":210}
+{"query":"Raise the audio volume","label":210}
+{"query":"Increase the output volume","label":210}
+{"query":"Boost the sound level a notch","label":210}
+{"query":"Make the audio a little louder","label":210}
+{"query":"Bring the speaker level up","label":210}
+{"query":"Give me more sound volume","label":210}
+{"query":"This podcast is too quiet, so raise the volume","label":210}
+{"query":"Increase the volume so I can hear the call","label":210}
+{"query":"Volume up a bit","label":210}
+{"query":"Eject the inserted removable media","label":211}
+{"query":"Remove the mounted media safely","label":211}
+{"query":"Eject the current disc or drive","label":211}
+{"query":"Release the removable storage device","label":211}
+{"query":"Prepare this external media for removal","label":211}
+{"query":"Safely disconnect the inserted storage","label":211}
+{"query":"Make the removable drive ready to pull out","label":211}
+{"query":"I am done copying files, so eject the external drive","label":211}
+{"query":"Before I unplug this USB device, safely eject its media","label":211}
+{"query":"Eject this drive","label":211}
+{"query":"Lower the keyboard backlight brightness","label":212}
+{"query":"Decrease keyboard illumination one step","label":212}
+{"query":"Turn the keyboard brightness down","label":212}
+{"query":"Dim the keyboard backlight","label":212}
+{"query":"Make the keys glow less brightly","label":212}
+{"query":"Reduce the light beneath the keyboard keys","label":212}
+{"query":"Take the keyboard lighting down a notch","label":212}
+{"query":"The key lighting is distracting me, so lower its brightness","label":212}
+{"query":"Dim the keyboard backlight while I watch this film","label":212}
+{"query":"Keyboard light down","label":212}
+{"query":"Raise the keyboard backlight brightness","label":213}
+{"query":"Increase keyboard illumination one step","label":213}
+{"query":"Turn the keyboard brightness up","label":213}
+{"query":"Brighten the keyboard backlight","label":213}
+{"query":"Make the keys glow more brightly","label":213}
+{"query":"Increase the light beneath the keyboard keys","label":213}
+{"query":"Take the keyboard lighting up a notch","label":213}
+{"query":"I cannot see the keys, so raise their backlight brightness","label":213}
+{"query":"Brighten the keyboard backlight while I work in the dark","label":213}
+{"query":"Keyboard light up","label":213}
+{"query":"Cycle to the next keyboard backlight level","label":214}
+{"query":"Advance the keyboard illumination setting","label":214}
+{"query":"Step through the keyboard backlight levels","label":214}
+{"query":"Change to the next keyboard brightness state","label":214}
+{"query":"Move the key lighting along by one setting","label":214}
+{"query":"Rotate through the available keyboard light levels","label":214}
+{"query":"Switch the keyboard glow to its next intensity","label":214}
+{"query":"The current key lighting is not right, so cycle it once","label":214}
+{"query":"Advance the keyboard lighting by one step, returning to zero only when already at maximum","label":214}
+{"query":"Next keyboard light level","label":214}
+{"query":"Lower the display brightness one step","label":215}
+{"query":"Decrease monitor brightness","label":215}
+{"query":"Turn the screen brightness down","label":215}
+{"query":"Dim the display a notch","label":215}
+{"query":"Make the monitor slightly less bright","label":215}
+{"query":"Reduce how much light the screen emits","label":215}
+{"query":"Take the display lighting down a little","label":215}
+{"query":"The screen is straining my eyes, so lower its brightness","label":215}
+{"query":"Dim the monitor slightly while I read at night","label":215}
+{"query":"Screen brightness down","label":215}
+{"query":"Raise the display brightness one step","label":216}
+{"query":"Increase monitor brightness","label":216}
+{"query":"Turn the screen brightness up","label":216}
+{"query":"Brighten the display a notch","label":216}
+{"query":"Make the monitor slightly brighter","label":216}
+{"query":"Increase how much light the screen emits","label":216}
+{"query":"Take the display lighting up a little","label":216}
+{"query":"The screen is hard to see, so raise its brightness","label":216}
+{"query":"Brighten the monitor slightly while I work by the window","label":216}
+{"query":"Screen brightness up","label":216}
+{"query":"Open the system power menu","label":217}
+{"query":"Show the available power options","label":217}
+{"query":"Bring up the power controls menu","label":217}
+{"query":"Display the menu for power actions","label":217}
+{"query":"Let me choose a system power action","label":217}
+{"query":"Show me where to shut down or restart","label":217}
+{"query":"Give me the computer power choices","label":217}
+{"query":"I need to restart shortly, so open the power menu","label":217}
+{"query":"Before I leave, show the shutdown and power options","label":217}
+{"query":"Power choices","label":217}
+{"query":"Disable touchpad input","label":218}
+{"query":"Turn the laptop touchpad off","label":218}
+{"query":"Deactivate the built-in touchpad","label":218}
+{"query":"Block input from the touchpad","label":218}
+{"query":"Stop the trackpad from responding","label":218}
+{"query":"Make the laptop ignore touchpad gestures","label":218}
+{"query":"Switch off the pointing pad","label":218}
+{"query":"I am using a mouse, so disable the touchpad","label":218}
+{"query":"Prevent accidental cursor movement by turning off the touchpad","label":218}
+{"query":"Touchpad off now","label":218}
+{"query":"Enable touchpad input","label":219}
+{"query":"Turn the laptop touchpad on","label":219}
+{"query":"Activate the built-in touchpad","label":219}
+{"query":"Allow input from the touchpad","label":219}
+{"query":"Make the trackpad respond again","label":219}
+{"query":"Let the laptop accept touchpad gestures","label":219}
+{"query":"Switch on the pointing pad","label":219}
+{"query":"My mouse is unavailable, so enable the touchpad","label":219}
+{"query":"Restore cursor control by turning on the touchpad","label":219}
+{"query":"Touchpad on now","label":219}
+{"query":"Toggle the touchpad state","label":220}
+{"query":"Toggle the pointing pad to whichever state is opposite its current one","label":220}
+{"query":"Invert the laptop trackpad's current enabled state","label":220}
+{"query":"Change whether the touchpad is enabled","label":220}
+{"query":"Flip the trackpad between active and inactive","label":220}
+{"query":"Reverse the current touchpad setting","label":220}
+{"query":"Change the pointing pad to its other state","label":220}
+{"query":"I connected a mouse, so toggle the touchpad off","label":220}
+{"query":"My mouse battery died, so toggle the touchpad on","label":220}
+{"query":"Flip touchpad state","label":220}
+{"query":"Open the Tmux keybindings reference","label":221}
+{"query":"Show the Tmux shortcut guide","label":221}
+{"query":"Display Tmux keyboard commands","label":221}
+{"query":"Bring up searchable Tmux keybindings","label":221}
+{"query":"Let me browse the Tmux hotkeys","label":221}
+{"query":"Help me look up a Tmux keyboard command","label":221}
+{"query":"Show me the available Tmux shortcuts","label":221}
+{"query":"I forgot how to split a pane, so open the Tmux keybinding guide","label":221}
+{"query":"While working in a session, let me search the Tmux shortcuts","label":221}
+{"query":"Tmux hotkey help","label":221}
+{"query":"Open the Herdr keybindings reference","label":222}
+{"query":"Show the Herdr shortcut guide","label":222}
+{"query":"Display Herdr keyboard commands","label":222}
+{"query":"Bring up searchable Herdr keybindings","label":222}
+{"query":"Let me browse the Herdr hotkeys","label":222}
+{"query":"Help me look up a Herdr keyboard command","label":222}
+{"query":"Show me the available Herdr shortcuts","label":222}
+{"query":"I forgot a Herdr command, so open its keybinding guide","label":222}
+{"query":"While using Herdr, let me search its shortcut reference","label":222}
+{"query":"Herdr hotkey help","label":222}

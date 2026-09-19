@@ -9,7 +9,10 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "chromadb>=1.5.9",
+    "ipython>=9.17.1",
     "pyyaml>=6.0.3",
+    "rich>=15.0.0",
+    "tensorflow>=2.21.0",
 ]
 
 [project.scripts]
