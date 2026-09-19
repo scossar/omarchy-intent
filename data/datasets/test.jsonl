@@ -1,0 +1,1115 @@
+{"query": "Open Docker on this computer", "label": 159}
+{"query": "I need several shell panes for this task, so start tmux", "label": 22}
+{"query": "Skip backward to the preceding song", "label": 199}
+{"query": "Expand the window toward the left", "label": 76}
+{"query": "Activate the built-in touchpad", "label": 219}
+{"query": "Let alerts pop up normally again", "label": 90}
+{"query": "Launch the shortcut discovery guide", "label": 0}
+{"query": "Trim left-side width", "label": 82}
+{"query": "I need to run a few shell commands, so start a terminal", "label": 2}
+{"query": "I'm organizing my desktop; move this window to workspace 8", "label": 48}
+{"query": "Window see-through off", "label": 93}
+{"query": "Bring this location up in the file manager", "label": 26}
+{"query": "Mute notification popups", "label": 90}
+{"query": "Pull the left boundary inward substantially", "label": 81}
+{"query": "I need to start another program, so show the application menu", "label": 102}
+{"query": "Step forward once within the current window collection", "label": 185}
+{"query": "Change whether the forecast panel is visible", "label": 118}
+{"query": "Power on the laptop's internal display", "label": 124}
+{"query": "I need to see the window that already has focus, so raise it over the overlapping ones", "label": 193}
+{"query": "Navigate directly into workspace 8", "label": 35}
+{"query": "This workspace arrangement is inconvenient; cycle its layout mode", "label": 139}
+{"query": "Get the Docker application ready to use", "label": 159}
+{"query": "Bring up my mail application so I can check the inbox", "label": 160}
+{"query": "Rehome this window on workspace 2", "label": 42}
+{"query": "Relocate the focused window to workspace 1 without taking me there", "label": 51}
+{"query": "Turn the laptop touchpad off", "label": 218}
+{"query": "Make items on this monitor larger through scaling", "label": 173}
+{"query": "Magnify the interface using the display scale", "label": 173}
+{"query": "Move this onscreen window into desktop 1", "label": 41}
+{"query": "Free this grouped window", "label": 180}
+{"query": "Have the current window moved to workspace 2 behind the scenes", "label": 52}
+{"query": "Deactivate right-side bar panel 9", "label": 111}
+{"query": "Increase monitor brightness", "label": 216}
+{"query": "Take me to the controls for Bluetooth connections", "label": 121}
+{"query": "Expand the on-screen camera overlay", "label": 99}
+{"query": "Show me the available Herdr shortcuts", "label": 222}
+{"query": "Flip whether the scratchpad is currently visible", "label": 87}
+{"query": "Make the audio a little quieter", "label": 205}
+{"query": "Focus the window directly to the left", "label": 69}
+{"query": "Stop mirroring the laptop screen", "label": 115}
+{"query": "Clear the last notification", "label": 89}
+{"query": "Select the following grouped window with the mouse wheel", "label": 182}
+{"query": "Raise my WhatsApp app window", "label": 145}
+{"query": "Take my desktop over to workspace 5", "label": 32}
+{"query": "Launch a file manager from the present directory", "label": 26}
+{"query": "The bottom needs major expansion; use the largest increment", "label": 78}
+{"query": "Exchange the active window with the tile directly right of it", "label": 62}
+{"query": "Set this as the remembered window width", "label": 100}
+{"query": "Select a different player for the play command", "label": 202}
+{"query": "Make this window a member of the group one row down", "label": 179}
+{"query": "Reverse the automatic inactivity lock preference", "label": 95}
+{"query": "Navigate directly into workspace 5", "label": 32}
+{"query": "Let me inspect the third numbered panel in the bar", "label": 105}
+{"query": "Advance the keyboard illumination setting", "label": 214}
+{"query": "Put my existing reminders on screen", "label": 116}
+{"query": "Spelling lookup, please", "label": 154}
+{"query": "Let me re-encode a video into a different format", "label": 128}
+{"query": "Launch the primary Omarchy choices menu", "label": 1}
+{"query": "My face is difficult to see in the recording; enlarge the webcam overlay", "label": 99}
+{"query": "Copy selection universally", "label": 14}
+{"query": "Shift the focused window sideways into the group on its left", "label": 181}
+{"query": "Take the display lighting up a little", "label": 216}
+{"query": "Workspace 2, switch me there", "label": 29}
+{"query": "Take the keyboard lighting down a notch", "label": 212}
+{"query": "Choose the third entry from the current window group", "label": 176}
+{"query": "Make it fill screen", "label": 6}
+{"query": "Move the current app window onto workspace 3", "label": 43}
+{"query": "Switch how the current window is managed between free and tiled positioning", "label": 11}
+{"query": "Swap back to the desktop I most recently left", "label": 37}
+{"query": "Reduce the window height upward by a small step", "label": 83}
+{"query": "This floating panel is covering my work; park it in the top-right corner", "label": 158}
+{"query": "Wider toward the left", "label": 76}
+{"query": "Bring up the file transcoding interface", "label": 128}
+{"query": "The upper bar is using space I need, so conceal it", "label": 169}
+{"query": "Display the app launcher menu", "label": 102}
+{"query": "Let me return to my WhatsApp conversations", "label": 145}
+{"query": "Password vault, open it", "label": 168}
+{"query": "Activate desktop number 8 as my workspace", "label": 35}
+{"query": "Focus the desktop workspace numbered 4", "label": 31}
+{"query": "I forgot how to trigger an action, so show the keyboard reference", "label": 0}
+{"query": "Run the action from the newest notification", "label": 88}
+{"query": "Freeze playback at this point", "label": 208}
+{"query": "Bump the active window one place rightward in the arrangement", "label": 62}
+{"query": "Sharing choices, please", "label": 134}
+{"query": "Bring the email application into view", "label": 160}
+{"query": "Step ahead by one window without rearranging anything", "label": 64}
+{"query": "The client is using pseudo sizing; return it to filling the tile", "label": 140}
+{"query": "Go to the neighboring window over this one", "label": 71}
+{"query": "Float this window", "label": 11}
+{"query": "Show me the panel for configuring displays", "label": 123}
+{"query": "Have the frontmost window relocated onto workspace 7", "label": 47}
+{"query": "Take my desktop over to workspace 7", "label": 34}
+{"query": "Call up the hardware action menu", "label": 126}
+{"query": "I want to choose something to listen to, so take me to Music", "label": 162}
+{"query": "I'm organizing my desktop; file this window under workspace 3", "label": 43}
+{"query": "Shift this entire workspace downward to another screen", "label": 143}
+{"query": "Shift this entire workspace horizontally to the left screen", "label": 146}
+{"query": "Swap the app between tiled fullscreen and normal tiled view", "label": 125}
+{"query": "Present the sharing menu", "label": 134}
+{"query": "Resize this one", "label": 73}
+{"query": "Want system controls", "label": 4}
+{"query": "Increase the webcam inset dimensions", "label": 99}
+{"query": "Locate or start ChatGPT here", "label": 141}
+{"query": "Workspace downward, please", "label": 143}
+{"query": "The video window is too small, so let it occupy the whole screen", "label": 6}
+{"query": "Change whether the output is silenced", "label": 207}
+{"query": "Step back by one monitor without relocating any windows", "label": 67}
+{"query": "While keeping my hands on the mouse, scroll onward from the current workspace", "label": 191}
+{"query": "Return me to the photo app from Google", "label": 165}
+{"query": "Exchange the active window with the tile directly below", "label": 60}
+{"query": "Advance focus to the next member of the window group", "label": 185}
+{"query": "I need to total these expenses, so start the calculator", "label": 131}
+{"query": "Return to the most recently used Obsidian window here", "label": 164}
+{"query": "Window to lower group", "label": 179}
+{"query": "Shift the focused window upward into the neighboring group", "label": 186}
+{"query": "Move the current window", "label": 72}
+{"query": "Re-encode this media", "label": 128}
+{"query": "Group member four, switch there", "label": 177}
+{"query": "Make everything its usual on-screen size again", "label": 119}
+{"query": "I need plenty more room, so extend the window well to the left", "label": 75}
+{"query": "Pseudotile this window", "label": 140}
+{"query": "Take me to where power usage is configured", "label": 129}
+{"query": "Before the page expires, save its video onto my computer", "label": 96}
+{"query": "I'd like to see desktop workspace 8", "label": 35}
+{"query": "Put the scratch workspace out of sight", "label": 87}
+{"query": "Launch a terminal emulator", "label": 2}
+{"query": "Select the window occupying the first group position", "label": 174}
+{"query": "Start the file browser at my current path", "label": 26}
+{"query": "Move focus to the earlier member of the window group", "label": 190}
+{"query": "Second bar panel, off", "label": 104}
+{"query": "Move the playlist ahead by exactly one item", "label": 195}
+{"query": "Start the video now that everyone is ready", "label": 209}
+{"query": "Bring my running console music player forward, or start it if absent", "label": 147}
+{"query": "Need copied-item history", "label": 17}
+{"query": "Take this edge-to-edge-wide window back to its ordinary horizontal span", "label": 7}
+{"query": "Store how wide the active window is", "label": 100}
+{"query": "Move the window with focus to the top layer", "label": 193}
+{"query": "Push the left boundary outward substantially", "label": 75}
+{"query": "Place the clipboard content into the active application", "label": 15}
+{"query": "Bring up the appearance theme selector", "label": 5}
+{"query": "Return me to the map application from Google", "label": 167}
+{"query": "Move attention to member number two of this group", "label": 175}
+{"query": "Put the messaging app Signal in front", "label": 161}
+{"query": "Drag this window to another location", "label": 72}
+{"query": "Do latest notification action", "label": 88}
+{"query": "Load HEY Calendar for me", "label": 152}
+{"query": "Move the frontmost app to workspace 5 and leave focus here", "label": 55}
+{"query": "I am away from the charger and need the remaining battery status", "label": 113}
+{"query": "Put my previous location in front of me again", "label": 37}
+{"query": "Activate Grok for me", "label": 142}
+{"query": "I want to read my messages, so open the email app", "label": 160}
+{"query": "I'd like to see desktop workspace 2", "label": 29}
+{"query": "Put workspace 1 in front of me", "label": 28}
+{"query": "Let me manage the files right where I am", "label": 26}
+{"query": "Put the initial window in this group in focus", "label": 174}
+{"query": "Dim the screen as far as it can go", "label": 203}
+{"query": "Pop the current window out as floating and pinned", "label": 13}
+{"query": "Before restyling the interface, let me inspect the available themes", "label": 5}
+{"query": "I need to reconnect a wireless keyboard from the Bluetooth controls", "label": 121}
+{"query": "Switch my view to workspace number 7", "label": 34}
+{"query": "File this window under workspace 7 but keep showing my present workspace", "label": 57}
+{"query": "Extract this item from its current place for later insertion", "label": 16}
+{"query": "The pause control targets my browser; change its source to the music player", "label": 201}
+{"query": "While my pointer is here, scroll the mouse to activate the prior group member", "label": 183}
+{"query": "Help me look up a Herdr keyboard command", "label": 222}
+{"query": "Deactivate right-side bar panel 2", "label": 104}
+{"query": "Take my desktop over to workspace 6", "label": 33}
+{"query": "Put the bar's fifth panel away", "label": 107}
+{"query": "Bring up the emoji selection panel", "label": 18}
+{"query": "Hardware choices, now", "label": 126}
+{"query": "Make the text music player current", "label": 147}
+{"query": "Raise the screen light by a single fine increment", "label": 198}
+{"query": "Give the window a downward expansion", "label": 79}
+{"query": "Put the editing program on my screen", "label": 163}
+{"query": "My mouse battery died, so toggle the touchpad on", "label": 220}
+{"query": "Select the right neighbor in this window group", "label": 188}
+{"query": "Tmux hotkey help", "label": 221}
+{"query": "Start Omawrite on this computer", "label": 170}
+{"query": "Change the pointing pad to its other state", "label": 220}
+{"query": "I need to demonstrate this workflow, so open the screen recording setup", "label": 21}
+{"query": "Move focus to the window on the left side", "label": 69}
+{"query": "Flip scratchpad visibility", "label": 87}
+{"query": "Transfer the focused window to scratchpad storage", "label": 86}
+{"query": "Fifth group window, now", "label": 178}
+{"query": "Bring the on-screen interface nearer", "label": 137}
+{"query": "I'd like this window shifted over to workspace 8", "label": 48}
+{"query": "I have handled the alerts, so dismiss the entire stack", "label": 92}
+{"query": "Let me return to the music interface in my terminal", "label": 147}
+{"query": "Launch the graphical file browser", "label": 3}
+{"query": "I need information from the third right-hand bar panel, so expose it", "label": 105}
+{"query": "Add a generous amount of height beneath the window", "label": 78}
+{"query": "Take my desktop over to workspace 9", "label": 36}
+{"query": "Grow this window downward by the regular amount", "label": 79}
+{"query": "Without moving anything, select the window over this one", "label": 71}
+{"query": "Use the other orientation for this window division", "label": 12}
+{"query": "Reinstate the stored width for this window", "label": 138}
+{"query": "Select the prior item in the current music queue", "label": 199}
+{"query": "Window goes workspace 6", "label": 46}
+{"query": "Stretch the active window across the available horizontal space", "label": 7}
+{"query": "Put a browser in front of me", "label": 25}
+{"query": "While the playlist is running, move from the current track to its predecessor", "label": 199}
+{"query": "Dim the display a notch", "label": 215}
+{"query": "Decrease the webcam inset dimensions", "label": 98}
+{"query": "Make ChatGPT current on this desktop", "label": 141}
+{"query": "List my saved reminders", "label": 116}
+{"query": "Focus window number two within the active group", "label": 175}
+{"query": "Before I start playback, select a different media source for the play control", "label": 202}
+{"query": "I am reorganizing the layout, so merge this window into the group beneath it", "label": 179}
+{"query": "HEY calendar app, please", "label": 152}
+{"query": "I am reorganizing the layout, so merge this window into the group over it", "label": 186}
+{"query": "Restore the last active workspace", "label": 37}
+{"query": "I have several grouped windows; bring the second one to the foreground", "label": 175}
+{"query": "I am presenting my screen, so suppress notification banners", "label": 90}
+{"query": "Make inactivity automatically secure the session", "label": 95}
+{"query": "Select the window right of the current one", "label": 70}
+{"query": "Let me confirm the spelling of a term", "label": 154}
+{"query": "Flip whether the desktop's upper panel is displayed", "label": 169}
+{"query": "Contract this window modestly from the left side", "label": 80}
+{"query": "Move the floating window into the northwest corner", "label": 156}
+{"query": "I'm done here and want to work from workspace 1", "label": 28}
+{"query": "I want a different desktop look, so show the theme selector", "label": 5}
+{"query": "Put this desktop area onto the screen on my right", "label": 148}
+{"query": "I'm still working here; send the active window away to workspace 3", "label": 53}
+{"query": "Move the current app window onto workspace 10", "label": 40}
+{"query": "Use mouse scrolling to move focus to the window before this one in the group", "label": 183}
+{"query": "Window to 9, me stay here", "label": 59}
+{"query": "Activate the on-screen color sampler", "label": 19}
+{"query": "Make sure no reminders remain", "label": 157}
+{"query": "I need a capture type, so reveal the selection menu", "label": 122}
+{"query": "Relocate the current workspace onto the lower monitor", "label": 143}
+{"query": "Before the meeting begins, tell me the current time", "label": 117}
+{"query": "Browser, get it going", "label": 25}
+{"query": "Ease off the sound volume", "label": 205}
+{"query": "Return the sole window to non-square proportions", "label": 120}
+{"query": "Let me see the local forecast panel", "label": 118}
+{"query": "Lower the screen light by a single fine increment", "label": 197}
+{"query": "Cut selection universally", "label": 16}
+{"query": "Take a screenshot using the interactive tool", "label": 20}
+{"query": "Combine this window with the grouped windows to the right of it", "label": 184}
+{"query": "In this dark room, lower the display brightness with the fine adjustment", "label": 197}
+{"query": "I need to visit a site without using my normal browser session", "label": 24}
+{"query": "Break the current window away from its group", "label": 180}
+{"query": "Leave older alerts alone and remove only the latest notification", "label": 89}
+{"query": "Call up the screen arrangement controls", "label": 123}
+{"query": "I am using only the external monitor, so turn off the notebook display", "label": 124}
+{"query": "Display the computer activity overview", "label": 135}
+{"query": "Deactivate the built-in touchpad", "label": 218}
+{"query": "Bring the latest Google Maps window forward", "label": 167}
+{"query": "Make one granular upward adjustment to monitor brightness", "label": 198}
+{"query": "Cycle to the next audio output device", "label": 200}
+{"query": "Have the front window exchange places with its left-side neighbor", "label": 61}
+{"query": "I would like to begin an X update", "label": 150}
+{"query": "Move the current window downward through a positional swap", "label": 60}
+{"query": "Give me a multiplexed terminal session", "label": 22}
+{"query": "Nudge the left boundary outward just a bit", "label": 74}
+{"query": "I'm organizing my desktop; file this window under workspace 5", "label": 45}
+{"query": "WhatsApp app, now", "label": 145}
+{"query": "Move the current window leftward through a positional swap", "label": 61}
+{"query": "My apps are on workspace 7; change my view there", "label": 34}
+{"query": "I'm organizing my desktop; file this window under workspace 10", "label": 40}
+{"query": "Discard the complete alert list", "label": 92}
+{"query": "Before I pause anything, select a different media source for that control", "label": 201}
+{"query": "I need this reference visible over my other work, so pop it out and pin it", "label": 13}
+{"query": "Move the current window upward through a positional swap", "label": 63}
+{"query": "Assign this window to workspace 6", "label": 46}
+{"query": "Give the only window a square aspect ratio", "label": 120}
+{"query": "Turn the laptop touchpad on", "label": 219}
+{"query": "My reminders, show them", "label": 116}
+{"query": "Fire up something for browsing the internet", "label": 25}
+{"query": "Remove the mounted media safely", "label": 211}
+{"query": "Grow this window modestly in the leftward direction", "label": 74}
+{"query": "Turn the system volume down one step", "label": 205}
+{"query": "The left side is cramped; expand it by the smallest increment", "label": 74}
+{"query": "Place whichever window is active onto workspace 3", "label": 43}
+{"query": "Increase display brightness by one precise step", "label": 198}
+{"query": "Reduce the window size from the left by a small step", "label": 80}
+{"query": "Let me choose from things I copied earlier", "label": 17}
+{"query": "Put the power management controls on screen", "label": 129}
+{"query": "Show me the panel for audio devices", "label": 112}
+{"query": "I need the workspace I just left; use the mouse wheel to go back to it", "label": 192}
+{"query": "Launch the social network X", "label": 171}
+{"query": "My apps are on workspace 3; change my view there", "label": 30}
+{"query": "Give me a blank post editor for X", "label": 150}
+{"query": "Allow me to drag the window into position", "label": 72}
+{"query": "Decrease monitor brightness", "label": 215}
+{"query": "Give focus to the lower window", "label": 68}
+{"query": "I would like to inspect nearby Bluetooth devices", "label": 121}
+{"query": "Could you park this window on workspace 3 while I stay put?", "label": 53}
+{"query": "Pull the lower boundary upward substantially", "label": 84}
+{"query": "The interruption is over, so resume the music", "label": 209}
+{"query": "Call up the new reminder chooser", "label": 132}
+{"query": "Keyboard light up", "label": 213}
+{"query": "Turn pseudotiling off for the active window", "label": 140}
+{"query": "Deactivate right-side bar panel 3", "label": 105}
+{"query": "Pull up the record of prior alerts", "label": 91}
+{"query": "Editor, get it open", "label": 163}
+{"query": "Terminal, but floating", "label": 166}
+{"query": "Make the window narrower on its left side", "label": 82}
+{"query": "Give me the computer power choices", "label": 217}
+{"query": "Scale the camera preview overlay downward", "label": 98}
+{"query": "Before switching a setting, show all available system toggles", "label": 127}
+{"query": "Bring up a command-line terminal", "label": 2}
+{"query": "The right tile should come here, with this window taking its place", "label": 62}
+{"query": "Swap panel 4 between visible and hidden", "label": 106}
+{"query": "Transfer the focused window into the group immediately to the right", "label": 184}
+{"query": "This app can wait on workspace 6, but do not change my current view", "label": 56}
+{"query": "Reverse the current workspace view by rolling the wheel backward", "label": 192}
+{"query": "Current window goes workspace 5", "label": 45}
+{"query": "Make the most recent notification go away", "label": 89}
+{"query": "Locate or start WhatsApp", "label": 145}
+{"query": "Make this one window go away", "label": 8}
+{"query": "Detach and center this window as a persistent overlay", "label": 13}
+{"query": "Battery left?", "label": 113}
+{"query": "Let me inspect the seventh numbered panel in the bar", "label": 109}
+{"query": "Make WhatsApp current", "label": 145}
+{"query": "Put the app I'm using over on workspace 5", "label": 45}
+{"query": "Activate desktop number 4 as my workspace", "label": 31}
+{"query": "Access the keyboard binding reference", "label": 0}
+{"query": "Activate right-side bar panel 4", "label": 106}
+{"query": "That new message has an action attached; activate it for me", "label": 88}
+{"query": "Increase screen magnification by one step", "label": 137}
+{"query": "Workspace 5, switch me there", "label": 32}
+{"query": "Keep this window in place while I change its width and height", "label": 73}
+{"query": "Set the succeeding monitor as active", "label": 65}
+{"query": "Step back by one window without rearranging anything", "label": 66}
+{"query": "Insert the copied item with universal paste", "label": 15}
+{"query": "Let me look over my upcoming reminders", "label": 116}
+{"query": "Remove a small amount of width from the window's left", "label": 80}
+{"query": "Get the X application ready to use", "label": 171}
+{"query": "Let me get online in the usual browser", "label": 25}
+{"query": "Brightness to maximum", "label": 204}
+{"query": "Make the smallest available upward change to volume", "label": 196}
+{"query": "This group has another member after the current one; move focus there", "label": 185}
+{"query": "Discard the notification that appeared last", "label": 89}
+{"query": "Could you park this window on workspace 9 while I stay put?", "label": 59}
+{"query": "Give me the color value from a point on screen", "label": 19}
+{"query": "This app belongs with my work on workspace 4, so move its window there", "label": 44}
+{"query": "Select the window occupying the fourth group position", "label": 177}
+{"query": "Have the current window moved to workspace 6 behind the scenes", "label": 56}
+{"query": "Make the keys glow more brightly", "label": 213}
+{"query": "Start a new Herdr instance", "label": 23}
+{"query": "Deactivate right-side bar panel 1", "label": 103}
+{"query": "Swap the forecast display between shown and hidden", "label": 118}
+{"query": "Put workspace 10 in front of me", "label": 27}
+{"query": "Swap grouped state", "label": 189}
+{"query": "Toggle my network controls panel", "label": 136}
+{"query": "My apps are on workspace 6; change my view there", "label": 33}
+{"query": "Expand the window slightly toward the left", "label": 74}
+{"query": "I am done here for now; use the mouse wheel to advance to the following workspace", "label": 191}
+{"query": "Make Google Messages current", "label": 155}
+{"query": "I would like to inspect the monitor configuration", "label": 123}
+{"query": "Activate desktop number 7 as my workspace", "label": 34}
+{"query": "Extend the window's bottom edge a little", "label": 77}
+{"query": "Take me to my login vault", "label": 168}
+{"query": "Alternate this window between regular and pseudo tiling", "label": 140}
+{"query": "Put the system on its lock screen", "label": 10}
+{"query": "Access the menu of interface themes", "label": 5}
+{"query": "Raise audio output by a single fine increment", "label": 196}
+{"query": "Window to 1, me stay here", "label": 51}
+{"query": "Restore cursor control by turning on the touchpad", "label": 219}
+{"query": "The lone window is square now, so restore its regular proportions", "label": 120}
+{"query": "Make onscreen elements smaller through display scaling", "label": 101}
+{"query": "Before I leave, show the shutdown and power options", "label": 217}
+{"query": "Taller toward the bottom", "label": 79}
+{"query": "This app can wait on workspace 5, but do not change my current view", "label": 55}
+{"query": "Without rearranging the layout, focus the window to my left", "label": 69}
+{"query": "Activate one workspace later in the sequence", "label": 39}
+{"query": "Capture the open web application's URL to the clipboard", "label": 97}
+{"query": "Switch the scratchpad's visibility", "label": 87}
+{"query": "This podcast is too quiet, so raise the volume", "label": 210}
+{"query": "I would like the active workspace on the upper screen", "label": 149}
+{"query": "Contract this window considerably in the upward direction", "label": 84}
+{"query": "The wide window is taking too much room, so return it to normal width", "label": 7}
+{"query": "Bring my existing Google Messages session forward, or start it if absent", "label": 155}
+{"query": "Move this one around", "label": 72}
+{"query": "Copy the current selection using universal copy", "label": 14}
+{"query": "Bump the active window one place lower in the arrangement", "label": 60}
+{"query": "Bring up the controls for starting a screen recording", "label": 21}
+{"query": "The play control targets my browser; change its source to the music player", "label": 202}
+{"query": "Put the fourth-listed window in this group in focus", "label": 177}
+{"query": "I want to respond to the newest popup using its default action", "label": 88}
+{"query": "Within this active group, make its second window the one I am viewing", "label": 175}
+{"query": "Return to the preceding connected display", "label": 67}
+{"query": "Could you park this window on workspace 7 while I stay put?", "label": 57}
+{"query": "Move one window forward in the group by rolling the mouse wheel", "label": 182}
+{"query": "Change the client's tiled fullscreen state", "label": 125}
+{"query": "Select a different audio output", "label": 200}
+{"query": "This window set is already grouped; turn grouping off", "label": 189}
+{"query": "I must remember an appointment, so open the reminder creation menu", "label": 132}
+{"query": "The interface text is tiny, so increase screen magnification", "label": 137}
+{"query": "Contract this window considerably from the left side", "label": 81}
+{"query": "Window to 8, me stay here", "label": 58}
+{"query": "I would like to pick a different agent", "label": 153}
+{"query": "The demonstration is complete, so stop recording the display now", "label": 21}
+{"query": "Bring Herdr onto the screen", "label": 23}
+{"query": "Present the menu for managing the system", "label": 4}
+{"query": "Place the active window above every overlapping window", "label": 193}
+{"query": "Square up this one window", "label": 120}
+{"query": "I have a question for Grok, so start the application", "label": 142}
+{"query": "Put workspace 6 in front of me", "label": 33}
+{"query": "Return to the preceding open window", "label": 66}
+{"query": "Prior song now", "label": 199}
+{"query": "Dispatch the active window to workspace 1 without following it", "label": 51}
+{"query": "Get rid of the window I am using", "label": 8}
+{"query": "Access my clipboard history", "label": 17}
+{"query": "Focus upper window", "label": 71}
+{"query": "Raise my Google Messages app window", "label": 155}
+{"query": "Before resizing anything, record how wide this window currently is", "label": 100}
+{"query": "Launch the visual theme selection menu", "label": 5}
+{"query": "Brighten the keyboard backlight", "label": 213}
+{"query": "Enable grouping if these windows are separate, otherwise disable it", "label": 189}
+{"query": "OCR the screen bit", "label": 130}
+{"query": "Expose numbered bar panel 9", "label": 111}
+{"query": "Switch the keyboard glow to its next intensity", "label": 214}
+{"query": "Toggle the touchpad state", "label": 220}
+{"query": "Take the display lighting down a little", "label": 215}
+{"query": "Activate right-side bar panel 1", "label": 103}
+{"query": "Reduce the display light just enough for a subtle correction", "label": 197}
+{"query": "Set the prior window as active", "label": 66}
+{"query": "Close the active application window", "label": 8}
+{"query": "Continue playback with the song that comes next", "label": 195}
+{"query": "Send the active workspace to the left-hand display", "label": 146}
+{"query": "Scan a chosen display region for written content", "label": 130}
+{"query": "Give me a list of ways to share", "label": 134}
+{"query": "Step sideways to the right-hand window in the group", "label": 188}
+{"query": "Raise this display's scaling setting", "label": 173}
+{"query": "Conceal numbered bar panel 2", "label": 104}
+{"query": "Take this workspace across to the neighboring left display", "label": 146}
+{"query": "Night light off, thanks", "label": 94}
+{"query": "Display how much power the battery has left", "label": 113}
+{"query": "Move this onscreen window into desktop 10", "label": 40}
+{"query": "Panel 5 is covering something; conceal it for now", "label": 107}
+{"query": "While the build runs, let me watch system resource usage", "label": 135}
+{"query": "Switch my view to workspace number 9", "label": 36}
+{"query": "Bring the window's bottom edge upward a little", "label": 83}
+{"query": "Bring a web browser onto the screen", "label": 25}
+{"query": "Assign this window to workspace 3 while keeping this workspace active", "label": 53}
+{"query": "Exchange the active window with the tile directly above", "label": 63}
+{"query": "Start the color picker for a screen pixel", "label": 19}
+{"query": "Begin a private web session", "label": 24}
+{"query": "The cursor is in the document, so place the clipboard text at this position", "label": 15}
+{"query": "Wheel to workspace behind", "label": 192}
+{"query": "Put the available toggles on screen", "label": 127}
+{"query": "Let the microphone capture sound again", "label": 206}
+{"query": "I have several grouped windows; bring the first one to the foreground", "label": 174}
+{"query": "This is too wide, so trim the window from its left side", "label": 82}
+{"query": "I need to restart shortly, so open the power menu", "label": 217}
+{"query": "Google Maps, make it active", "label": 167}
+{"query": "Invert the grouped status of the active window set", "label": 189}
+{"query": "Group member three, switch there", "label": 176}
+{"query": "I'm still working here; send the active window away to workspace 1", "label": 51}
+{"query": "I need to change a feature state, so reveal the toggles menu", "label": 127}
+{"query": "With the mouse, focus the group member before this one", "label": 183}
+{"query": "How much battery do I have left?", "label": 113}
+{"query": "I cannot hear the video; unmute the system audio", "label": 207}
+{"query": "Alter the size of the focused window", "label": 73}
+{"query": "Dispatch the active window to workspace 4 without following it", "label": 54}
+{"query": "Delete every notification from view", "label": 92}
+{"query": "Bring the Docker window into view", "label": 159}
+{"query": "Skip the inbox and take me straight to a fresh mail composer", "label": 144}
+{"query": "Play it now", "label": 209}
+{"query": "Relocate the focused window to workspace 4 without taking me there", "label": 54}
+{"query": "Before navigating away, put the current web-app link on my clipboard", "label": 97}
+{"query": "Let me look over the main Omarchy choices", "label": 1}
+{"query": "I'm organizing my desktop; move this window to workspace 9", "label": 49}
+{"query": "Let me inspect the second numbered panel in the bar", "label": 104}
+{"query": "Route the active window to workspace 9", "label": 49}
+{"query": "Leave the rest grouped while making this window separate", "label": 180}
+{"query": "Move focus to the window underneath", "label": 68}
+{"query": "Make this window a member of the adjacent left group", "label": 181}
+{"query": "The upper tile should come here, with this window taking its place", "label": 63}
+{"query": "For the introduction, increase the camera inset so the speaker is prominent", "label": 99}
+{"query": "The task I need is on the workspace directly before this in order", "label": 38}
+{"query": "I'm organizing my desktop; move this window to workspace 6", "label": 46}
+{"query": "Have the current window moved to workspace 1 behind the scenes", "label": 51}
+{"query": "Merge the active window with the left-side window group", "label": 181}
+{"query": "Where can I search for a keyboard action?", "label": 0}
+{"query": "Insert whatever I copied most recently", "label": 15}
+{"query": "While the playlist is running, advance from the current track to its successor", "label": 195}
+{"query": "Let me browse the Tmux hotkeys", "label": 221}
+{"query": "Herdr, get it open", "label": 23}
+{"query": "I am finished here for now; focus the window after this one", "label": 64}
+{"query": "Stash this window", "label": 86}
+{"query": "Activate the grouped window immediately to the left", "label": 187}
+{"query": "Launch a media transcoding workflow", "label": 128}
+{"query": "I would like to pick a different wallpaper", "label": 133}
+{"query": "I need to change Wi-Fi settings, so show the network controls", "label": 136}
+{"query": "Bring up the operating system actions menu", "label": 4}
+{"query": "Activate the next window in the downward direction", "label": 68}
+{"query": "Cancel the enlarged display view", "label": 119}
+{"query": "Return this app window to the width preference", "label": 138}
+{"query": "Open a new Omawrite session", "label": 170}
+{"query": "Move my focus to group member number five", "label": 178}
+{"query": "Reveal the energy management panel", "label": 129}
+{"query": "Display the graphical file manager", "label": 3}
+{"query": "Move the frontmost app to workspace 3 and leave focus here", "label": 53}
+{"query": "Bring this application back from its screen-filling view", "label": 6}
+{"query": "Eighth bar panel, off", "label": 110}
+{"query": "Too much desktop space is wasted between tiles; remove that spacing", "label": 151}
+{"query": "With the mouse, focus the group member after this one", "label": 182}
+{"query": "Display the notification history view", "label": 91}
+{"query": "Give me an untiled shell window", "label": 166}
+{"query": "Navigate to the preceding workspace through mouse scrolling", "label": 192}
+{"query": "Take me to the system feature switches", "label": 127}
+{"query": "Launch or focus Google Maps", "label": 167}
+{"query": "Within this active group, make its third window the one I am viewing", "label": 176}
+{"query": "I want to reuse this paragraph elsewhere, so copy it to the clipboard", "label": 14}
+{"query": "Show me the recent contents saved by the clipboard", "label": 17}
+{"query": "Start a YouTube app window", "label": 172}
+{"query": "Prepare this external media for removal", "label": 211}
+{"query": "Increase the window size leftward by a large step", "label": 75}
+{"query": "Workspace 7, switch me there", "label": 34}
+{"query": "There is a percentage I need to work out in the calculator", "label": 131}
+{"query": "Remember the present horizontal size for this app", "label": 100}
+{"query": "Earlier one in this group", "label": 190}
+{"query": "Launch or focus Google Photos", "label": 165}
+{"query": "Open or focus Obsidian on this workspace", "label": 164}
+{"query": "Access the menu of applications", "label": 102}
+{"query": "Assign this window to workspace 10 while keeping this workspace active", "label": 50}
+{"query": "Current window to front", "label": 193}
+{"query": "I would like a tool for doing sums", "label": 131}
+{"query": "Make this window a member of the group one row up", "label": 186}
+{"query": "Assign the focused window to workspace 10", "label": 40}
+{"query": "Eliminate spacing around the tiled windows", "label": 151}
+{"query": "Advance the keyboard lighting by one step, returning to zero only when already at maximum", "label": 214}
+{"query": "Bring the YouTube platform into view", "label": 172}
+{"query": "Bring the editor application into view", "label": 163}
+{"query": "I need to change sleep behavior from the power controls", "label": 129}
+{"query": "Window to upper group", "label": 186}
+{"query": "Let me manage my connected screens", "label": 123}
+{"query": "Workspace layout flip", "label": 139}
+{"query": "Reveal the screen capture menu", "label": 122}
+{"query": "Set the succeeding window as active", "label": 64}
+{"query": "Place the current floating window at the screen's upper-left edge", "label": 156}
+{"query": "Block input from the touchpad", "label": 218}
+{"query": "Herdr hotkey help", "label": 222}
+{"query": "Grab the video loaded in the current web app", "label": 96}
+{"query": "Start the screen capture selector", "label": 20}
+{"query": "Leave this track and start its successor", "label": 195}
+{"query": "Set the monitor to a lower scaling level", "label": 101}
+{"query": "For my next task, put the Grok app on the desktop", "label": 142}
+{"query": "Shift this untiled window to the display's top-left corner", "label": 156}
+{"query": "I have completed my tasks, so remove every reminder", "label": 157}
+{"query": "Before starting the task, let me review the agent choices", "label": 153}
+{"query": "Drag to adjust this window's size", "label": 73}
+{"query": "No idle locking, please", "label": 95}
+{"query": "Tiny downward window growth", "label": 77}
+{"query": "Dispatch the active window to workspace 7 without following it", "label": 57}
+{"query": "I want to work on another screen; focus the monitor after this one", "label": 65}
+{"query": "Transfer the focused window into the group immediately to the left", "label": 181}
+{"query": "Get YouTube ready for viewing", "label": 172}
+{"query": "I'm organizing my desktop; file this window under workspace 1", "label": 41}
+{"query": "Swap between duplicated and independent laptop displays", "label": 115}
+{"query": "Call up the audio options", "label": 112}
+{"query": "Display the available-agent selector", "label": 153}
+{"query": "Focus the preceding desktop in workspace order", "label": 38}
+{"query": "Rehome this window on workspace 3", "label": 43}
+{"query": "I need to locate a document, so bring up the file browser", "label": 3}
+{"query": "Let this window trade spots with the tile on its right side", "label": 62}
+{"query": "Shift my attention one window downward", "label": 68}
+{"query": "Assign the focused window to workspace 2", "label": 42}
+{"query": "Mouse wheel, back in group", "label": 183}
+{"query": "Combine this window with the grouped windows to the left of it", "label": 181}
+{"query": "I am moving through the workspace sequence; go back exactly one position", "label": 38}
+{"query": "Rearrange this workspace using the other layout", "label": 139}
+{"query": "End the currently displayed window", "label": 8}
+{"query": "Show the live resource monitor", "label": 135}
+{"query": "The screen is hard to see, so raise its brightness", "label": 216}
+{"query": "Lock the current desktop session", "label": 10}
+{"query": "Bring up the power controls menu", "label": 217}
+{"query": "Panel 7 is covering something; conceal it for now", "label": 109}
+{"query": "While typing this note, let me pick an emoji character", "label": 18}
+{"query": "Expand the window far toward the left", "label": 75}
+{"query": "Sweep away every outstanding alert", "label": 92}
+{"query": "Make the next grouped member active", "label": 185}
+{"query": "Create a new terminal in floating mode", "label": 166}
+{"query": "Make the pause control act on another media player", "label": 201}
+{"query": "Could you park this window on workspace 2 while I stay put?", "label": 52}
+{"query": "Make the focused window independent of its group", "label": 180}
+{"query": "The content needs space below; expand the bottom normally", "label": 79}
+{"query": "Turn the sound up by the finer adjustment amount", "label": 196}
+{"query": "Sixth bar panel, off", "label": 108}
+{"query": "Send the active workspace to the display overhead", "label": 149}
+{"query": "After reading the small text, return the display to baseline magnification", "label": 119}
+{"query": "Change the media source targeted by the pause control", "label": 201}
+{"query": "Use mouse scrolling to advance focus to the next window in this group", "label": 182}
+{"query": "I would like access to Grok now", "label": 142}
+{"query": "Let me choose when to be reminded", "label": 132}
+{"query": "My apps are on workspace 2; change my view there", "label": 29}
+{"query": "I have several grouped windows; bring the fourth one to the foreground", "label": 177}
+{"query": "Navigate to the following workspace through mouse scrolling", "label": 191}
+{"query": "Call up the power options pane", "label": 129}
+{"query": "Fetch this video from the web application", "label": 96}
+{"query": "Display Herdr keyboard commands", "label": 222}
+{"query": "Back where I was", "label": 37}
+{"query": "Increase audio just enough for a subtle correction", "label": 196}
+{"query": "Stop the active media temporarily", "label": 208}
+{"query": "Workspace 3, switch me there", "label": 30}
+{"query": "Select a different player for the pause command", "label": 201}
+{"query": "Contract this window upward by the regular amount", "label": 85}
+{"query": "I disconnected my monitor, so restore the laptop's built-in screen", "label": 124}
+{"query": "Expose numbered bar panel 5", "label": 107}
+{"query": "Make the window much taller at the bottom", "label": 78}
+{"query": "I would like to begin drafting an email", "label": 144}
+{"query": "I am done working, so close all of my open windows", "label": 9}
+{"query": "Start an X app window", "label": 171}
+{"query": "Show the remaining charge level", "label": 113}
+{"query": "Return me to my most recent Music window", "label": 162}
+{"query": "Change these windows to the other grouping arrangement", "label": 189}
+{"query": "Put the Bluetooth options on screen", "label": 121}
+{"query": "Reveal the clock calendar panel", "label": 114}
+{"query": "Flip split direction", "label": 12}
+{"query": "File this window under workspace 6 but keep showing my present workspace", "label": 56}
+{"query": "Swap window leftward", "label": 61}
+{"query": "Transfer the focused window into the group immediately below", "label": 179}
+{"query": "I need to check an appointment, so start the HEY Calendar web app", "label": 152}
+{"query": "Put the bar's fourth panel away", "label": 106}
+{"query": "Focus the desktop workspace numbered 2", "label": 29}
+{"query": "Turn the sound down by the finer adjustment amount", "label": 194}
+{"query": "Assign this window to workspace 8", "label": 48}
+{"query": "Select the window occupying the second group position", "label": 175}
+{"query": "Quick toggles, now", "label": 127}
+{"query": "Cycle to the next keyboard backlight level", "label": 214}
+{"query": "Show the Tmux shortcut guide", "label": 221}
+{"query": "Put the clock reading on screen", "label": 117}
+{"query": "Show the menu of device hardware options", "label": 126}
+{"query": "I want a distraction-free place to type, so open Omawrite", "label": 170}
+{"query": "Expose numbered bar panel 1", "label": 103}
+{"query": "Open my email application", "label": 160}
+{"query": "Return the current floating window to the tiled layout", "label": 11}
+{"query": "Carry this window across to workspace 4", "label": 44}
+{"query": "The fans are running loudly; show me the activity monitor", "label": 135}
+{"query": "Deliver the current app window to workspace 7", "label": 47}
+{"query": "I have read the newest popup, so dismiss it now", "label": 89}
+{"query": "Reclaim horizontal space by shrinking the left edge normally", "label": 82}
+{"query": "Clear the desktop of every open window", "label": 9}
+{"query": "Could you park this window on workspace 10 while I stay put?", "label": 50}
+{"query": "Shut every currently open window", "label": 9}
+{"query": "Eject the inserted removable media", "label": 211}
+{"query": "Shift this entire workspace horizontally to the right screen", "label": 148}
+{"query": "Sound mute on", "label": 207}
+{"query": "Reveal the wireless device control panel", "label": 121}
+{"query": "Prevent accidental cursor movement by turning off the touchpad", "label": 218}
+{"query": "Turn this window into a centered pinned pop-out", "label": 13}
+{"query": "I'm organizing my desktop; file this window under workspace 2", "label": 42}
+{"query": "I'd like this window shifted over to workspace 9", "label": 49}
+{"query": "Display the menu for power actions", "label": 217}
+{"query": "Keyboard light down", "label": 212}
+{"query": "Make the window shorter from the bottom", "label": 85}
+{"query": "Start a fresh editor instance", "label": 163}
+{"query": "Spawn a terminal as a separate floating panel", "label": 166}
+{"query": "Put the preceding numbered workspace in front", "label": 38}
+{"query": "Assign this window to workspace 6 while keeping this workspace active", "label": 56}
+{"query": "I'm done here and want to work from workspace 4", "label": 31}
+{"query": "Window to right-side group", "label": 184}
+{"query": "Activate the night light", "label": 94}
+{"query": "I want to browse my pictures, so take me to Google Photos", "label": 165}
+{"query": "Window goes workspace 7", "label": 47}
+{"query": "Give focus to the group member on the left side", "label": 187}
+{"query": "I need information from the sixth right-hand bar panel, so expose it", "label": 108}
+{"query": "Stash the window in the hidden scratch workspace", "label": 86}
+{"query": "Swap panel 9 between visible and hidden", "label": 111}
+{"query": "Shift the display to warmer evening colors", "label": 94}
+{"query": "Top panel other state", "label": 169}
+{"query": "Access the menu of system actions", "label": 4}
+{"query": "Bring up the desktop word-search tool", "label": 154}
+{"query": "Carry this window across to workspace 5", "label": 45}
+{"query": "Give me a graphical browser rooted here", "label": 26}
+{"query": "Brighten the display a notch", "label": 216}
+{"query": "Make the window a little narrower on its left side", "label": 80}
+{"query": "Take me directly to the X composition view", "label": 150}
+{"query": "Put workspace 9 in front of me", "label": 36}
+{"query": "Put the display at maximum brightness", "label": 204}
+{"query": "Shift my attention one window upward", "label": 71}
+{"query": "This floating panel is covering my work; park it in the top-left corner", "label": 156}
+{"query": "Display the HEY Calendar application", "label": 152}
+{"query": "Activate right-side bar panel 8", "label": 110}
+{"query": "Eject the current disc or drive", "label": 211}
+{"query": "Increase the window size in the leftward direction", "label": 76}
+{"query": "Give the window a slight downward expansion", "label": 77}
+{"query": "Bring up my notification log", "label": 91}
+{"query": "Give the window a major downward expansion", "label": 78}
+{"query": "The content needs space on the left; expand that side normally", "label": 76}
+{"query": "Send the active window into the scratchpad", "label": 86}
+{"query": "Move attention to member number one of this group", "label": 174}
+{"query": "Launch my saved-password vault", "label": 168}
+{"query": "Take my desktop over to workspace 10", "label": 27}
+{"query": "Touchpad on now", "label": 219}
+{"query": "Slightly shorter upward", "label": 83}
+{"query": "Have the current window moved to workspace 8 behind the scenes", "label": 58}
+{"query": "Reverse the current touchpad setting", "label": 220}
+{"query": "Make the group's fifth window the active one", "label": 178}
+{"query": "Send the highlighted item to the clipboard with universal copy", "label": 14}
+{"query": "Rotate how the two window areas are divided", "label": 12}
+{"query": "Swap panel 8 between visible and hidden", "label": 110}
+{"query": "Center this small window as a floating panel that stays visible", "label": 13}
+{"query": "Give focus to the right-hand window", "label": 70}
+{"query": "Remove this window from view by moving it to the scratchpad", "label": 86}
+{"query": "Close everything open", "label": 9}
+{"query": "Perform a universal copy of this selection", "label": 14}
+{"query": "I am heading outside, so reveal the weather panel", "label": 118}
+{"query": "Screen brightness down", "label": 215}
+{"query": "Before I continue, let me search the catalog of key commands", "label": 0}
+{"query": "Dispatch the active window to workspace 2 without following it", "label": 52}
+{"query": "Bring the window's left edge inward by a large amount", "label": 81}
+{"query": "I need to find a machine-level action, so show the system controls", "label": 4}
+{"query": "Swap window higher", "label": 63}
+{"query": "Hold this track where it is", "label": 208}
+{"query": "I am editing photos now, so remove the warm color filter", "label": 94}
+{"query": "Increase keyboard illumination one step", "label": 213}
+{"query": "This floating window should line up with the others, so tile it again", "label": 11}
+{"query": "I am working inside a window group; focus its member directly to the right", "label": 188}
+{"query": "Make this window fully solid", "label": 93}
+{"query": "These windows feel cramped; add separation around each tile", "label": 151}
+{"query": "Expose numbered bar panel 3", "label": 105}
+{"query": "I'm done here and want to work from workspace 10", "label": 27}
+{"query": "Lose all the alerts", "label": 92}
+{"query": "Change the active tiled window into a floating window", "label": 11}
+{"query": "Access previously received notifications", "label": 91}
+{"query": "Expose numbered bar panel 2", "label": 104}
+{"query": "Show me a searchable list of emoji characters", "label": 18}
+{"query": "Cycle in reverse once through the grouped windows", "label": 190}
+{"query": "Return the display to unzoomed view", "label": 119}
+{"query": "Place whichever window is active onto workspace 2", "label": 42}
+{"query": "Take this workspace up to the adjacent monitor", "label": 149}
+{"query": "Fire up Herdr so it's ready", "label": 23}
+{"query": "I am reorganizing the layout, so merge this window into the group on its right", "label": 184}
+{"query": "Fourth bar panel, off", "label": 106}
+{"query": "Bring Signal forward because I want to continue my conversation", "label": 161}
+{"query": "Activate desktop number 6 as my workspace", "label": 33}
+{"query": "I'd like to see desktop workspace 3", "label": 30}
+{"query": "Put the bar's seventh panel away", "label": 109}
+{"query": "Focus window number one within the active group", "label": 174}
+{"query": "Place whichever window is active onto workspace 1", "label": 41}
+{"query": "Put the bar's first panel away", "label": 103}
+{"query": "Let me change my sound configuration", "label": 112}
+{"query": "Send this floating window to the northwest", "label": 156}
+{"query": "Create a terminal workspace managed by tmux", "label": 22}
+{"query": "Duplicate the laptop display onto the other screen", "label": 115}
+{"query": "Turn the system volume up one step", "label": 210}
+{"query": "I only need a touch more room, so extend the window leftward", "label": 74}
+{"query": "Switch over to another sound output", "label": 200}
+{"query": "Conceal numbered bar panel 6", "label": 108}
+{"query": "Shift this untiled window to the display's top-right corner", "label": 158}
+{"query": "The monitor is barely too bright; dim it by one precise increment", "label": 197}
+{"query": "Cut the current selection using universal cut", "label": 16}
+{"query": "Take me to the chooser for captures", "label": 122}
+{"query": "Set the active workspace to its opposite layout mode", "label": 139}
+{"query": "Have the current window moved to workspace 10 behind the scenes", "label": 50}
+{"query": "Assign the focused window to workspace 4", "label": 44}
+{"query": "Close the networking panel", "label": 136}
+{"query": "Expose numbered bar panel 8", "label": 110}
+{"query": "Leave this track and restart its predecessor", "label": 199}
+{"query": "Sound controls, now", "label": 112}
+{"query": "Take this workspace down to the adjacent monitor", "label": 143}
+{"query": "Shorter from the bottom", "label": 85}
+{"query": "Push the left boundary farther out", "label": 76}
+{"query": "Change whether the notebook screen is active", "label": 124}
+{"query": "Bring up the credentials vault so I can find an account password", "label": 168}
+{"query": "Navigate directly into workspace 4", "label": 31}
+{"query": "Screen dimmer a hair", "label": 197}
+{"query": "Activate desktop number 10 as my workspace", "label": 27}
+{"query": "Nobody can hear me; turn microphone mute off", "label": 206}
+{"query": "Rehome this window on workspace 5", "label": 45}
+{"query": "The app is in tiled fullscreen; restore its ordinary tiled view", "label": 125}
+{"query": "Extend the window's left edge by a large amount", "label": 75}
+{"query": "Open my editor because I am ready to work on the document", "label": 163}
+{"query": "Bring Music forward because I want to browse my library", "label": 162}
+{"query": "Private browsing window, quick", "label": 24}
+{"query": "Select the window immediately preceding this one within the group", "label": 190}
+{"query": "Bump the active window one place higher in the arrangement", "label": 63}
+{"query": "Begin composing a fresh email message", "label": 144}
+{"query": "Reveal the installed-app menu", "label": 102}
+{"query": "This app looks stretched in its tile; let it retain its preferred dimensions", "label": 140}
+{"query": "Music next, please", "label": 162}
+{"query": "Switch my view to workspace number 5", "label": 32}
+{"query": "Move the current window rightward through a positional swap", "label": 62}
+{"query": "Prevent inactivity from triggering the lock screen", "label": 95}
+{"query": "Let me surf without the regular browsing session", "label": 24}
+{"query": "Let me inspect the available connections", "label": 136}
+{"query": "The monitor is barely too dim; brighten it by one precise increment", "label": 198}
+{"query": "I need to manage containers, so bring up Docker", "label": 159}
+{"query": "Put the window I am using in front of the others", "label": 193}
+{"query": "Give me control over the window dimensions", "label": 73}
+{"query": "Put the background choices on screen", "label": 133}
+{"query": "Take me into the Docker interface", "label": 159}
+{"query": "Let me work from a new command prompt", "label": 2}
+{"query": "Save battery by reducing the display to its lowest brightness", "label": 203}
+{"query": "Increase scaling for the current monitor by one level", "label": 173}
+{"query": "Restore the screen magnification to its baseline", "label": 119}
+{"query": "While arranging these tiles, swap the app in focus with the one on its left", "label": 61}
+{"query": "Hand keyboard control to the preceding display", "label": 67}
+{"query": "Move the frontmost app to workspace 4 and leave focus here", "label": 54}
+{"query": "Before finishing this sentence, let me verify the word in the lookup panel", "label": 154}
+{"query": "List my recent notification messages", "label": 91}
+{"query": "This app is on the wrong desktop, so place its window in workspace 8", "label": 48}
+{"query": "Grow this window considerably in the downward direction", "label": 78}
+{"query": "File this window under workspace 3 but keep showing my present workspace", "label": 53}
+{"query": "Take me to the menu where Omarchy actions are listed", "label": 1}
+{"query": "Window to 10, me stay here", "label": 50}
+{"query": "Keep every window in place and move focus back by one", "label": 66}
+{"query": "Switch directly to the third member of this window group", "label": 176}
+{"query": "Switch my view to workspace number 1", "label": 28}
+{"query": "Return focus to the workspace used just before this one", "label": 37}
+{"query": "Pick screen color", "label": 19}
+{"query": "Remove only this window from the grouped set", "label": 180}
+{"query": "Give the window a contraction from the left", "label": 82}
+{"query": "Instead of the latest item, let me select an older entry from the clipboard manager", "label": 17}
+{"query": "Keep every window in place and move display focus back by one", "label": 67}
+{"query": "Put the bar's third panel away", "label": 105}
+{"query": "The scratchpad is blocking my desktop; conceal it again", "label": 87}
+{"query": "Give the window a slight upward contraction", "label": 83}
+{"query": "I need the writing in this scanned document captured as clipboard text", "label": 130}
+{"query": "Enter compositor-tiled fullscreen mode", "label": 125}
+{"query": "Open the YouTube video platform", "label": 172}
+{"query": "Put a free-floating command prompt on screen", "label": 166}
+{"query": "Google Messages app, now", "label": 155}
+{"query": "Use the horizontal size that was remembered earlier", "label": 138}
+{"query": "Toggle whether the top panel is visible", "label": 169}
+{"query": "Let this window trade spots with the tile underneath", "label": 60}
+{"query": "Bring my Signal conversation window forward", "label": 161}
+{"query": "Shift my attention one window leftward", "label": 69}
+{"query": "Allow input from the touchpad", "label": 219}
+{"query": "Give me a shell to work in", "label": 2}
+{"query": "Get the Omawrite app ready for writing", "label": 170}
+{"query": "Activate the terminal-based music interface", "label": 147}
+{"query": "Increase the light beneath the keyboard keys", "label": 213}
+{"query": "I would like to prepare a new reminder", "label": 132}
+{"query": "Disable transparency for the active window", "label": 93}
+{"query": "Lower the keyboard backlight brightness", "label": 212}
+{"query": "I'm done here and want to work from workspace 6", "label": 33}
+{"query": "Activate the fifth window in the current group", "label": 178}
+{"query": "I'm about to work with Herdr, so bring it onscreen", "label": 23}
+{"query": "Open Google Photos if it is not already running", "label": 165}
+{"query": "Put the succeeding numbered workspace in front", "label": 39}
+{"query": "Relocate the focused window to workspace 5 without taking me there", "label": 55}
+{"query": "Start locking the session after inactivity", "label": 95}
+{"query": "Swap panel 1 between visible and hidden", "label": 103}
+{"query": "Navigate directly into workspace 10", "label": 27}
+{"query": "I need more desktop room, so step down this display's scaling", "label": 101}
+{"query": "Activate right-side bar panel 5", "label": 107}
+{"query": "Step sideways to the left-hand window in the group", "label": 187}
+{"query": "Let me work out a numerical result", "label": 131}
+{"query": "Let some of the desktop remain visible through this window", "label": 93}
+{"query": "Move the frontmost app to workspace 8 and leave focus here", "label": 58}
+{"query": "Go to the neighboring window beneath this one", "label": 68}
+{"query": "Screen recording options", "label": 21}
+{"query": "I need to rearrange my screens from the display controls", "label": 123}
+{"query": "What reminders are waiting for me?", "label": 116}
+{"query": "Scroll ahead through workspaces with the mouse", "label": 191}
+{"query": "Display Omarchy's main menu", "label": 1}
+{"query": "I want to watch a video, so open YouTube", "label": 172}
+{"query": "Assign this window to workspace 9 while keeping this workspace active", "label": 59}
+{"query": "Call up the agent chooser", "label": 153}
+{"query": "Shift to the workspace immediately lower in sequence", "label": 38}
+{"query": "Step the display scaling downward", "label": 101}
+{"query": "Turn the keyboard brightness down", "label": 212}
+{"query": "Make the window much narrower on its left side", "label": 81}
+{"query": "Open the Herdr keybindings reference", "label": 222}
+{"query": "Make window wide", "label": 7}
+{"query": "My apps are on workspace 9; change my view there", "label": 36}
+{"query": "Open the X platform application", "label": 171}
+{"query": "Reduce the window height in the upward direction", "label": 85}
+{"query": "I'm done here and want to work from workspace 8", "label": 35}
+{"query": "Change between ordinary and maximum horizontal width", "label": 7}
+{"query": "My right-hand monitor is free; transfer this whole workspace there", "label": 148}
+{"query": "Flip window spacing", "label": 151}
+{"query": "Deactivate right-side bar panel 7", "label": 109}
+{"query": "Route the active window to workspace 7", "label": 47}
+{"query": "Move the group focus one position rightward", "label": 188}
+{"query": "Wallpaper chooser, now", "label": 133}
+{"query": "Access the emoji picker interface", "label": 18}
+{"query": "Purge my reminder list", "label": 157}
+{"query": "Flip the active layout split direction", "label": 12}
+{"query": "Reveal the create-reminder menu", "label": 132}
+{"query": "File this window under workspace 8 but keep showing my present workspace", "label": 58}
+{"query": "Advance to the following connected display", "label": 65}
+{"query": "Select the following window within this group", "label": 185}
+{"query": "Give me a local reference for this word", "label": 154}
+{"query": "This app belongs with my work on workspace 10, so move its window there", "label": 40}
+{"query": "Before changing the desktop look, show me the available backgrounds", "label": 133}
+{"query": "Grab a clipboard copy of this page's link", "label": 97}
+{"query": "Copy this page's address", "label": 97}
+{"query": "Reveal the wallpaper selection menu", "label": 133}
+{"query": "Nudge the lower boundary upward just a bit", "label": 83}
+{"query": "Put workspace 5 in front of me", "label": 32}
+{"query": "My speakers need adjusting, so bring up the audio panel", "label": 112}
+{"query": "Access the main menu for Omarchy actions", "label": 1}
+{"query": "Roll the mouse wheel to continue to the following member of the group", "label": 182}
+{"query": "Toggle the pointing pad to whichever state is opposite its current one", "label": 220}
+{"query": "Set screen brightness to one percent", "label": 203}
+{"query": "Attach this window to the group at the bottom", "label": 179}
+{"query": "Transfer the displayed online video onto this machine", "label": 96}
+{"query": "My left-hand monitor is free; transfer this whole workspace there", "label": 146}
+{"query": "Monitor focus backward", "label": 67}
+{"query": "Reclaim substantial space below by shrinking upward as much as possible", "label": 84}
+{"query": "I need an image of this error message, so start an interactive screenshot", "label": 20}
+{"query": "Prevent anyone from using my open session", "label": 10}
+{"query": "Move whichever window has focus onto workspace 7", "label": 47}
+{"query": "Capture an area and convert the writing to text", "label": 130}
+{"query": "Move whichever window has focus onto workspace 6", "label": 46}
+{"query": "Volume down a bit", "label": 205}
+{"query": "I would like more zoom across the display", "label": 137}
+{"query": "Secure the computer by locking it", "label": 10}
+{"query": "Make this screen barely lit", "label": 203}
+{"query": "Window goes workspace 9", "label": 49}
+{"query": "Swap the one-window layout into or out of square form", "label": 120}
+{"query": "Reverse the tiled-window gap setting", "label": 151}
+{"query": "Turn off microphone sound capture", "label": 206}
+{"query": "Let me work inside tmux", "label": 22}
+{"query": "Workspace 1, switch me there", "label": 28}
+{"query": "I'm still working here; send the active window away to workspace 5", "label": 55}
+{"query": "Display the Grok app", "label": 142}
+{"query": "Change the built-in display mirroring mode", "label": 115}
+{"query": "Have the current window moved to workspace 5 behind the scenes", "label": 55}
+{"query": "Put the bar's eighth panel away", "label": 110}
+{"query": "Make the upper bar disappear", "label": 169}
+{"query": "Put the app I'm using over on workspace 1", "label": 41}
+{"query": "Current window goes workspace 3", "label": 43}
+{"query": "Make the camera inset more compact", "label": 98}
+{"query": "Agent choices, please", "label": 153}
+{"query": "Window to 2, me stay here", "label": 52}
+{"query": "Let the selected media run again", "label": 209}
+{"query": "Resume notification popups", "label": 90}
+{"query": "Focus right-side window", "label": 70}
+{"query": "I want to move this paragraph elsewhere, so cut it from the document", "label": 16}
+{"query": "Relocate the current workspace onto the monitor to my left", "label": 146}
+{"query": "My headphones are connected; switch the audio output to them", "label": 200}
+{"query": "This dialog is no longer needed; dismiss its window", "label": 8}
+{"query": "Relocate the focused window to workspace 9 without taking me there", "label": 59}
+{"query": "Activate desktop number 2 as my workspace", "label": 29}
+{"query": "Obsidian here, make it active", "label": 164}
+{"query": "The current key lighting is not right, so cycle it once", "label": 214}
+{"query": "Shift my attention one window rightward", "label": 70}
+{"query": "Make Google Maps my active application", "label": 167}
+{"query": "It is just a touch too wide, so trim the window from the left", "label": 80}
+{"query": "Roll the mouse wheel to revisit the preceding member of the group", "label": 183}
+{"query": "Open the Tmux keybindings reference", "label": 221}
+{"query": "Ninth bar panel, on", "label": 111}
+{"query": "Make one granular downward adjustment to the sound level", "label": 194}
+{"query": "I would like the clock reading displayed", "label": 117}
+{"query": "For this sensitive lookup, start the browser in private mode", "label": 24}
+{"query": "Assign this window to workspace 8 while keeping this workspace active", "label": 58}
+{"query": "Give me more sound volume", "label": 210}
+{"query": "This video is too loud, so lower the volume", "label": 205}
+{"query": "Bring my Music application window forward", "label": 162}
+{"query": "Show the clock's calendar view", "label": 114}
+{"query": "I am finished here; focus the window immediately above", "label": 71}
+{"query": "Use a smaller frame for the webcam preview", "label": 98}
+{"query": "Continue the window cycle forward once", "label": 64}
+{"query": "Preserve the active window's width", "label": 100}
+{"query": "Step back once within the current window collection", "label": 190}
+{"query": "Bring my latest local ChatGPT window to the foreground so I can continue", "label": 141}
+{"query": "Brighten the screen by the finer adjustment amount", "label": 198}
+{"query": "Take me directly to a fresh email draft", "label": 144}
+{"query": "Dim the keyboard backlight", "label": 212}
+{"query": "Delete all reminder entries", "label": 157}
+{"query": "Have the front window exchange places with its lower neighbor", "label": 60}
+{"query": "Have the frontmost window relocated onto workspace 6", "label": 46}
+{"query": "Get the current video playing", "label": 209}
+{"query": "Bring up the calendar panel attached to the desktop clock", "label": 114}
+{"query": "Relocate the focused window to workspace 7 without taking me there", "label": 57}
+{"query": "File this window under workspace 10 but keep showing my present workspace", "label": 50}
+{"query": "I am moving through the workspace sequence; advance exactly one position", "label": 39}
+{"query": "Camera overlay bigger, please", "label": 99}
+{"query": "Swap the internal laptop screen between active and inactive", "label": 124}
+{"query": "Have the current window moved to workspace 4 behind the scenes", "label": 54}
+{"query": "Activate ChatGPT on this workspace", "label": 141}
+{"query": "Safely disconnect the inserted storage", "label": 211}
+{"query": "Launch the desktop arithmetic tool", "label": 131}
+{"query": "Bring up searchable Tmux keybindings", "label": 221}
+{"query": "Locate or start the Music TUI", "label": 147}
+{"query": "Focus window number four within the active group", "label": 177}
+{"query": "Send this floating window to the northeast", "label": 158}
+{"query": "Bring back my preferred width for this app", "label": 138}
+{"query": "Change the position of this window", "label": 72}
+{"query": "Put the bar's ninth panel away", "label": 111}
+{"query": "Activate the next window in the rightward direction", "label": 70}
+{"query": "Activate right-side bar panel 7", "label": 109}
+{"query": "Transfer the focused window into the group immediately above", "label": 186}
+{"query": "Swap between normal and warm screen coloring", "label": 94}
+{"query": "Take my desktop over to workspace 8", "label": 35}
+{"query": "Advance playback to the track immediately after this one", "label": 195}
+{"query": "Switch which media source receives play commands", "label": 202}
+{"query": "Add a small amount of height beneath the window", "label": 77}
+{"query": "Let me inspect the fifth numbered panel in the bar", "label": 107}
+{"query": "Copy the link for the current web-app view", "label": 97}
+{"query": "Mic mute on", "label": 206}
+{"query": "Pause the current media playback", "label": 208}
+{"query": "Open the shell clock panel so I can browse calendar dates", "label": 114}
+{"query": "This app belongs with my work on workspace 2, so move its window there", "label": 42}
+{"query": "Conceal numbered bar panel 4", "label": 106}
+{"query": "I'd like to see desktop workspace 1", "label": 28}
+{"query": "Switch off the pointing pad", "label": 218}
+{"query": "Change this split from horizontal to vertical", "label": 12}
+{"query": "I would like the active workspace transferred rightward", "label": 148}
+{"query": "Begin drafting a post for X", "label": 150}
+{"query": "Step the monitor scale upward", "label": 173}
+{"query": "Choose the fifth member of this window group", "label": 178}
+{"query": "Save the currently playing web video to disk", "label": 96}
+{"query": "The needed window is the right neighbor in this group, so activate it", "label": 188}
+{"query": "Make this application fullscreen without abandoning tiling", "label": 125}
+{"query": "Place the current floating window at the screen's upper-right edge", "label": 158}
+{"query": "App launcher, please", "label": 102}
+{"query": "It is far too tall, so trim the window well upward", "label": 84}
+{"query": "This app belongs with my work on workspace 1, so move its window there", "label": 41}
+{"query": "Raise my most recently used ChatGPT window", "label": 141}
+{"query": "Remove a generous amount of height from beneath the window", "label": 84}
+{"query": "I'd like to see desktop workspace 4", "label": 31}
+{"query": "Remove some height from beneath the window", "label": 85}
+{"query": "Advance to the following open window", "label": 64}
+{"query": "Set notifications to silent", "label": 90}
+{"query": "Start the desktop file explorer", "label": 3}
+{"query": "Workspace after this, go", "label": 39}
+{"query": "For this long-running command, launch a tmux environment", "label": 22}
+{"query": "Keep these windows together while moving their workspace to the display underneath", "label": 143}
+{"query": "Increase the output volume", "label": 210}
+{"query": "I am about to leave, so show me the time", "label": 117}
+{"query": "Expand the active application across the whole display", "label": 6}
+{"query": "Move whichever window has focus onto workspace 9", "label": 49}
+{"query": "Without leaving this desktop, flip its window arrangement style", "label": 139}
+{"query": "Let me access the app containing my saved logins", "label": 168}
+{"query": "Take my desktop over to workspace 3", "label": 30}
+{"query": "I would like to continue using Google Messages", "label": 155}
+{"query": "I need the window beside this one on the left to be active", "label": 69}
+{"query": "The audio is barely too quiet; increase it by one precise increment", "label": 196}
+{"query": "End the screen capture video currently in progress", "label": 21}
+{"query": "Swap this window between translucent and opaque", "label": 93}
+{"query": "Activate right-side bar panel 6", "label": 108}
+{"query": "The audio is barely too loud; reduce it by one precise increment", "label": 194}
+{"query": "Secure my desktop until I authenticate again", "label": 10}
+{"query": "Reveal the device hardware menu", "label": 126}
+{"query": "Bring an Omawrite window into view", "label": 170}
+{"query": "Place whichever window is active onto workspace 4", "label": 44}
+{"query": "Give me a real-time view of resource consumption", "label": 135}
+{"query": "I have an update to publish, so create a blank X draft", "label": 150}
+{"query": "I need the other applications visible again, so leave full screen", "label": 6}
+{"query": "Volume down a hair", "label": 194}
+{"query": "Show the menu of capture methods", "label": 122}
+{"query": "Other audio output", "label": 200}
+{"query": "Let the system audio be heard again", "label": 207}
+{"query": "Apply a higher display zoom level", "label": 137}
+{"query": "Call up the capture action menu", "label": 122}
+{"query": "Launch the mail app", "label": 160}
+{"query": "Window focus backward", "label": 66}
+{"query": "Recognize and copy words from the display", "label": 130}
+{"query": "I would like to pick a sharing method", "label": 134}
+{"query": "Move the frontmost app to workspace 7 and leave focus here", "label": 57}
+{"query": "Exchange the active window with the tile directly left of it", "label": 61}
+{"query": "Move my attention left across the current grouped set", "label": 187}
+{"query": "Make the smallest available downward change to volume", "label": 194}
+{"query": "Give me access to connectivity controls", "label": 136}
+{"query": "Relocate the focused window to workspace 6 without taking me there", "label": 56}
+{"query": "Paste it here", "label": 15}
+{"query": "Lower the display brightness one step", "label": 215}
+{"query": "Move the highlighted content onto the clipboard", "label": 16}
+{"query": "Set screen brightness to one hundred percent", "label": 204}
+{"query": "Make Obsidian active on my current workspace", "label": 164}
+{"query": "Pause the music while I take this phone call", "label": 208}
+{"query": "Shrink the window heavily from the left", "label": 81}
+{"query": "Dispatch the active window to workspace 9 without following it", "label": 59}
+{"query": "Shift this entire workspace upward to another screen", "label": 149}
+{"query": "Resize this window back to its remembered width", "label": 138}
+{"query": "Activate the HEY calendar web app", "label": 152}
+{"query": "Open Signal or focus its existing window", "label": 161}
+{"query": "The task I need is on the workspace directly after this in order", "label": 39}
+{"query": "Assign this window to workspace 2 while keeping this workspace active", "label": 52}
+{"query": "Deliver the current app window to workspace 8", "label": 48}
+{"query": "I need to check a date, so reveal the calendar panel", "label": 114}
+{"query": "Shift the focused window sideways into the group on its right", "label": 184}
+{"query": "Reverse the microphone mute status", "label": 206}
+{"query": "Keep the window floating, but move it away to the upper-right corner", "label": 158}
+{"query": "I'm done here and want to work from workspace 3", "label": 30}
+{"query": "Put away the weather details", "label": 118}
+{"query": "Take this workspace across to the neighboring right display", "label": 148}
+{"query": "Push the lower boundary farther out", "label": 79}
+{"query": "For the documentation, let me choose and capture part of the display", "label": 20}
+{"query": "Put my note-taking app in front on this desktop", "label": 164}
+{"query": "Open the emoji character chooser", "label": 18}
+{"query": "Raise the display brightness one step", "label": 216}
+{"query": "Make Google Photos my active application", "label": 165}
+{"query": "Place the current desktop on the upper display", "label": 149}
+{"query": "Let me inspect the sixth numbered panel in the bar", "label": 108}
+{"query": "Could you park this window on workspace 4 while I stay put?", "label": 54}
+{"query": "Move attention to member number three of this group", "label": 176}
+{"query": "Current window goes workspace 4", "label": 44}
+{"query": "Open a general file manager so I can sort some documents", "label": 3}
+{"query": "Time, what is it?", "label": 117}
+{"query": "Use the mouse wheel to move backward from the active workspace", "label": 192}
+{"query": "Choose the source associated with media play", "label": 202}
+{"query": "Mirror laptop screen now", "label": 115}
+{"query": "Begin an interactive screenshot capture", "label": 20}
+{"query": "Launch the screen color selection tool", "label": 19}
+{"query": "Fresh email draft, please", "label": 144}
+{"query": "Trigger whatever action the newest alert offers", "label": 88}
+{"query": "Camera overlay smaller, please", "label": 98}
+{"query": "I am working inside a window group; focus its member directly to the left", "label": 187}
+{"query": "Unmute the audio output", "label": 207}
+{"query": "Return me to my most recent Signal window", "label": 161}
+{"query": "I'm done here and want to work from workspace 9", "label": 36}
+{"query": "Dismiss all windows on the desktop", "label": 9}
+{"query": "Drop my display to the lowest brightness setting", "label": 203}
+{"query": "I need to manage a physical device, so reveal the hardware menu", "label": 126}
+{"query": "For better visibility, increase the display to full brightness", "label": 204}
+{"query": "Roll forward from this workspace to the one that follows", "label": 191}
+{"query": "Raise the audio volume", "label": 210}
+{"query": "I am outside, so set the monitor brightness to maximum", "label": 204}
+{"query": "Pass focus to the monitor that follows this one", "label": 65}
+{"query": "Make the window a little taller at the bottom", "label": 77}
+{"query": "This clip will not play on my device, so let me transcode it", "label": 128}
+{"query": "Let me decide how to distribute this", "label": 134}
+{"query": "Continue the display cycle forward once", "label": 65}
+{"query": "Lower screen scale, please", "label": 101}
+{"query": "X app, open it", "label": 171}
+{"query": "Reminders all gone, please", "label": 157}

@@ -1,0 +1,150 @@
+{"query": "Take the desktop one position to the left in the workspace order", "true_label": 38, "predicted_label": 146, "confidence": 0.5407448410987854}
+{"query": "I need more vertical room, so extend this window downward", "true_label": 79, "predicted_label": 78, "confidence": 0.5113672614097595}
+{"query": "Make the smallest available upward change to screen brightness", "true_label": 198, "predicted_label": 203, "confidence": 0.4786604046821594}
+{"query": "Make the active window occupy the entire screen", "true_label": 6, "predicted_label": 193, "confidence": 0.24990235269069672}
+{"query": "Want appearance choices", "true_label": 5, "predicted_label": 188, "confidence": 0.1449548453092575}
+{"query": "Activate the window before this one in the current group", "true_label": 190, "predicted_label": 174, "confidence": 0.5707389116287231}
+{"query": "Dim the keyboard backlight while I watch this film", "true_label": 212, "predicted_label": 215, "confidence": 0.3825836181640625}
+{"query": "Shrink the window far upward", "true_label": 84, "predicted_label": 85, "confidence": 0.5537468791007996}
+{"query": "Give me a window for browsing files and directories", "true_label": 3, "predicted_label": 26, "confidence": 0.5933827757835388}
+{"query": "Pass focus to the monitor that precedes this one", "true_label": 67, "predicted_label": 65, "confidence": 0.5293775796890259}
+{"query": "Take the desktop one position to the right in the workspace order", "true_label": 39, "predicted_label": 148, "confidence": 0.8503799438476562}
+{"query": "Pass focus to the window that precedes this one", "true_label": 66, "predicted_label": 64, "confidence": 0.3349042534828186}
+{"query": "Select the left neighbor in this window group", "true_label": 187, "predicted_label": 61, "confidence": 0.5015442371368408}
+{"query": "Activate the next window in the leftward direction", "true_label": 69, "predicted_label": 64, "confidence": 0.9012219309806824}
+{"query": "I only need a touch more room, so extend the window downward", "true_label": 77, "predicted_label": 78, "confidence": 0.4367220103740692}
+{"query": "Let me pick how to capture the screen", "true_label": 122, "predicted_label": 20, "confidence": 0.899690568447113}
+{"query": "Raise the focused window to the front of the stack", "true_label": 193, "predicted_label": 71, "confidence": 0.4825161397457123}
+{"query": "Increase the window size downward by a small step", "true_label": 77, "predicted_label": 78, "confidence": 0.7246063351631165}
+{"query": "Cut off the sound from my speakers", "true_label": 207, "predicted_label": 205, "confidence": 0.6143798828125}
+{"query": "Make the screen as bright as possible", "true_label": 204, "predicted_label": 216, "confidence": 0.8243783712387085}
+{"query": "Save the highlighted image on the clipboard without removing the original", "true_label": 14, "predicted_label": 16, "confidence": 0.5699173808097839}
+{"query": "Hand keyboard control to the preceding application window", "true_label": 66, "predicted_label": 0, "confidence": 0.1891471892595291}
+{"query": "Boost the sound level a notch", "true_label": 210, "predicted_label": 196, "confidence": 0.4747665822505951}
+{"query": "Put the app I'm using over on workspace 4", "true_label": 44, "predicted_label": 54, "confidence": 0.37997734546661377}
+{"query": "Power choices", "true_label": 217, "predicted_label": 129, "confidence": 0.8099183440208435}
+{"query": "Reclaim a little space below by shrinking the window upward", "true_label": 83, "predicted_label": 85, "confidence": 0.42414188385009766}
+{"query": "Follow the latest notification instead of merely closing it", "true_label": 88, "predicted_label": 89, "confidence": 0.8301364779472351}
+{"query": "Reverse the direction of the current tiled split", "true_label": 12, "predicted_label": 61, "confidence": 0.3564271926879883}
+{"query": "Have the front window exchange places with its right-side neighbor", "true_label": 62, "predicted_label": 61, "confidence": 0.5688686966896057}
+{"query": "This app belongs with my work on workspace 3, so move its window there", "true_label": 43, "predicted_label": 53, "confidence": 0.49586057662963867}
+{"query": "Hand keyboard control to the following display", "true_label": 65, "predicted_label": 123, "confidence": 0.4369947910308838}
+{"query": "Keep this width as the window's saved preference", "true_label": 100, "predicted_label": 138, "confidence": 0.6617028713226318}
+{"query": "Let me browse the computer's main controls", "true_label": 4, "predicted_label": 25, "confidence": 0.16603396832942963}
+{"query": "Adjust this window by dragging its boundary", "true_label": 73, "predicted_label": 85, "confidence": 0.3933142423629761}
+{"query": "Grow this window leftward by the regular amount", "true_label": 76, "predicted_label": 75, "confidence": 0.5604416131973267}
+{"query": "Nudge the lower boundary outward just a bit", "true_label": 77, "predicted_label": 83, "confidence": 0.32584714889526367}
+{"query": "Detach this window from the tiled arrangement", "true_label": 11, "predicted_label": 180, "confidence": 0.3736174404621124}
+{"query": "I need more horizontal room, so extend this window to the left", "true_label": 76, "predicted_label": 75, "confidence": 0.5966018438339233}
+{"query": "Reorder this window by trading it with the one beneath it", "true_label": 60, "predicted_label": 63, "confidence": 0.5685231685638428}
+{"query": "Add a generous amount of width on the window's left", "true_label": 75, "predicted_label": 81, "confidence": 0.3535201847553253}
+{"query": "Make the window a little wider on its left side", "true_label": 74, "predicted_label": 80, "confidence": 0.3960500657558441}
+{"query": "Bring up X because I want to read recent posts", "true_label": 171, "predicted_label": 150, "confidence": 0.5885211825370789}
+{"query": "Window focus forward", "true_label": 64, "predicted_label": 66, "confidence": 0.24496117234230042}
+{"query": "Use another active media session when I request pause", "true_label": 201, "predicted_label": 208, "confidence": 0.5703429579734802}
+{"query": "Put the app I'm using over on workspace 10", "true_label": 40, "predicted_label": 27, "confidence": 0.3943440020084381}
+{"query": "Nudge the playback volume up one notch precisely", "true_label": 196, "predicted_label": 194, "confidence": 0.514430046081543}
+{"query": "This document is cramped horizontally, so stretch its window across the workspace", "true_label": 7, "predicted_label": 75, "confidence": 0.09005019813776016}
+{"query": "I need the window beside this one on the right to be active", "true_label": 70, "predicted_label": 193, "confidence": 0.2289026975631714}
+{"query": "Take me into the app formerly called Twitter", "true_label": 171, "predicted_label": 102, "confidence": 0.12005417793989182}
+{"query": "My second monitor is misaligned, so reveal the display panel", "true_label": 123, "predicted_label": 104, "confidence": 0.27189189195632935}
+{"query": "Use the present width as the future restore target", "true_label": 100, "predicted_label": 138, "confidence": 0.6098670363426208}
+{"query": "Widen this window to use all horizontal room", "true_label": 7, "predicted_label": 75, "confidence": 0.734275221824646}
+{"query": "I want this client enlarged but still managed by the tiled layout", "true_label": 125, "predicted_label": 140, "confidence": 0.14939634501934052}
+{"query": "Take me to the panel attached to the clock", "true_label": 114, "predicted_label": 117, "confidence": 0.38373956084251404}
+{"query": "Raise my console music player window", "true_label": 147, "predicted_label": 162, "confidence": 0.3125901520252228}
+{"query": "Increase the window size leftward by a small step", "true_label": 74, "predicted_label": 75, "confidence": 0.2276185303926468}
+{"query": "Make the window much wider on its left side", "true_label": 75, "predicted_label": 81, "confidence": 0.31580209732055664}
+{"query": "I need the app I just passed; focus the window before this one", "true_label": 66, "predicted_label": 68, "confidence": 0.2686540484428406}
+{"query": "Save this clip locally", "true_label": 96, "predicted_label": 14, "confidence": 0.8091382384300232}
+{"query": "Bring the window back from edge-to-edge width", "true_label": 7, "predicted_label": 138, "confidence": 0.5915740728378296}
+{"query": "Resume playback with the song that came before", "true_label": 199, "predicted_label": 209, "confidence": 0.6075632572174072}
+{"query": "Want a shell window", "true_label": 2, "predicted_label": 166, "confidence": 0.5436983108520508}
+{"query": "Pull the lower boundary farther upward", "true_label": 85, "predicted_label": 78, "confidence": 0.4844721555709839}
+{"query": "Contract this window from the left by the regular amount", "true_label": 82, "predicted_label": 81, "confidence": 0.8763347268104553}
+{"query": "Let me browse pictographs to insert", "true_label": 18, "predicted_label": 20, "confidence": 0.3184516727924347}
+{"query": "Show the menu containing system switches", "true_label": 127, "predicted_label": 4, "confidence": 0.8541245460510254}
+{"query": "Present the appearance preset choices", "true_label": 5, "predicted_label": 188, "confidence": 0.3830055594444275}
+{"query": "Add more height beneath the window", "true_label": 79, "predicted_label": 78, "confidence": 0.4332014322280884}
+{"query": "Want the folder browser", "true_label": 3, "predicted_label": 26, "confidence": 0.8021462559700012}
+{"query": "Shift to the workspace immediately higher in sequence", "true_label": 39, "predicted_label": 38, "confidence": 0.8068850040435791}
+{"query": "Let me browse the on-off controls", "true_label": 127, "predicted_label": 123, "confidence": 0.1491527408361435}
+{"query": "I need text I copied several steps ago, so open the clipboard history", "true_label": 17, "predicted_label": 14, "confidence": 0.29638025164604187}
+{"query": "These windows are side by side; change their split to a stacked arrangement", "true_label": 12, "predicted_label": 151, "confidence": 0.14852498471736908}
+{"query": "Step backward through my virtual desktops", "true_label": 38, "predicted_label": 192, "confidence": 0.13874293863773346}
+{"query": "Bring my stashed windows into view", "true_label": 87, "predicted_label": 86, "confidence": 0.4130435883998871}
+{"query": "Launch a normal browsing session", "true_label": 25, "predicted_label": 24, "confidence": 0.39619678258895874}
+{"query": "My presentation is finished; restore notification banners", "true_label": 90, "predicted_label": 92, "confidence": 0.15538012981414795}
+{"query": "My lower monitor is free; transfer this whole workspace onto it", "true_label": 143, "predicted_label": 149, "confidence": 0.5875007510185242}
+{"query": "Pull the left boundary farther inward", "true_label": 82, "predicted_label": 75, "confidence": 0.6505379676818848}
+{"query": "Change the active window between regular and screen-filling display", "true_label": 6, "predicted_label": 93, "confidence": 0.11544574052095413}
+{"query": "This window is covering my work, so let me move it aside", "true_label": 72, "predicted_label": 83, "confidence": 0.3286537528038025}
+{"query": "Let this window trade spots with the tile overhead", "true_label": 63, "predicted_label": 140, "confidence": 0.28358569741249084}
+{"query": "Put the app I'm using over on workspace 2", "true_label": 42, "predicted_label": 29, "confidence": 0.41623127460479736}
+{"query": "Make the window a little shorter from the bottom", "true_label": 83, "predicted_label": 77, "confidence": 0.5573561787605286}
+{"query": "Show me the available screen video capture choices", "true_label": 21, "predicted_label": 122, "confidence": 0.8808188438415527}
+{"query": "Take screen brightness all the way up", "true_label": 204, "predicted_label": 216, "confidence": 0.7020695805549622}
+{"query": "Nudge the left boundary inward just a bit", "true_label": 80, "predicted_label": 74, "confidence": 0.4308029115200043}
+{"query": "Grow this window modestly in the downward direction", "true_label": 77, "predicted_label": 78, "confidence": 0.6601880788803101}
+{"query": "Without rearranging the layout, focus the window to my right", "true_label": 70, "predicted_label": 62, "confidence": 0.5762506723403931}
+{"query": "Contract this window modestly in the upward direction", "true_label": 83, "predicted_label": 85, "confidence": 0.4546881914138794}
+{"query": "I need to answer the door, so pause the video", "true_label": 208, "predicted_label": 21, "confidence": 0.14370281994342804}
+{"query": "Call up the system switch menu", "true_label": 127, "predicted_label": 4, "confidence": 0.9355947375297546}
+{"query": "Let me use whichever screen comes before this one", "true_label": 67, "predicted_label": 65, "confidence": 0.21736697852611542}
+{"query": "Have the front window exchange places with its upper neighbor", "true_label": 63, "predicted_label": 193, "confidence": 0.27420392632484436}
+{"query": "Tuck the floating window into the corner above and to the left", "true_label": 156, "predicted_label": 158, "confidence": 0.5303172469139099}
+{"query": "Keep every window in place and advance display focus by one", "true_label": 65, "predicted_label": 64, "confidence": 0.454348623752594}
+{"query": "Roll backward from this workspace to the one before it", "true_label": 192, "predicted_label": 38, "confidence": 0.8761492967605591}
+{"query": "Undo the full-width state of this window", "true_label": 7, "predicted_label": 138, "confidence": 0.40149620175361633}
+{"query": "Raise my display to the highest brightness setting", "true_label": 204, "predicted_label": 216, "confidence": 0.5119051933288574}
+{"query": "Begin playing the active track", "true_label": 209, "predicted_label": 195, "confidence": 0.6083958148956299}
+{"query": "Pull this application out of the layout and keep it on top", "true_label": 13, "predicted_label": 169, "confidence": 0.16947078704833984}
+{"query": "Toggle whether the current window fills the screen", "true_label": 6, "predicted_label": 13, "confidence": 0.11161679774522781}
+{"query": "Activate the next window in the upward direction", "true_label": 71, "predicted_label": 64, "confidence": 0.7503306865692139}
+{"query": "Move the current monitor scale one level lower", "true_label": 101, "predicted_label": 173, "confidence": 0.5006707310676575}
+{"query": "Create a fresh shell window", "true_label": 2, "predicted_label": 166, "confidence": 0.46401792764663696}
+{"query": "Activate the window after this one in the current group", "true_label": 185, "predicted_label": 174, "confidence": 0.28412967920303345}
+{"query": "Use the built-in screen again", "true_label": 124, "predicted_label": 67, "confidence": 0.7341269254684448}
+{"query": "Place the current desktop on the lower display", "true_label": 143, "predicted_label": 149, "confidence": 0.6514902114868164}
+{"query": "Let me alternate how this workspace is arranged", "true_label": 139, "predicted_label": 39, "confidence": 0.6562974452972412}
+{"query": "Merge the active window with the right-side window group", "true_label": 184, "predicted_label": 181, "confidence": 0.5753045082092285}
+{"query": "Let me use whichever window comes before this one", "true_label": 66, "predicted_label": 64, "confidence": 0.10324051231145859}
+{"query": "I still need the other windows together, but pull the active one out", "true_label": 180, "predicted_label": 193, "confidence": 0.4625740945339203}
+{"query": "Reduce the sound level a notch", "true_label": 205, "predicted_label": 194, "confidence": 0.5995989441871643}
+{"query": "Remove some width from the window's left", "true_label": 82, "predicted_label": 81, "confidence": 0.3221514821052551}
+{"query": "Bring the window's bottom edge upward", "true_label": 85, "predicted_label": 79, "confidence": 0.6838402152061462}
+{"query": "Reverse square mode for a lone window", "true_label": 120, "predicted_label": 140, "confidence": 0.3221425712108612}
+{"query": "Let me navigate my folders visually", "true_label": 3, "predicted_label": 26, "confidence": 0.9074066877365112}
+{"query": "Increase the window size in the downward direction", "true_label": 79, "predicted_label": 78, "confidence": 0.71502685546875}
+{"query": "Hand keyboard control to the following application window", "true_label": 64, "predicted_label": 0, "confidence": 0.3809048533439636}
+{"query": "Volume up a bit", "true_label": 210, "predicted_label": 196, "confidence": 0.5181528329849243}
+{"query": "I need to position this dialog freely, so make its window float", "true_label": 11, "predicted_label": 156, "confidence": 0.31391093134880066}
+{"query": "Reclaim a little space by shrinking the window's left side", "true_label": 80, "predicted_label": 81, "confidence": 0.37684524059295654}
+{"query": "Open the list of previously copied items", "true_label": 17, "predicted_label": 15, "confidence": 0.4309685528278351}
+{"query": "Attach this window to the group located leftward", "true_label": 181, "predicted_label": 184, "confidence": 0.4841814935207367}
+{"query": "Take me to the device controls chooser", "true_label": 126, "predicted_label": 121, "confidence": 0.15571919083595276}
+{"query": "Make the window much shorter from the bottom", "true_label": 84, "predicted_label": 78, "confidence": 0.3042488992214203}
+{"query": "Open a terminal that remains untiled", "true_label": 166, "predicted_label": 2, "confidence": 0.765882670879364}
+{"query": "Relocate the floating app to the northeast corner of the screen", "true_label": 158, "predicted_label": 156, "confidence": 0.5320063233375549}
+{"query": "Bump the active window one place leftward in the arrangement", "true_label": 61, "predicted_label": 63, "confidence": 0.43880781531333923}
+{"query": "Keep these windows together while moving their workspace to the display overhead", "true_label": 149, "predicted_label": 151, "confidence": 0.4822744131088257}
+{"query": "Make the smallest available downward change to screen brightness", "true_label": 197, "predicted_label": 203, "confidence": 0.39576560258865356}
+{"query": "Take screen brightness all the way down", "true_label": 203, "predicted_label": 215, "confidence": 0.7206813097000122}
+{"query": "Use the other arrangement mode for this desktop", "true_label": 139, "predicted_label": 148, "confidence": 0.11843512207269669}
+{"query": "Screen brighter a hair", "true_label": 198, "predicted_label": 216, "confidence": 0.5238651633262634}
+{"query": "Put the app I'm using over on workspace 3", "true_label": 43, "predicted_label": 53, "confidence": 0.3398636281490326}
+{"query": "Put this desktop area on the screen underneath", "true_label": 143, "predicted_label": 149, "confidence": 0.5362803339958191}
+{"query": "Workspace rightward, please", "true_label": 148, "predicted_label": 39, "confidence": 0.6302945017814636}
+{"query": "The destination group is below the active window; add the window there", "true_label": 179, "predicted_label": 186, "confidence": 0.38305357098579407}
+{"query": "The text is hard to read through the window, so restore full opacity", "true_label": 93, "predicted_label": 130, "confidence": 0.7226892113685608}
+{"query": "Bring up a folder browsing window", "true_label": 3, "predicted_label": 26, "confidence": 0.766576886177063}
+{"query": "Move focus to the window on the right side", "true_label": 70, "predicted_label": 69, "confidence": 0.42050281167030334}
+{"query": "Show the available power options", "true_label": 217, "predicted_label": 129, "confidence": 0.7581939101219177}
+{"query": "The screen is too magnified; restore its usual scale", "true_label": 119, "predicted_label": 173, "confidence": 0.5439871549606323}
+{"query": "Bring the window's bottom edge upward by a large amount", "true_label": 84, "predicted_label": 78, "confidence": 0.8085021376609802}
+{"query": "I need the screen I just passed; focus the monitor before this one", "true_label": 67, "predicted_label": 65, "confidence": 0.27357831597328186}
+{"query": "Send the active workspace to the display underneath", "true_label": 143, "predicted_label": 149, "confidence": 0.7104952335357666}
+{"query": "This is too tall, so trim the window upward", "true_label": 85, "predicted_label": 83, "confidence": 0.46876758337020874}
+{"query": "Present the clipboard item chooser", "true_label": 17, "predicted_label": 14, "confidence": 0.5197065472602844}
+{"query": "The needed window is the left neighbor in this group, so activate it", "true_label": 187, "predicted_label": 184, "confidence": 0.19525878131389618}
+{"query": "The panes are stacked now, so divide the layout from left to right instead", "true_label": 12, "predicted_label": 76, "confidence": 0.20851129293441772}
