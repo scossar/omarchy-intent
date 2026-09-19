@@ -70,14 +70,27 @@ train_ds = make_dataset(train_vectors, train_labels, training=True)
 validation_ds = make_dataset(validation_vectors, validation_labels)
 test_ds = make_dataset(test_vectors, test_labels)
 
+# classifier = tf.keras.Sequential(
+#     [
+#         tf.keras.Input(shape=(train_vectors.shape[1],)),
+#         tf.keras.layers.Dense(
+#             223,
+#             activation="softmax",
+#             kernel_regularizer=tf.keras.regularizers.L2(1e-7),
+#         ),
+#     ]
+# )
+
 classifier = tf.keras.Sequential(
     [
         tf.keras.Input(shape=(train_vectors.shape[1],)),
         tf.keras.layers.Dense(
-            223,
-            activation="softmax",
-            kernel_regularizer=tf.keras.regularizers.L2(1e-7),
+            128,
+            activation="relu",
+            kernel_regularizer=tf.keras.regularizers.L2(1e-4),
         ),
+        tf.keras.layers.Dropout(0.2),
+        tf.keras.layers.Dense(223, activation="softmax"),
     ]
 )
 
@@ -101,7 +114,7 @@ classifier.fit(
     callbacks=[
         tf.keras.callbacks.EarlyStopping(
             monitor="val_loss",
-            min_delta=0.001,
+            min_delta=0.0001,
             patience=10,
             restore_best_weights=True,
         )
