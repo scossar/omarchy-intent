@@ -5,7 +5,7 @@ from collections import defaultdict
 from pathlib import Path
 
 dataset_dir = Path("data/datasets-v2")
-test_source_path = dataset_dir / "test-v2.jsonl"
+test_source_path = dataset_dir / "holdout-v2.jsonl"
 
 rng = random.Random(42)
 by_label = defaultdict(list)

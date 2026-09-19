@@ -24,9 +24,9 @@ def load_jsonl(path):
 
 
 # train_queries, train_labels = load_jsonl("data/datasets/train.jsonl")
-train_queries, train_labels = load_jsonl("data/datasets-v2/train-v2.jsonl")
+train_queries, train_labels = load_jsonl("data/datasets-v2.1/train-v2.1.jsonl")
 validation_queries, validation_labels = load_jsonl(
-    "data/datasets-v2/validation-v2.jsonl"
+    "data/datasets-v2.1/validation-v2.1.jsonl"
 )
 test_queries, test_labels = load_jsonl("data/datasets-v2/test-v2.jsonl")
 
@@ -76,13 +76,13 @@ classifier = tf.keras.Sequential(
         tf.keras.layers.Dense(
             223,
             activation="softmax",
-            kernel_regularizer=tf.keras.regularizers.L2(1e-6),
+            kernel_regularizer=tf.keras.regularizers.L2(1e-7),
         ),
     ]
 )
 
 classifier.compile(
-    optimizer=tf.keras.optimizers.Adam(learning_rate=0.001),
+    optimizer=tf.keras.optimizers.Adam(learning_rate=0.00065),
     loss=tf.keras.losses.SparseCategoricalCrossentropy(),
     # metrics=["accuracy"],
     metrics=[
@@ -116,7 +116,7 @@ incorrect_indices = np.flatnonzero(predicted_labels != validation_labels)
 
 print(f"{len(incorrect_indices)} incorrect predictions out of {len(validation_labels)}")
 
-with open("validation_errors.jsonl", "w", encoding="utf-8") as f:
+with open("validation_errors-v2.jsonl", "w", encoding="utf-8") as f:
     for i in incorrect_indices:
         record = {
             "query": validation_queries[i],
@@ -127,7 +127,7 @@ with open("validation_errors.jsonl", "w", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 # run once you've finished selecting setting susing validation
-# classifier.evaluate(test_ds)
-#
-# classifier.save("pretrained_query_classifier.keras")
-# encoder.save("query_encoder")
+classifier.evaluate(test_ds)
+
+classifier.save("pretrained_query_classifier.keras")
+encoder.save("query_encoder")
